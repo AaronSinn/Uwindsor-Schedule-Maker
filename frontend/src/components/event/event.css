@@ -1,0 +1,37 @@
+.event{
+    width: 80%;
+    height: 100%;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    padding: 0px 3px 0px 3px;
+    border-radius: 7px;
+    border: 2px solid rgb(31, 124, 185);
+}
+
+.cancel{
+    position: absolute;
+    right: 5px;
+    font-weight: bold;
+    color:darkred;
+}
+
+.cancel:hover{
+    cursor: pointer;
+    color: crimson;
+    transition: 500ms;
+}
+
+.title{
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.buffer{
+    flex-grow: 1;
+}
+
+.location{
+    margin-top: 3px;
+}

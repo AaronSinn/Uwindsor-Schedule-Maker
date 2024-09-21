@@ -1,0 +1,14 @@
+.weekdays{
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    min-height: 3em;
+    text-align: center;
+}
+
+.short-text{
+    display: none;
+}
+
+.header{
+    grid-area: header;
+}

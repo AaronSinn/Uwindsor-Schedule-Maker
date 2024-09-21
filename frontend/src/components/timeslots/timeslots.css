@@ -1,0 +1,20 @@
+.timeslots {
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+    padding-right: 10px;
+}
+
+.timeslots li {
+    height: 80px;
+}
+
+/* line things */
+.timeslots li::after {
+    content: '';
+    position: absolute;
+    left: 15px;
+    width: 75%;
+    height: 1px;
+    background-color: #ccc;
+}
