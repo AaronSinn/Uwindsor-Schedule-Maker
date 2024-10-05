@@ -1,0 +1,6 @@
+Find class codes: \w{4}-\s*?\w{4}\w?
+    - finds 4 letters to start
+    - then a dash
+    - then any amount of optional spaces. This is necessary because of ARTX-   4XXX :/
+    - then 4 more letters followed by an option fifth letter for a class like COMP-4990A. They're not four numbers because of ARTX-   4XXX :/
+
