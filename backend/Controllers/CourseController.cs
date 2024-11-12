@@ -34,7 +34,14 @@ public class CourseController : ControllerBase
         .SingleOrDefault(course => course.Id == id);
     }
 
-
+    [HttpGet("GetAllCourseCodes")]
+    public IEnumerable<string> GetAllCourseCodes()
+    {
+        return _context.Courses
+        .Select(course => course.Code)
+        .ToList();
+    }
+    
     [HttpPost("CreateCourse")]
     public IActionResult CreateCourse(Course newCourse)
     {
