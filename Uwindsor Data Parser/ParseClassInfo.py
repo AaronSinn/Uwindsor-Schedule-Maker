@@ -19,8 +19,7 @@ for page in doc:
         course_title = course[1]
         section_details = course[2]
 
-        sectionRegex = re.compile(r"""((Section /d{1,2})\n3.00?\n([LECLAB])\n(\D*?)\n?(\d\d:\d\d \w\w)?\n?(\d\d:\d\d)?\s?\n?([PMAM]{2})?\n?
-                                  (\d\d\d\d)-\n(\d\d)-(\d\d)\n(\d\d\d\d)-\n(\d\d)-(\d\d))""")
+        sectionRegex = re.compile(r"Section (\d+) (Full)?\n?(\d.\d\d)?\n(\w+)\n?([A-Za-z]+)?\n?(\d\d:\d\d [APM]+)?\n?(\d\d:\d\d)?\s?\n?([APM]+)?\n(\d\d\d\d)-\n(\d\d-\d\d)\n(\d\d\d\d)-\n(\d\d-\d\d)")
         sections = sectionRegex.findall(section_details)
 
         for section in sections:
