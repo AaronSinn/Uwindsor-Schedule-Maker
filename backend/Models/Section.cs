@@ -13,6 +13,8 @@ public class Section
     public string StartTime { get; set; } = string.Empty; //SQLite can.t store DateTime
     public string EndTime { get; set; } = string.Empty; //SQLite can.t store DateTime
     public string Location { get; set; } = string.Empty;
+    public string Room { get; set; } = string.Empty;
+    public string Professor { get; set; } = string.Empty;
     [JsonIgnore]
     public Course? Course { get; set; } //Reference to the course the Lec/Lab is in. Null for custom events.
 }
