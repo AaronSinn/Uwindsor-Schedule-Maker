@@ -15,6 +15,13 @@ public class CourseController : ControllerBase
         _context = context;
     }
 
+    public class CourseTitleAndCode
+    {
+        public string name { get; set; }
+        public string code { get; set; }
+    }
+
+
     [HttpGet("GetAllCourses")]
     public IEnumerable<Course> GetAllCourses()
     {
@@ -52,6 +59,18 @@ public class CourseController : ControllerBase
         .ToList();
     }
 
+    [HttpGet("GetCourseDropdownValues")]
+    public IEnumerable<CourseTitleAndCode> GetCourseDropdownValues()
+    {
+        return _context.Courses
+            .Select(course => new CourseTitleAndCode
+            {
+                name = course.Code,
+                code = course.Code
+            })
+            .ToList();
+    }
+
     [HttpPost("CreateCourse")]
     public IActionResult CreateCourse(Course newCourse)
     {
@@ -76,7 +95,29 @@ public class CourseController : ControllerBase
             return NotFound("No courses found to delete.");
         }
 
+        // Get the count of courses to delete
+        var deletedCount = courses.Count;
+
         _context.Courses.RemoveRange(courses);
+        _context.SaveChanges();
+
+        return Ok(new { DeletedCourses = deletedCount });
+    }
+
+    [HttpDelete("DeleteCourseByCode")]
+    public IActionResult DeleteCourseByCode(string code)
+    {
+        var course = _context.Courses
+        .Where(course => course.Code == code)
+        .Include(course => course.Sections)
+        .AsNoTracking()
+        .ToList();
+
+        // Get the count of courses to delete
+        var deletedCount = course.Count;
+
+        // Multiple objects can be deleted because some course will have LAB and LEC sections stored in different objects
+        _context.Courses.RemoveRange(course);
         _context.SaveChanges();
 
         return NoContent();

@@ -2,7 +2,7 @@ import "./timeslots.css"
 
 export default function Timeslots(){
     return<>
-        <ul class="timeslots">
+        <ul className="timeslots">
             <li>8 AM</li>
             <li>9 AM</li>
             <li>10 AM</li>

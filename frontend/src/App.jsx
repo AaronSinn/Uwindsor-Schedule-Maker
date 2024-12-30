@@ -4,8 +4,10 @@ import Timeslots from './components/timeslots/timeslots.jsx'
 import Weekdays from './components/weekdays/weekdays.jsx'
 import Event from './components/event/event.jsx'
 import ClassForm from './components/class-form/class-form.jsx'
+import { GetAllCourses, GetCourseDropdownValues } from './api.jsx'
 
 export default function App() {
+
   return<>
     <Nav/>
     <div className="container"> 
@@ -24,9 +26,9 @@ export default function App() {
       </div>
       <div className='sidebar-container'>
         {/* Use grid-area to layout the side bar */}
-        <span><button>export to png</button></span>
-        <span><button>export to excel</button></span>
-        <ClassForm/>
+        {/* <span><button>export to png</button></span>
+        <span><button>export to excel</button></span> */}
+        <ClassForm GetAllCourses={GetAllCourses} GetCourseDropdownValues={GetCourseDropdownValues} />
       </div>
     </div>
   </>
