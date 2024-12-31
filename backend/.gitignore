@@ -3,3 +3,5 @@ obj/
 *.db
 *.db-wal
 *.db-shm
+
+*.sln
