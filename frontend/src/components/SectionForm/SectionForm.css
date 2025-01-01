@@ -1,0 +1,31 @@
+.course-and-section-form-container {
+    margin-top: 20px;
+    width: 100%;
+    /* background-color: rgb(0 0 0 / 0.1); */
+}
+
+.p-dropdown{
+    width: 90%;
+}
+
+.time-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+#time-input {
+    width: 80%;
+}
+
+#location-input {
+    width: 90%;
+}
+
+#days-input {
+    width: 90%;
+}
+
+#add-course-button {
+    margin-top: 15px;
+    width: 10em;
+}

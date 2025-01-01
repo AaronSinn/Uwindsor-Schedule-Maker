@@ -1,4 +1,4 @@
-import './class-form.css';
+import './ClassForm.css';
 import { Dropdown } from 'primereact/dropdown';
 import { useState, useEffect } from 'react';
 
@@ -25,7 +25,7 @@ export default function ClassForm({ GetAllCourses, GetCourseDropdownValues }) {
 
     return (
         <div className="class-form-container">
-            <h3>Add Class</h3>
+            <h2>Add Class</h2>
             {loading ? (
                 <p>Loading courses...</p> // Show a loading message while fetching
             ) : (

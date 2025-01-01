@@ -1,6 +1,7 @@
-import './event.css'
+import './Event.css'
 
-export default function Event({title, startTime, endTime, location, day, bgColour}){
+// export default function Event({title, startTime, endTime, location, day, bgColour}){
+export default function Event({event}){
     
     return<>
         <div className='event' style={{backgroundColor: bgColour, gridColumn: day, gridRowStart: startTime, gridRowEnd:endTime}}>

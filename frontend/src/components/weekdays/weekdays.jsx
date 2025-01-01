@@ -1,4 +1,4 @@
-import "./weekdays.css"
+import "./Weekdays.css"
 
 export default function Weekdays(){
     return<>

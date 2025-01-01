@@ -1,4 +1,4 @@
-import "./timeslots.css"
+import "./Timeslots.css"
 
 export default function Timeslots(){
     return<>
