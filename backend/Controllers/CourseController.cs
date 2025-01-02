@@ -21,7 +21,6 @@ public class CourseController : ControllerBase
         public string code { get; set; }
     }
 
-
     [HttpGet("GetAllCourses")]
     public IEnumerable<Course> GetAllCourses()
     {

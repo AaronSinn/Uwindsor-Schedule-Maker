@@ -7,7 +7,7 @@ import ClassForm from './components/ClassForm/ClassForm.jsx'
 import SectionForm from './components/SectionForm/SectionForm.jsx'
 import CustomEventForm from './components/CustomEventForm/CustomEventForm.jsx'
 import EventList from './components/EventList/EventList.jsx'
-import { GetAllCourses, GetCourseDropdownValues } from './api.jsx'
+import { GetAllCourses, GetCourseDropdownValues, GetSectionDataByCourseCode } from './api.jsx'
 import { useState, useRef } from 'react'
 import { Toast } from 'primereact/toast';
 
@@ -59,7 +59,7 @@ export default function App() {
     // Calculate the grid row start (1 row for every 5 minutes)
     return Math.floor(totalMinutes / 5) + 1;
   }
-
+  console.log(GetSectionDataByCourseCode('COMP-2120'));
   return<>
     <Toast ref={toastTopRight} position="top-right" />
     <Nav/>
@@ -82,7 +82,7 @@ export default function App() {
         {/* Use grid-area to layout the side bar */}
         {/* <span><button>export to png</button></span>
         <span><button>export to excel</button></span> */}
-        <ClassForm GetAllCourses={GetAllCourses} GetCourseDropdownValues={GetCourseDropdownValues} />
+        <ClassForm GetAllCourses={GetAllCourses} GetCourseDropdownValues={GetCourseDropdownValues} GetSectionDataByCourseCode={GetSectionDataByCourseCode}/>
         <SectionForm/>
         <CustomEventForm addEvent={addEvent} formatTimeString={formatTimeString} getGridRowStartOrEnd={getGridRowStartOrEnd} sendErrorMessage={sendErrorMessage}/>
       </div>

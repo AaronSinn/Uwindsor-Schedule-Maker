@@ -16,6 +16,7 @@ export default function SectionForm({}) {
     const [endTime, setEndTime] = useState(null);
     const [bgColour, setBgColour] = useState("#87CEEB") // Default colour is skyblue
     const [selectedDays, setSelectedDays] = useState(undefined);
+    const [dialogVisible, setDialogVisible] = useState(false); // determines if the table modal is visible
     const days = [
         { name: 'Monday', code: '1' },
         { name: 'Tuesday', code: '2' },
