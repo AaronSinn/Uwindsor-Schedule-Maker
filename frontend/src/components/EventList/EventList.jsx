@@ -4,17 +4,29 @@ import { v4 as uuidv4 } from "uuid"
 
 export default function EventList({events}){
     
-    return(
+    return (
         <>
-            { events.length > 0 ? (
-                <ul>
-                    {events.map((event) => (
-                        <Event key={uuidv4()} event={event}/>
-                    ))}
-                </ul>
+            {events.length > 0 ? (
+                <>
+                    {events.map(event => 
+                        event.days.map(day => (
+                            <Event 
+                                key={uuidv4()} 
+                                title={event.title} 
+                                startRow={event.startRow} 
+                                endRow={event.endRow} 
+                                duration={event.duration} 
+                                location={event.location} 
+                                day={day.code} 
+                                bgColour={event.bgColour} 
+                            />
+                        ))
+                    )}
+                </>
             ) : (
-                <p>No events available. Click "Add Event" to create one!</p>
+                <></>
             )}
         </>
-    )
+    );
+    
 }

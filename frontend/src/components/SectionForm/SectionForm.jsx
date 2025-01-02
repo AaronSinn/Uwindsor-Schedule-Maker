@@ -6,19 +6,22 @@ import { Button } from 'primereact/button';
 import { Calendar } from "primereact/calendar";
 import { ColorPicker } from 'primereact/colorpicker';
 import { MultiSelect } from 'primereact/multiselect';    
+import { DataTable } from 'primereact/datatable';
+import { Column } from 'primereact/column';
+import { Dialog } from 'primereact/dialog';
 
 export default function SectionForm({}) {
-    const [disabeled, setDisabled] = useState(true);
+    const [disabled, setDisabled] = useState(true);
     const [startTime, setStartTime] = useState(null);
     const [endTime, setEndTime] = useState(null);
     const [bgColour, setBgColour] = useState("#87CEEB") // Default colour is skyblue
     const [selectedDays, setSelectedDays] = useState(undefined);
     const days = [
-        { name: 'Monday', code: 'M' },
-        { name: 'Tuesday', code: 'T' },
-        { name: 'Wednesday', code: 'W' },
-        { name: 'Thursday', code: 'TH' },
-        { name: 'Friday', code: 'F' }
+        { name: 'Monday', code: '1' },
+        { name: 'Tuesday', code: '2' },
+        { name: 'Wednesday', code: '3' },
+        { name: 'Thursday', code: '4' },
+        { name: 'Friday', code: '5' }
     ];
 
     const minTime = new Date();
@@ -30,7 +33,8 @@ export default function SectionForm({}) {
     return(
         <div className='course-and-section-form-container'>
             <h2>Add Section</h2>
-            <Dropdown placeholder='Select a Section' disabled={disabeled}/>
+            {/* A modal table will pop up when clicked with the section information for the course. There will be an add column with a button to add the section. */}
+            <Button id='section-button' label='Select a LEC/LAB section' severity="info" disabled={disabled}/>
 
             <div className='time-container'>
                 <div>
@@ -44,7 +48,7 @@ export default function SectionForm({}) {
                     stepMinute={5}  // Restrict selection to multiples of 5 minutes
                     minDate={minTime} // Start of selectable range
                     maxDate={maxTime} // End of selectable range
-                    disabled={disabeled}
+                    disabled={disabled}
                     />
                 </div>
                 <div>
@@ -58,18 +62,18 @@ export default function SectionForm({}) {
                     stepMinute={5}  // Restrict selection to multiples of 5 minutes
                     minDate={minTime} // Start of selectable range
                     maxDate={maxTime} // End of selectable range
-                    disabled={disabeled}
+                    disabled={disabled}
                     />
                 </div>
             </div>
 
             <h3>Days</h3>
-                <MultiSelect id="days-input" options={days} optionLabel="name" value={selectedDays} onChange={(e) => setSelectedDays(e.value)}/>
+                <MultiSelect id="days-input" options={days} optionLabel="name" value={selectedDays} onChange={(e) => setSelectedDays(e.value)} disabled={disabled}/>
             <div></div>
 
             <div>
                 <h3>Location</h3>
-                <InputText id="location-input" disabled={disabeled}/>
+                <InputText id="location-input" disabled={disabled}/>
             </div>
 
             <div className='colour-picker-container'>
@@ -77,7 +81,7 @@ export default function SectionForm({}) {
                 <ColorPicker format="hex" value={bgColour} onChange={(e) => setBgColour('#' + e.value)} />
             </div>
 
-            <Button id="add-course-button" label="Add Course" severity="info" raised disabled={disabeled}/>
+            <Button id="add-course-button" label="Add Course" severity="info" raised disabled={disabled}/>
         </div>
     )
 }

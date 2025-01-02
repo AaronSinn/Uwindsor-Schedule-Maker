@@ -4,6 +4,10 @@
     /* background-color: rgb(0 0 0 / 0.1); */
 }
 
+#section-button {
+    width: 90%;
+}
+
 .p-dropdown{
     width: 90%;
 }
