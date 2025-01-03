@@ -13,11 +13,7 @@ pip3 install requests
 ```
 ## Setting up the Backend
 
-Install the following NuGet packages and EF Core Tools
-
-```bash
-cd Backend
-```
+Install the following NuGet packages and EF Core Tools in the `Backend` folder
 
 ```bash
 dotnet add package Microsoft.EntityFrameworkCore.Sqlite
