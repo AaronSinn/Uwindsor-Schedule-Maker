@@ -94,7 +94,7 @@ export default function App() {
     if(days.includes('TH')){
       daysObject = [...daysObject, {name: 'Thursday', code: '4'}];
     }
-    if(days.includes('5')){
+    if(days.includes('F')){
       daysObject = [...daysObject, {name: 'Friday', code: '5'}];
     }
 
