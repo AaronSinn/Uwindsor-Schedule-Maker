@@ -7,7 +7,7 @@ export default function Nav(){
         <nav className="nav-container">
             <div className="logo-and-title">
                 <img src={logo} alt="Logo" id="logo"/>
-                <h1 id="title">Uwindsor Schedule Maker - Fall 2024</h1>
+                <h1 id="title">Uwindsor Schedule Maker - Winter 2025</h1>
             </div>
 
             <div className="links">
