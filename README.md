@@ -1,6 +1,8 @@
 # Uwindsor-Schedule-Maker
 React app where users can create their weekly timetable for every class at the University of Windsor.
 
+![Home Page](/Screenshots/screenshot.png)
+
 ## Setup and Installation
 Ensure that you have the lastest version of Python, .NET 8.0 SDK., and Node.js installed.
 
