@@ -7,10 +7,6 @@ Ensure that you have the lastest version of Python, .NET 8.0 SDK., and Node.js i
 ```bash
 git clone <repo-url>
 ```
-
-```bash
-pip3 install requests
-```
 ## Setting up the Backend
 
 Install the following NuGet packages and EF Core Tools in the `Backend` folder
@@ -39,6 +35,10 @@ By default the Backend is hosted on `http://localhost:5150`
 Move into Uwindsor Data Parser Directory
 ```bash
 cd Uwindsor Data Parser
+```
+Install the requests module
+```bash
+pip3 install requests
 ```
 
 When you run the parser, POST requests will seed the databse.
