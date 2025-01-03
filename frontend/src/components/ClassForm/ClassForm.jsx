@@ -2,7 +2,7 @@ import './ClassForm.css';
 import { Dropdown } from 'primereact/dropdown';
 import { useState, useEffect } from 'react';
 
-export default function ClassForm({ GetAllCourses, GetCourseDropdownValues }) {
+export default function ClassForm({ GetCourseDropdownValues, setCourse, setCourseSelectedState }) {
     const [selectedCourse, setSelectedCourse] = useState('');
     const [coursesDropdownValues, setCoursesDropdownValues] = useState([]); // State to hold dropdown values
     const [loading, setLoading] = useState(true); // State to track loading status
@@ -16,7 +16,7 @@ export default function ClassForm({ GetAllCourses, GetCourseDropdownValues }) {
                 console.error('Failed to fetch dropdown values:', error);
             } finally {
                 //console.log(coursesDropdownValues);
-                setLoading(false); // Set loading to false regardless of success or error
+                setLoading(false);
             }
         };
 
@@ -33,7 +33,7 @@ export default function ClassForm({ GetAllCourses, GetCourseDropdownValues }) {
                     loading={loading}
                     value={selectedCourse}
                     options={coursesDropdownValues}
-                    onChange={(e) => setSelectedCourse(e.value)}
+                    onChange={(e) => {setSelectedCourse(e.value); setCourse(e.target.value.code); setCourseSelectedState(true)}}
                     optionLabel="name"
                     placeholder="Select a Course"
                     filter

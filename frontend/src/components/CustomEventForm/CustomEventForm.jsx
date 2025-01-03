@@ -5,10 +5,17 @@ import { InputText } from 'primereact/inputtext'
 import { Button } from 'primereact/button';
 import { ColorPicker } from 'primereact/colorpicker';
 import { MultiSelect } from 'primereact/multiselect';
+import { v4 as uuidv4 } from "uuid"
         
 export default function CustomEventForm({addEvent, formatTimeString, getGridRowStartOrEnd, sendErrorMessage}){
-    const [startTime, setStartTime] = useState(null);
-    const [endTime, setEndTime] = useState(null);
+    const defaultStartTime = new Date();
+    defaultStartTime.setHours(9, 0, 0, 0);
+
+    const defaultEndTime = new Date();
+    defaultEndTime.setHours(10, 0, 0, 0);
+    
+    const [startTime, setStartTime] = useState(defaultStartTime);
+    const [endTime, setEndTime] = useState(defaultEndTime);
     const [title, setTitle] = useState('');
     const [location, setLocation] = useState('');
     const [bgColour, setBgColour] = useState("#87CEEB") // Default colour is skyblue
@@ -44,6 +51,7 @@ export default function CustomEventForm({addEvent, formatTimeString, getGridRowS
             return;
         }
         addEvent(
+                uuidv4(),
                 title, 
                 getGridRowStartOrEnd(startTime), 
                 getGridRowStartOrEnd(endTime), 

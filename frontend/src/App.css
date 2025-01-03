@@ -28,8 +28,10 @@ li{
     list-style: none;
 }
 
-.container{
+.container {
     display: flex;
+    flex-direction: row;
+    align-items: flex-start;
 }
 
 .sidebar-container{
@@ -65,44 +67,3 @@ li{
     justify-items: center;
     max-height: 1120px;
 }
-
-
-@media print{
-    @page {
-        size: auto;
-        margin: 0; 
-      }
-
-    .nav-container * {
-        display: none;
-    }
-
-    .slot{
-        -webkit-print-color-adjust: exact;
-        print-color-adjust: exact;
-    }
-    .grid-container{
-        margin: 0;
-    }
-}
-
-@media only screen and (max-width: 1200px){
-    .slot{
-        min-width: 7vw;
-    }
-}
-
-/* @media only screen and (max-width: 1000px){
-    .grid-container{
-        min-width: 100vw;
-    }
-    .full-text{
-        display: none;
-    }
-    .short-text{
-        display: block;
-    }
-    .slot span:nth-child(2){
-        display: none;
-    }
-} */

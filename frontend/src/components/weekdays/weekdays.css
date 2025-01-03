@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
 .weekdays{
     display: grid;
     grid-template-columns: repeat(5, 1fr);
@@ -5,10 +7,10 @@
     text-align: center;
 }
 
-.short-text{
-    display: none;
+.weekdays > li {
+    font-family: 'Rubik', 'Montserrat';
 }
 
-.header{
+.weekdays-header{
     grid-area: header;
 }
