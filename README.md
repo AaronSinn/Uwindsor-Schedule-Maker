@@ -37,8 +37,8 @@ dotnet watch run
 ```
 
 ## Parsing the Data and Seeding the Database
-Change the URL in 'ParseClassInfo.py' depending on the Port the backend is running on.
-By default the Backend is hosted on 'http://localhost:5150'
+Change the URL in `ParseClassInfo.py` depending on the Port the backend is running on.
+By default the Backend is hosted on `http://localhost:5150`
 
 Move into Uwindsor Data Parser Directory
 ```bash
@@ -67,6 +67,4 @@ npm run dev
 ```
 
 Go To:
-```bash
-http://localhost:5173/
-```
+`http://localhost:5173/`
