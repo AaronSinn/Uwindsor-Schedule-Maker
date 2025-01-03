@@ -6,7 +6,7 @@ HEADERS = {
     "Content-Type": "application/json"
 }
 
-doc = fitz.open("PDFs/fall_2024_ugrd_timetable.pdf")
+doc = fitz.open("PDFs/winter_2025_ugrd_timetable.pdf")
 errorFile = open("errorFile.txt", "w+")
 
 for page in doc:
