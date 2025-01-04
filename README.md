@@ -1,4 +1,4 @@
-# Uwindsor-Schedule-Maker[https://uwindsor-schedule-maker-cjg6eqcccyd9edeh.canadacentral-01.azurewebsites.net/]
+[# Uwindsor-Schedule-Maker](https://uwindsor-schedule-maker-cjg6eqcccyd9edeh.canadacentral-01.azurewebsites.net/)
 React app where users can create their weekly timetable for every class at the University of Windsor.
 
 ![screenshot](https://github.com/user-attachments/assets/d4fb22fd-2a53-409f-8ac9-d449bb01f0a7)
