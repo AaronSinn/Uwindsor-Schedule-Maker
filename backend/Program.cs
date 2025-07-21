@@ -20,18 +20,23 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseCors(x => x
+     .AllowAnyOrigin()
      .AllowAnyMethod()
      .AllowAnyHeader()
-     .AllowCredentials()
-     .WithOrigins("https://localhost:5150")
+     .WithOrigins("https://localhost:5150", "https://uwindsor-schedule-maker-cjg6eqcccyd9edeh.canadacentral-01.azurewebsites.net")
      .SetIsOriginAllowed(origin => true));
 
+app.UseCors("AllowSpecificOrigins");
 
 app.UseAuthorization();
 app.MapControllers();
 app.UseHttpsRedirection();
 
 // Add the CreateDbIfNotExists method call
-app.CreateDbIfNotExists();
+// Uncomment if you dont have a db
+//app.CreateDbIfNotExists();
+
+app.UseStaticFiles();
+app.MapFallbackToFile("index.html");
 
 app.Run();

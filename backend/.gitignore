@@ -4,3 +4,7 @@ obj/
 *.db-shm
 
 *.sln
+wwwroot/
+publish/
+Properties/
+backend.csproj.user

@@ -25,3 +25,8 @@ dist-ssr
 
 # Enviroment Variables
 .env.*
+
+# Build folder for frontend
+dist/
+
+# Build folder for backend
