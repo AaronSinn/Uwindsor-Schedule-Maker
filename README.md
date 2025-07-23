@@ -43,6 +43,10 @@ Install the requests module
 ```bash
 pip3 install requests
 ```
+Create the Text file for the parser to work with
+```bash
+py createCoursesFile.py
+```
 
 When you run the parser, POST requests will seed the databse.
 ```bash
