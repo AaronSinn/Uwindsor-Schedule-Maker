@@ -1,12 +1,12 @@
 import fitz, re, requests
 
 IS_PROF_AND_ROOM_STATED = False
-URL= 'http://localhost:5150/api/Course/CreateCourse'
+DELETE_URL = 'http://localhost:5150/api/Course/DeleteAllCourses'
+POST_URL= 'http://localhost:5150/api/Course/CreateCourse'
 HEADERS = {
     "Content-Type": "application/json"
 }
 
-# doc = fitz.open("PDFs/winter_2025_ugrd_timetable.pdf")
 errorFile = open("errorFile.txt", "w+")
 
 with open('./coursesFile.txt', 'r') as file:
@@ -14,6 +14,9 @@ with open('./coursesFile.txt', 'r') as file:
 
 courseRegex = re.compile(r"(\w{4}-\s*?\w{4}\w?) \(-\)\n(.*)\n(Section \d{1,2} [\s\S]*?)(?=\n\w{4}-\s*?\w{4}\w?|$)")
 courses = courseRegex.findall(text)
+
+#Deletes all of the current courses to make room for the new ones - TODO: maybe keep the old ones in the db instead, give the current courses a X202X code, frontend only uses course with X202X code?
+delete_response = requests.delete(DELETE_URL)
 
 for course in courses:
     print(course, '\n')
@@ -73,11 +76,11 @@ for course in courses:
 
     print(course, '\n\n')
 
-    response = requests.post(URL, json=course, headers=HEADERS)
+    post_response = requests.post(POST_URL, json=course, headers=HEADERS)
 
-    if response.status_code == 200:
+    if post_response.status_code == 200:
         print("Request was successful!")
-        print(response.json())  # if the response is JSON
+        print(post_response.json())  # if the response is JSON
     else:
-        errorFile.write(f"Error: {response.status_code}")
-        errorFile.write(response.text)
+        errorFile.write(f"Error: {post_response.status_code}")
+        errorFile.write(post_response.text)
