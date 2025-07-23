@@ -43,7 +43,7 @@ Install the requests module
 ```bash
 pip3 install requests
 ```
-Create the Text file for the parser to work with
+Create the Text file for the parser to work with - Modify any information regarding the PDF if necessary
 ```bash
 py createCoursesFile.py
 ```
