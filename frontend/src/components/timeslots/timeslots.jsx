@@ -7,7 +7,7 @@ export default function Timeslots(){
             <li>9 AM</li>
             <li>10 AM</li>
             <li>11 AM</li>
-            <li>12 AM</li>
+            <li>12 PM</li>
             <li>1 PM</li>
             <li>2 PM</li>
             <li>3 PM</li>
