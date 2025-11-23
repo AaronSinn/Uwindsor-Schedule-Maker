@@ -10,6 +10,8 @@ import EventList from './components/EventList/EventList.jsx'
 import { GetAllCourses, GetCourseDropdownValues, GetSectionDataByCourseCode } from './api.jsx'
 import { useState, useRef } from 'react'
 import { Toast } from 'primereact/toast';
+import { Button } from 'primereact/button'
+import html2canvas from "html2canvas"
 
 export default function App() {
   const [events, setEvents] = useState([]);
@@ -127,7 +129,21 @@ export default function App() {
     );
 
     return date;
-}
+  }
+
+  const downloadSchedule = () => {
+    const timetable = document.getElementById("grid-container");
+
+    html2canvas(timetable, {
+        scale: 2,          // Higher resolution
+        backgroundColor: null // Keeps transparency if needed
+    }).then(canvas => {
+        const link = document.createElement("a");
+        link.download = "timetable.png";
+        link.href = canvas.toDataURL("image/png");
+        link.click();
+    });
+  }
 
   return<>
     <Toast ref={toastTopRight} position="top-right" />
@@ -147,8 +163,11 @@ export default function App() {
           <Event title={"comp-2200"} startRow={20} endRow={30} duration={'10:00 am-11:00 am'} location={"Toldo 102"} day={3} bgColour={"#87CEEB"}/> */}
         </div>
       </div>
-      
       <div className='sidebar-container'>
+        <div class="image-download-container">
+          <Button id="download-image-button" label="Download Schedule as PNG 📷" severity="info" raised onClick={e => {downloadSchedule()}}/>
+        </div>
+
         <ClassForm GetCourseDropdownValues={GetCourseDropdownValues} setCourse={setCourse} setCourseSelectedState={setCourseSelectedState}/>
         <SectionForm addEvent={addEvent} 
                       formatTimeString={formatTimeString} 
