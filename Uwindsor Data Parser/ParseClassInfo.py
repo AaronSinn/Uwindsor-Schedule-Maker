@@ -8,6 +8,7 @@ HEADERS = {
 }
 
 errorFile = open("errorFile.txt", "w+")
+postFile = open("postFile.txt", "w+")
 
 with open('./coursesFile.txt', 'r') as file:
     text = file.read()
@@ -81,6 +82,8 @@ for course in courses:
     if post_response.status_code == 200:
         print("Request was successful!")
         print(post_response.json())  # if the response is JSON
+
+        postFile.write(str(course) + "\n\n")
     else:
         errorFile.write(f"Error: {post_response.status_code}")
         errorFile.write(post_response.text)

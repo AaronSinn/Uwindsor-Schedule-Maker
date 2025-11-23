@@ -67,7 +67,7 @@ public class CourseController : ControllerBase
                 name = course.Code,
                 code = course.Code
             })
-            .ToList();
+            .Distinct().ToList();
     }
 
     [HttpPost("CreateCourse")]

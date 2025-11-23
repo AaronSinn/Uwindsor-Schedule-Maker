@@ -1,12 +1,12 @@
 import fitz
 
-timetable = fitz.open("PDFs/fall_2025_ugrd_timetable.pdf")
+timetable = fitz.open("PDFs/winter_2026_ugrd_timetable.pdf")
 
 #lines in the PDF that are irelevant and give the parser trouble
 linesToDelete = [
-    "Winter 2025 Course Offerings\n",
-    "Monday, December 16, 2024\n",
-    "02:30:18 AM\n",
+    "Winter 2026 Course Offerings\n",
+    "Monday, November 17, 2025\n",
+    "02:33:32 AM\n",
     "Course Section\n",
     "Credits\n",
     "Act\n",
