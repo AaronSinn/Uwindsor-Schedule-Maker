@@ -24,7 +24,8 @@ dist-ssr
 *.sw?
 
 # Enviroment Variables
-.env.*
+.env.development
+.env.production
 
 # Build folder for frontend
 dist/
