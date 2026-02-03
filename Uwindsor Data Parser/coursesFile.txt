@@ -12,6 +12,8 @@ examination day. The determination of which examination shall be rescheduled and
 form from http://www.uwindsor.ca/registrar and submit to the Office of the Registrar.
 Note: These applications must be submitted by the end of the fourth week of classes (second week of classes for 6 week
 courses).
+Monday, January 5, 2026
+02:32:57 AM
 Arts, Humanities, Soc Science
 Arts, Humanities, Soc Science
 ARSC-3010 (-)
@@ -36,14 +38,30 @@ LEC
 01-05
 2026-
 04-06
+ARTX-   4XXX (-)
+International Exchange
+Section 28 Full
+15.00
+LEC
+2026-
+01-05
+2026-
+04-06
+Section 29 
+12.00
+LEC
+2026-
+01-05
+2026-
+04-06
 CAVL-1970B (-)
 Prac: Prof Devt Pilot Training
-Section 1 
+Section 1 Full
 3.00
 LEC
 M
-05:30 PM
-08:20 
+06:00 PM
+08:50 
 PM
 2026-
 01-05
@@ -52,8 +70,9 @@ PM
 Section 2 
 3.00
 LEC
-05:30 PM
-08:20 
+W
+06:00 PM
+08:50 
 PM
 2026-
 01-05
@@ -92,7 +111,16 @@ LEC
 04-06
 GART-1210 (-)
 An Intro to Indigenous Topics
-Section 91 
+Section 91 Full
+3.00
+LEC
+2026-
+01-05
+2026-
+04-06
+Monday, January 5, 2026
+02:32:57 AM
+Section 92 Full
 3.00
 LEC
 2026-
@@ -101,7 +129,7 @@ LEC
 04-06
 LING-2210 (-)
 Language and Linguistics
-Section 1 
+Section 1 Full
 3.00
 LEC
 TTH
@@ -134,6 +162,13 @@ LEC
 01-05
 2026-
 04-06
+Section 92 Full
+3.00
+LEC
+2026-
+01-05
+2026-
+04-06
 SOSC-2500 (-)
 Basic Quantitative Methods
 Section 1 
@@ -147,7 +182,7 @@ PM
 01-05
 2026-
 04-06
-Section 2 
+Section 2 Full
 3.00
 LEC
 W
@@ -160,7 +195,7 @@ PM
 04-06
 SOSC-2500 (-)
 Laboratory
-Section 51 
+Section 51 Full
 3.00
 LAB
 T
@@ -171,7 +206,7 @@ PM
 01-05
 2026-
 04-06
-Section 52 
+Section 52 Full
 3.00
 LAB
 T
@@ -215,7 +250,7 @@ PM
 01-05
 2026-
 04-06
-Section 56 
+Section 56 Full
 3.00
 LAB
 W
@@ -226,7 +261,7 @@ PM
 01-05
 2026-
 04-06
-Section 57 
+Section 57 Full
 3.00
 LAB
 W
@@ -237,7 +272,7 @@ PM
 01-05
 2026-
 04-06
-Section 58 
+Section 58 Full
 3.00
 LAB
 M
@@ -248,7 +283,7 @@ PM
 01-05
 2026-
 04-06
-Section 59 
+Section 59 Full
 3.00
 LAB
 M
@@ -259,7 +294,7 @@ PM
 01-05
 2026-
 04-06
-Section 60 
+Section 60 Full
 3.00
 LAB
 M
@@ -299,7 +334,7 @@ PM
 Communication, Media, Film
 CMAF-2010 (-)
 New Media Studies
-Section 1 
+Section 1 Full
 3.00
 LEC
 MW
@@ -310,9 +345,11 @@ AM
 01-05
 2026-
 04-06
+Monday, January 5, 2026
+02:32:57 AM
 CMAF-2410 (-)
 Cinema History II (Post-War)
-Section 1 
+Section 1 Full
 3.00
 LEC
 TTH
@@ -325,7 +362,7 @@ AM
 04-06
 CMAF-2610 (-)
 Public Relns, Media & Society
-Section 1 
+Section 1 Full
 3.00
 LEC
 W
@@ -338,7 +375,7 @@ PM
 04-06
 CMAF-2700 (-)
 Spkg Truth to Pwr:Voice&Activm
-Section 1 
+Section 1 Full
 3.00
 LEC
 TTH
@@ -351,7 +388,7 @@ PM
 04-06
 CMAF-2750 (-)
 Theories-Communication & Media
-Section 1 
+Section 1 Full
 3.00
 LEC
 T
@@ -364,7 +401,7 @@ PM
 04-06
 CMAF-3020 (-)
 Popular Culture
-Section 1 
+Section 1 Full
 3.00
 LEC
 M
@@ -494,6 +531,8 @@ PM
 01-05
 2026-
 04-06
+Monday, January 5, 2026
+02:32:57 AM
 FILM-2100 (-)
 Film Production III
 Section 1 
@@ -607,7 +646,7 @@ AM
 04-06
 MACS-2500 (-)
 Stories of the City
-Section 1 
+Section 1 Full
 3.00
 LEC
 W
@@ -637,8 +676,8 @@ Section 1
 3.00
 LEC
 MW
-09:30 AM
-11:20 
+10:00 AM
+11:00 
 AM
 2026-
 01-05
@@ -670,6 +709,8 @@ AM
 01-05
 2026-
 04-06
+Monday, January 5, 2026
+02:32:57 AM
 MUSC-4260 (-)
 St: Twentieth Century Music
 Section 1 
@@ -829,6 +870,8 @@ PR1
 01-05
 2026-
 04-06
+Monday, January 5, 2026
+02:32:57 AM
 Section 52 
 PR2
 2026-
@@ -984,6 +1027,8 @@ PR2
 04-06
 MUSP-2630 (-)
 Violin: Perf Instruction
+Monday, January 5, 2026
+02:32:57 AM
 Section 1 
 3.00
 LEC
@@ -1145,6 +1190,8 @@ PR1
 01-05
 2026-
 04-06
+Monday, January 5, 2026
+02:32:57 AM
 Section 52 
 PR2
 2026-
@@ -1238,7 +1285,7 @@ LEC
 04-06
 VABE-1200 (-)
 Architectural Design II
-Section 1 
+Section 1 Full
 6.00
 LEC
 TTH
@@ -1251,7 +1298,7 @@ PM
 04-06
 VABE-1200 (-)
 Laboratory
-Section 51 
+Section 51 Full
 LAB
 TTH
 11:30 AM
@@ -1263,7 +1310,7 @@ PM
 04-06
 VABE-1290 (-)
 Intro to Architecture II
-Section 1 
+Section 1 Full
 1.50
 LEC
 MW
@@ -1298,6 +1345,8 @@ PM
 01-05
 2026-
 04-06
+Monday, January 5, 2026
+02:32:57 AM
 VABE-2130 (-)
 Princ: Structural Behaviour
 Section 1 
@@ -1305,7 +1354,7 @@ Section 1
 LEC
 W
 06:00 PM
-09:50 
+08:50 
 PM
 2026-
 01-05
@@ -1329,10 +1378,6 @@ Building Structures II
 Section 1 
 1.00
 LEC
-TTH
-02:00 PM
-03:15 
-PM
 2026-
 02-23
 2026-
@@ -1342,10 +1387,6 @@ Building Environment II
 Section 1 
 1.00
 LEC
-TTH
-02:00 PM
-03:15 
-PM
 2026-
 02-23
 2026-
@@ -1355,10 +1396,6 @@ Building Construction II
 Section 1 
 1.00
 LEC
-TTH
-02:00 PM
-03:15 
-PM
 2026-
 02-23
 2026-
@@ -1386,7 +1423,7 @@ PM
 04-06
 VSAR-1060 (-)
 Studio Practice & Ideas /Image
-Section 1 
+Section 1 Full
 3.00
 LEC
 TH
@@ -1399,7 +1436,7 @@ PM
 04-06
 VSAR-1070 (-)
 Studio Practice &Ideas/Drawing
-Section 1 
+Section 1 Full
 3.00
 LEC
 M
@@ -1412,12 +1449,20 @@ PM
 04-06
 VSAR-2030 (-)
 Introductory Drawing
-Section 1 
+Section 2 
 3.00
 LEC
-T
-02:30 PM
-05:20 
+TH
+07:00 PM
+09:50 
+PM
+2026-
+01-05
+2026-
+04-06
+TH
+07:00 PM
+09:50 
 PM
 2026-
 01-05
@@ -1425,7 +1470,7 @@ PM
 04-06
 VSAR-2130 (-)
 Introductory Painting
-Section 1 
+Section 1 Full
 3.00
 LEC
 F
@@ -1438,7 +1483,7 @@ AM
 04-06
 VSAR-2330 (-)
 Introductory Sculpture
-Section 1 
+Section 1 Full
 3.00
 LEC
 F
@@ -1464,7 +1509,7 @@ PM
 04-06
 VSAR-3830 (-)
 Intermedia Practices-Processes
-Section 1 
+Section 1 Full
 3.00
 LEC
 W
@@ -1483,9 +1528,11 @@ PM
 01-05
 2026-
 04-06
+Monday, January 5, 2026
+02:32:57 AM
 VSAR-3860 (-)
 Bioart: Contemp Art & Life Sci
-Section 1 
+Section 1 Full
 3.00
 LEC
 M
@@ -1498,7 +1545,7 @@ PM
 04-06
 VSAR-3900 (-)
 Collage and Intermedia
-Section 1 
+Section 1 Full
 3.00
 LEC
 W
@@ -1511,7 +1558,7 @@ PM
 04-06
 VSAR-3900 (-)
 Curation
-Section 2 
+Section 2 Full
 3.00
 LEC
 TH
@@ -1538,7 +1585,7 @@ PM
 Dramatic Arts
 DRAM-2100 (-)
 Speech Communication to Inform
-Section 1 
+Section 1 Full
 3.00
 LEC
 T
@@ -1577,7 +1624,7 @@ PM
 04-06
 DRAM-2250 (-)
 Introductory Acting
-Section 1 
+Section 1 Full
 3.00
 LEC
 MW
@@ -1590,7 +1637,7 @@ AM
 04-06
 DRAM-2700 (-)
 Spkg Truth to Pwr:Voice&Activm
-Section 1 
+Section 1 Full
 3.00
 LEC
 TTH
@@ -1603,20 +1650,20 @@ PM
 04-06
 DRAM-2770 (-)
 Improvisation & Self Dev
-Section 1 
+Section 1 Full
 3.00
 LEC
 F
-09:00 AM
-11:50 
-AM
+10:00 AM
+01:00 
+PM
 2026-
 01-05
 2026-
 04-06
 DRAM-3190 (-)
 Studies in Design
-Section 1 
+Section 1 Full
 3.00
 LEC
 F
@@ -1629,10 +1676,10 @@ PM
 04-06
 DRAM-3220 (-)
 Acting/Camera Work in Prog II
-Section 1 
+Section 1 Full
 3.00
 LEC
-MWTH
+MTWTH
 01:00 PM
 03:50 
 PM
@@ -1651,6 +1698,8 @@ LEC
 04-06
 DRAM-3520 (-)
 Production Problems
+Monday, January 5, 2026
+02:32:57 AM
 Section 1 
 3.00
 LEC
@@ -1705,6 +1754,15 @@ PM
 01-05
 2026-
 04-06
+DRAM-3980 (-)
+Intership I: Arts Mgmt Cert
+Section 1 
+3.00
+LEC
+2026-
+01-05
+2026-
+04-06
 DRAM-4490 (-)
 Directed Studies in Direction
 Section 1 
@@ -1729,7 +1787,7 @@ PM
 04-06
 DRAM-4700 (-)
 Theatre for Young Audiences
-Section 1 
+Section 1 Full
 3.00
 LEC
 TH
@@ -1769,21 +1827,21 @@ AM
 04-06
 ENGL-1010 (-)
 Academic Writing
-Section 1 
+Section 1 Full
 3.00
 LEC
 2026-
 01-05
 2026-
 04-06
-Section 2 
+Section 2 Full
 3.00
 LEC
 2026-
 01-05
 2026-
 04-06
-Section 3 
+Section 3 Full
 3.00
 LEC
 2026-
@@ -1792,7 +1850,9 @@ LEC
 04-06
 ENGL-1010 (-)
 Laboratory
-Section 51 
+Monday, January 5, 2026
+02:32:57 AM
+Section 51 Full
 3.00
 LAB
 T
@@ -1803,7 +1863,7 @@ AM
 01-05
 2026-
 04-06
-Section 52 
+Section 52 Full
 3.00
 LAB
 T
@@ -1814,7 +1874,7 @@ PM
 01-05
 2026-
 04-06
-Section 53 
+Section 53 Full
 3.00
 LAB
 T
@@ -1825,7 +1885,7 @@ PM
 01-05
 2026-
 04-06
-Section 54 
+Section 54 Full
 3.00
 LAB
 T
@@ -1836,7 +1896,7 @@ PM
 01-05
 2026-
 04-06
-Section 55 
+Section 55 Full
 3.00
 LAB
 W
@@ -1847,7 +1907,7 @@ AM
 01-05
 2026-
 04-06
-Section 56 
+Section 56 Full
 3.00
 LAB
 W
@@ -1860,7 +1920,7 @@ PM
 04-06
 ENGL-2020 (-)
 Renaissance Literature
-Section 1 
+Section 1 Full
 3.00
 LEC
 TTH
@@ -1873,7 +1933,7 @@ PM
 04-06
 ENGL-2110 (-)
 Romantic Literature
-Section 1 
+Section 1 Full
 3.00
 LEC
 W
@@ -1886,7 +1946,7 @@ PM
 04-06
 ENGL-2210 (-)
 Canadian Literature
-Section 1 
+Section 1 Full
 3.00
 LEC
 MW
@@ -1911,8 +1971,8 @@ PM
 2026-
 04-06
 ENGL-2430 (-)
-Modern Women & Drama
-Section 1 
+Top.  Literary/Cult./Lang Theo
+Section 1 Full
 3.00
 LEC
 MW
@@ -1951,7 +2011,7 @@ PM
 04-06
 ENGL-3002 (-)
 The Personal Essay
-Section 1 
+Section 1 Full
 3.00
 LEC
 MW
@@ -2003,7 +2063,9 @@ AM
 04-06
 ENGL-3310 (-)
 Animals and the Environment
-Section 1 
+Monday, January 5, 2026
+02:32:57 AM
+Section 1 Full
 3.00
 LEC
 TTH
@@ -2014,9 +2076,18 @@ PM
 01-05
 2026-
 04-06
+ENGL-3520 (-)
+Constrained Literature
+Section 1 Full
+3.00
+LEC
+2026-
+01-05
+2026-
+04-06
 ENGL-3710 (-)
 Constrained Writing
-Section 1 
+Section 1 Full
 3.00
 LEC
 W
@@ -2027,9 +2098,18 @@ PM
 01-05
 2026-
 04-06
+ENGL-3710 (-)
+Experimental Poetry
+Section 2 Full
+3.00
+LEC
+2026-
+01-05
+2026-
+04-06
 ENGL-4000 (-)
 John Donne
-Section 1 
+Section 1 Full
 3.00
 LEC
 TTH
@@ -2069,7 +2149,7 @@ PM
 History
 HIST-1240 (-)
 World - 20 Century: 1945-Pres
-Section 1 
+Section 1 Full
 3.00
 LEC
 MW
@@ -2082,7 +2162,7 @@ PM
 04-06
 HIST-1240 (-)
 Laboratory
-Section 51 
+Section 51 Full
 LAB
 F
 09:30 AM
@@ -2092,7 +2172,7 @@ AM
 01-05
 2026-
 04-06
-Section 52 
+Section 52 Full
 LAB
 F
 09:30 AM
@@ -2102,7 +2182,7 @@ AM
 01-05
 2026-
 04-06
-Section 53 
+Section 53 Full
 LAB
 F
 10:30 AM
@@ -2112,7 +2192,7 @@ AM
 01-05
 2026-
 04-06
-Section 54 
+Section 54 Full
 LAB
 F
 10:30 AM
@@ -2122,7 +2202,7 @@ AM
 01-05
 2026-
 04-06
-Section 55 
+Section 55 Full
 LAB
 F
 11:30 AM
@@ -2132,7 +2212,7 @@ PM
 01-05
 2026-
 04-06
-Section 56 
+Section 56 Full
 LAB
 F
 11:30 AM
@@ -2157,7 +2237,7 @@ PM
 04-06
 HIST-2070 (-)
 Early Modern England:1485-1714
-Section 1 
+Section 1 Full
 3.00
 LEC
 MW
@@ -2181,6 +2261,8 @@ AM
 01-05
 2026-
 04-06
+Monday, January 5, 2026
+02:32:57 AM
 HIST-2440 (-)
 Canada Since Confed: 1867-Pres
 Section 1 
@@ -2196,7 +2278,7 @@ PM
 04-06
 HIST-2470 (-)
 Aborigl Ppl Cdn Hist:19th-Pres
-Section 91 
+Section 91 Full
 3.00
 LEC
 MW
@@ -2209,7 +2291,7 @@ PM
 04-06
 HIST-2500 (-)
 Women in Canada & US 1870-Pres
-Section 1 
+Section 1 Full
 3.00
 LEC
 TTH
@@ -2222,7 +2304,7 @@ PM
 04-06
 HIST-3820 (-)
 Storytelling/Design In Pub His
-Section 1 
+Section 1 Full
 3.00
 LEC
 TTH
@@ -2235,7 +2317,7 @@ PM
 04-06
 HIST-3970 (-)
 Comm/Democracy in 20th Century
-Section 1 
+Section 1 Full
 3.00
 LEC
 T
@@ -2272,10 +2354,32 @@ AM
 01-05
 2026-
 04-06
+HIST-4970 (-)
+Comm. & Democ. in 20th Century
+Section 2 
+3.00
+LEC
+T
+04:00 PM
+06:50 
+PM
+2026-
+01-05
+2026-
+04-06
+HIST-4970 (-)
+1880 Detroit: Guilded Age Digi
+Section 3 Full
+3.00
+LEC
+2026-
+01-05
+2026-
+04-06
 Interdisc &Critical Studies
 IACS-2170 (-)
 Speaking Truth to Power: Voice
-Section 1 
+Section 1 Full
 3.00
 LEC
 TTH
@@ -2288,7 +2392,7 @@ PM
 04-06
 IACS-3500 (-)
 Pract Strat/Soc Change
-Section 1 
+Section 1 Full
 3.00
 LEC
 MW
@@ -2327,6 +2431,8 @@ PM
 04-06
 ICDS-3020 (-)
 Hist Approaches-People w/Dis
+Monday, January 5, 2026
+02:32:57 AM
 Section 1 
 3.00
 LEC
@@ -2338,9 +2444,18 @@ PM
 01-05
 2026-
 04-06
+ICDS-4650 (-)
+Comm Orientn-Disability Issues
+Section 1 
+6.00
+LEC
+2026-
+01-05
+2026-
+04-06
 ICWG-1200 (-)
 Gal Pals: Women and Friendship
-Section 1 
+Section 1 Full
 3.00
 LEC
 TH
@@ -2353,7 +2468,7 @@ PM
 04-06
 ICWG-1300 (-)
 Imagining Women
-Section 1 
+Section 1 Full
 3.00
 LEC
 TTH
@@ -2366,7 +2481,7 @@ PM
 04-06
 ICWG-2500 (-)
 Women's Bodies, Women's Health
-Section 1 
+Section 1 Full
 3.00
 LEC
 MW
@@ -2379,7 +2494,7 @@ PM
 04-06
 ICWG-2700 (-)
 Gender, Power, and Language
-Section 91 
+Section 91 Full
 3.00
 LEC
 TTH
@@ -2482,7 +2597,7 @@ PM
 04-06
 FREN-2220 (-)
 French Language Training IV
-Section 1 
+Section 1 Full
 3.00
 LEC
 MW
@@ -2495,6 +2610,8 @@ AM
 04-06
 FREN-2310 (-)
 Introduction to Linguistics II
+Monday, January 5, 2026
+02:32:57 AM
 Section 1 
 3.00
 LEC
@@ -2521,7 +2638,7 @@ PM
 04-06
 FREN-3150 (-)
 Oral Proficiency in French II
-Section 1 
+Section 1 Full
 3.00
 LEC
 TTH
@@ -2547,7 +2664,7 @@ PM
 04-06
 FREN-3320 (-)
 History of the French Language
-Section 1 
+Section 1 Full
 3.00
 LEC
 MW
@@ -2599,7 +2716,7 @@ PM
 04-06
 GRST-2000 (-)
 The Fall of Rome
-Section 1 
+Section 1 Full
 3.00
 LEC
 MW
@@ -2651,7 +2768,7 @@ PM
 04-06
 GRST-3130 (-)
 Greek Mythology
-Section 1 
+Section 1 Full
 3.00
 LEC
 TTH
@@ -2664,7 +2781,7 @@ PM
 04-06
 INCS-2370 (-)
 Germ, Ital, Span Lit Tradition
-Section 1 
+Section 1 Full
 3.00
 LEC
 TTH
@@ -2677,6 +2794,8 @@ PM
 04-06
 INCS-4370 (-)
 St:Ger/Ital/Span Lit&Vis Cult
+Monday, January 5, 2026
+02:32:57 AM
 Section 1 
 3.00
 LEC
@@ -2690,7 +2809,7 @@ PM
 04-06
 SPAN-1020 (-)
 Intensive Spanish: Beginners
-Section 1 
+Section 1 Full
 6.00
 LEC
 MTWTH
@@ -2717,7 +2836,7 @@ PM
 Philosophy
 PHIL-1100 (-)
 Intro to Western Philosophy
-Section 91 
+Section 91 Full
 3.00
 LEC
 2026-
@@ -2726,7 +2845,7 @@ LEC
 04-06
 PHIL-1120 (-)
 Philosophy and Human Nature
-Section 91 
+Section 91 Full
 3.00
 LEC
 2026-
@@ -2735,7 +2854,7 @@ LEC
 04-06
 PHIL-1290 (-)
 Contemporary Moral Issues
-Section 1 
+Section 1 Full
 3.00
 LEC
 TTH
@@ -2748,7 +2867,7 @@ PM
 04-06
 PHIL-1600 (-)
 Reasoning Skills
-Section 1 
+Section 1 Full
 3.00
 LEC
 2026-
@@ -2757,7 +2876,7 @@ LEC
 04-06
 PHIL-1600 (-)
 Laboratory
-Section 51 
+Section 51 Full
 LAB
 TH
 04:00 PM
@@ -2767,7 +2886,7 @@ PM
 01-05
 2026-
 04-06
-Section 53 
+Section 53 Full
 LAB
 TH
 11:30 AM
@@ -2777,7 +2896,7 @@ PM
 01-05
 2026-
 04-06
-Section 54 
+Section 54 Full
 LAB
 TH
 10:00 AM
@@ -2789,7 +2908,7 @@ AM
 04-06
 PHIL-2210 (-)
 Introduction to Ethics
-Section 91 
+Section 91 Full
 3.00
 LEC
 2026-
@@ -2798,7 +2917,7 @@ LEC
 04-06
 PHIL-2280 (-)
 Tech, Human Values & Environ
-Section 91 
+Section 91 Full
 3.00
 LEC
 2026-
@@ -2820,7 +2939,7 @@ PM
 04-06
 PHIL-2540 (-)
 Theory of Knowledge
-Section 1 
+Section 1 Full
 3.00
 LEC
 MW
@@ -2844,6 +2963,8 @@ PM
 01-05
 2026-
 04-06
+Monday, January 5, 2026
+02:32:57 AM
 PHIL-2660 (-)
 Reasoning About Weird Things
 Section 1 
@@ -2885,7 +3006,7 @@ PM
 04-06
 PHIL-4000 (-)
 Humanisms
-Section 1 
+Section 1 Full
 3.00
 LEC
 T
@@ -2912,7 +3033,7 @@ PM
 Political Science
 POLS-1000 (-)
 Intro: Cdn Govt & Politics
-Section 1 
+Section 1 Full
 3.00
 LEC
 TTH
@@ -2951,7 +3072,7 @@ PM
 04-06
 POLS-2015 (-)
 From University to Work
-Section 1 
+Section 1 Full
 3.00
 LEC
 MW
@@ -2964,7 +3085,7 @@ PM
 04-06
 POLS-2140 (-)
 Legal Process in Canada
-Section 1 
+Section 1 Full
 3.00
 LEC
 TTH
@@ -3003,7 +3124,7 @@ PM
 04-06
 POLS-2490 (-)
 Pol Econ of Agriculture & Food
-Section 1 
+Section 1 Full
 3.00
 LEC
 MW
@@ -3016,7 +3137,9 @@ AM
 04-06
 POLS-2610 (-)
 Politics, Hist & Wstrn Religns
-Section 1 
+Monday, January 5, 2026
+02:32:57 AM
+Section 1 Full
 3.00
 LEC
 TTH
@@ -3168,7 +3291,7 @@ PM
 04-06
 POLS-4420 (-)
 Pol & Sec. in Russia & Eurasia
-Section 1 
+Section 1 Full
 3.00
 LEC
 TH
@@ -3181,7 +3304,7 @@ PM
 04-06
 POLS-4450 (-)
 Today's Totalitarian Trends
-Section 1 
+Section 1 Full
 3.00
 LEC
 T
@@ -3194,7 +3317,9 @@ PM
 04-06
 POLS-4610 (-)
 Theories: Intl Relations
-Section 1 
+Monday, January 5, 2026
+02:32:57 AM
+Section 1 Full
 3.00
 LEC
 TH
@@ -3217,7 +3342,7 @@ LEC
 Psychology
 PSYC-1150 (-)
 Intro: Psyc / Behavioural Scie
-Section 1 
+Section 1 Full
 3.00
 LEC
 TTH
@@ -3241,7 +3366,7 @@ AM
 01-05
 2026-
 04-06
-Section 91 
+Section 91 Full
 3.00
 LEC
 2026-
@@ -3276,7 +3401,7 @@ PM
 04-06
 PSYC-2250 (-)
 Dev Psy: Adulthood and Aging
-Section 1 
+Section 1 Full
 3.00
 LEC
 MW
@@ -3289,7 +3414,7 @@ PM
 04-06
 PSYC-2280 (-)
 Psychological Disorders
-Section 30 
+Section 30 Full
 3.00
 LEC
 M
@@ -3307,7 +3432,7 @@ Section 1
 LEC
 MW
 04:00 PM
-05:20 
+04:50 
 PM
 2026-
 01-05
@@ -3363,7 +3488,7 @@ PM
 04-06
 PSYC-2560 (-)
 Intro: Brain & Human Behaviour
-Section 1 
+Section 1 Full
 3.00
 LEC
 TTH
@@ -3376,6 +3501,8 @@ PM
 04-06
 PSYC-3200 (-)
 Tests & Measurement
+Monday, January 5, 2026
+02:32:57 AM
 Section 1 
 3.00
 LEC
@@ -3402,7 +3529,7 @@ PM
 04-06
 PSYC-3270 (-)
 Psyc Perspectives: Parenting
-Section 1 
+Section 1 Full
 3.00
 LEC
 W
@@ -3441,7 +3568,7 @@ PM
 04-06
 PSYC-3500 (-)
 Practical Strat: Social Change
-Section 1 
+Section 1 Full
 3.00
 LEC
 MW
@@ -3454,7 +3581,7 @@ AM
 04-06
 PSYC-3580 (-)
 Cognitive Processes
-Section 1 
+Section 1 Full
 3.00
 LEC
 T
@@ -3467,7 +3594,7 @@ PM
 04-06
 PSYC-3580 (-)
 Laboratory
-Section 51 
+Section 51 Full
 LAB
 2026-
 01-05
@@ -3475,7 +3602,7 @@ LAB
 04-06
 PSYC-4150 (-)
 History & Systems of Psyc
-Section 1 
+Section 1 Full
 3.00
 LEC
 TTH
@@ -3486,9 +3613,22 @@ AM
 01-05
 2026-
 04-06
+PSYC-4240 (-)
+Advanced Developmental/Social
+Section 1 Full
+3.00
+LEC
+T
+04:00 PM
+06:50 
+PM
+2026-
+01-05
+2026-
+04-06
 PSYC-4270 (-)
 Methods of Behavioural Change
-Section 1 
+Section 1 Full
 3.00
 LEC
 TTH
@@ -3501,7 +3641,7 @@ PM
 04-06
 PSYC-4300 (-)
 Clinical and Counselling Psyc
-Section 1 
+Section 1 Full
 3.00
 LEC
 W
@@ -3514,7 +3654,7 @@ PM
 04-06
 PSYC-4450 (-)
 Stereotypg, Prejudice&Discrimn
-Section 30 
+Section 30 Full
 3.00
 LEC
 MW
@@ -3527,7 +3667,7 @@ PM
 04-06
 PSYC-4500 (-)
 Practicum in Social Change
-Section 91 
+Section 91 Full
 3.00
 LEC
 TTH
@@ -3540,6 +3680,8 @@ PM
 04-06
 PSYC-4970 (-)
 Thesis: Research
+Monday, January 5, 2026
+02:32:57 AM
 Section 1 
 3.00
 LEC
@@ -3615,9 +3757,17 @@ AM
 01-05
 2026-
 04-06
-Section 2 
+Section 2 Full
 3.00
 LEC
+T
+11:30 AM
+02:20 
+PM
+2026-
+01-05
+2026-
+04-06
 T
 11:30 AM
 02:20 
@@ -3639,7 +3789,7 @@ PM
 04-06
 SWRK-3390 (-)
 Theory, Pract-SW-Communs/Orgn
-Section 1 
+Section 1 Full
 3.00
 LEC
 T
@@ -3650,7 +3800,7 @@ AM
 01-05
 2026-
 04-06
-Section 2 
+Section 2 Full
 3.00
 LEC
 T
@@ -3666,6 +3816,19 @@ Section 3
 LEC
 TH
 08:30 AM
+11:20 
+AM
+2026-
+01-05
+2026-
+04-06
+SWRK-3500 (-)
+Practical Strat: Social Change
+Section 1 
+3.00
+LEC
+MW
+10:00 AM
 11:20 
 AM
 2026-
@@ -3698,7 +3861,7 @@ PM
 01-05
 2026-
 04-06
-Section 2 
+Section 2 Full
 3.00
 LEC
 F
@@ -3744,6 +3907,8 @@ AM
 01-05
 2026-
 04-06
+Monday, January 5, 2026
+02:32:57 AM
 Section 94 
 3.00
 LEC
@@ -3780,7 +3945,7 @@ LEC
 Sociology/Criminology
 SACR-1100 (-)
 Foundations of Social Life
-Section 91 
+Section 91 Full
 3.00
 LEC
 MW
@@ -3793,7 +3958,7 @@ AM
 04-06
 SACR-2050 (-)
 Sociology of Sexualities
-Section 1 
+Section 1 Full
 3.00
 LEC
 TTH
@@ -3806,7 +3971,7 @@ AM
 04-06
 SACR-2280 (-)
 Class, Wealth &Power in Canada
-Section 1 
+Section 1 Full
 3.00
 LEC
 MW
@@ -3819,7 +3984,7 @@ AM
 04-06
 SACR-2600 (-)
 Introduction to Criminology
-Section 1 
+Section 1 Full
 3.00
 LEC
 TTH
@@ -3832,20 +3997,16 @@ PM
 04-06
 SACR-2910 (-)
 Theorizing Social Life
-Section 1 
+Section 1 Full
 3.00
 LEC
-MW
-12:30 PM
-01:20 
-PM
 2026-
 01-05
 2026-
 04-06
 SACR-3080 (-)
 Intermediate Statistics
-Section 1 
+Section 1 Full
 3.00
 LEC
 T
@@ -3874,7 +4035,7 @@ PM
 01-05
 2026-
 04-06
-Section 53 
+Section 53 Full
 LAB
 TH
 01:00 PM
@@ -3889,9 +4050,10 @@ Food and Global Sustainability
 Section 1 
 3.00
 LEC
-08:30 AM
-11:20 
-AM
+W
+02:30 PM
+05:20 
+PM
 2026-
 01-05
 2026-
@@ -3922,12 +4084,14 @@ PM
 01-05
 2026-
 04-06
+Monday, January 5, 2026
+02:32:57 AM
 SACR-3620 (-)
 Victimology
-Section 1 
+Section 1 Full
 3.00
 LEC
-TTH
+T
 10:00 AM
 12:50 
 PM
@@ -3937,10 +4101,10 @@ PM
 04-06
 SACR-3630 (-)
 Penology
-Section 1 
+Section 1 Full
 3.00
 LEC
-TTH
+T
 01:00 PM
 03:50 
 PM
@@ -3950,7 +4114,7 @@ PM
 04-06
 SACR-3650 (-)
 Green Criminology
-Section 1 
+Section 1 Full
 3.00
 LEC
 2026-
@@ -3972,7 +4136,7 @@ PM
 04-06
 SACR-3740 (-)
 Crime, Media and Culture
-Section 1 
+Section 1 Full
 3.00
 LEC
 W
@@ -3985,16 +4149,31 @@ PM
 04-06
 SACR-3820 (-)
 Surveillance and Society
-Section 91 
+Section 91 Full
 3.00
 LEC
+T
+08:30 AM
+09:20 
+AM
 2026-
 01-05
 2026-
 04-06
 SACR-3900 (-)
 Qual Approach to Soc &Cult Res
-Section 91 
+Section 1 
+3.00
+LEC
+M
+02:30 PM
+05:20 
+PM
+2026-
+01-05
+2026-
+04-06
+Section 91 Full
 3.00
 LEC
 W
@@ -4072,7 +4251,7 @@ PM
 04-06
 SACR-4600 (-)
 Adv Sem:in Deviance /Soc Issue
-Section 91 
+Section 91 Full
 3.00
 LEC
 M
@@ -4085,7 +4264,7 @@ PM
 04-06
 SACR-4640 (-)
 Adv Sem: Sociology of Law
-Section 1 
+Section 1 Full
 3.00
 LEC
 TH
@@ -4096,6 +4275,8 @@ PM
 01-05
 2026-
 04-06
+Monday, January 5, 2026
+02:32:57 AM
 Faculty of Education
 Faculty of Education
 EDUC-1199B (-)
@@ -4258,6 +4439,8 @@ AM
 01-05
 2026-
 04-06
+Monday, January 5, 2026
+02:32:57 AM
 CIVL-4710 (-)
 Hydrology
 Section 1 
@@ -4308,7 +4491,7 @@ PM
 04-06
 ENVE-2200 (-)
 Env. Concepts/Applns in Engg
-Section 1 
+Section 1 Full
 3.00
 LEC
 TTH
@@ -4321,7 +4504,7 @@ AM
 04-06
 ENVE-2200 (-)
 Laboratory
-Section 51 
+Section 51 Full
 LAB
 M
 08:30 AM
@@ -4429,6 +4612,8 @@ PM
 04-06
 ENVE-4730 (-)
 Environ Engg Microbiology
+Monday, January 5, 2026
+02:32:57 AM
 Section 1 
 3.00
 LEC
@@ -4451,7 +4636,7 @@ AM
 Elec.l and Comptr Engineering
 ELEC-2170 (-)
 Digital Logic Design
-Section 1 
+Section 1 Full
 3.00
 LEC
 TTH
@@ -4490,7 +4675,7 @@ PM
 01-05
 2026-
 04-06
-Section 52 
+Section 52 Full
 LAB
 F
 12:30 PM
@@ -4594,7 +4779,7 @@ PM
 04-06
 ELEC-2260 (-)
 Laboratory
-Section 51 
+Section 51 Full
 LAB
 W
 10:00 AM
@@ -4629,6 +4814,8 @@ PM
 04-06
 ELEC-2280 (-)
 Laboratory
+Monday, January 5, 2026
+02:32:57 AM
 W
 05:30 PM
 07:20 
@@ -4663,7 +4850,7 @@ PM
 04-06
 ELEC-2320 (-)
 Software Fundamentals
-Section 1 
+Section 1 Full
 3.00
 LEC
 MW
@@ -4676,7 +4863,7 @@ PM
 04-06
 ELEC-2320 (-)
 Laboratory
-Section 51 
+Section 51 Full
 LAB
 T
 02:30 PM
@@ -4778,7 +4965,7 @@ PM
 04-06
 ELEC-4310 (-)
 Control Systems II
-Section 1 
+Section 1 Full
 3.00
 LEC
 TTH
@@ -4811,7 +4998,7 @@ PM
 04-06
 ELEC-4350 (-)
 Microelectromechanical Systems
-Section 1 
+Section 1 Full
 3.00
 LEC
 MW
@@ -4824,7 +5011,9 @@ PM
 04-06
 ELEC-4350 (-)
 Laboratory
-Section 51 
+Monday, January 5, 2026
+02:32:57 AM
+Section 51 Full
 LAB
 M
 04:00 PM
@@ -4912,7 +5101,7 @@ PM
 04-06
 ELEC-4490 (-)
 Sensor and Vision Systems
-Section 1 
+Section 1 Full
 3.00
 LEC
 TTH
@@ -4925,7 +5114,7 @@ PM
 04-06
 ELEC-4490 (-)
 Laboratory
-Section 51 
+Section 51 Full
 LAB
 TH
 02:30 PM
@@ -4937,7 +5126,7 @@ PM
 04-06
 ELEC-4500 (-)
 Power Systems I
-Section 1 
+Section 1 Full
 3.00
 LEC
 T
@@ -5014,6 +5203,8 @@ PM
 01-05
 2026-
 04-06
+Monday, January 5, 2026
+02:32:57 AM
 F
 05:30 PM
 07:20 
@@ -5068,8 +5259,8 @@ Section 1
 3.00
 LEC
 W
-01:00 PM
-02:20 
+11:30 AM
+12:50 
 PM
 2026-
 01-05
@@ -5095,15 +5286,7 @@ GENG-1102 (-)
 Laboratory
 Section 51 
 LAB
-TH
-02:30 PM
-05:20 
-PM
-2026-
-01-05
-2026-
-04-06
-TH
+W
 02:30 PM
 05:20 
 PM
@@ -5163,7 +5346,7 @@ PM
 01-05
 2026-
 04-06
-Section 2 
+Section 2 Full
 3.00
 LEC
 T
@@ -5187,7 +5370,7 @@ AM
 01-05
 2026-
 04-06
-Section 52 
+Section 52 Full
 3.00
 LAB
 MW
@@ -5200,7 +5383,7 @@ AM
 04-06
 GENG-1202 (-)
 Intro Electrical /Computer Eng
-Section 1 
+Section 1 Full
 3.00
 LEC
 TH
@@ -5211,7 +5394,7 @@ AM
 01-05
 2026-
 04-06
-Section 2 
+Section 2 Full
 3.00
 LEC
 TH
@@ -5222,7 +5405,9 @@ AM
 01-05
 2026-
 04-06
-Section 3 
+Monday, January 5, 2026
+02:32:57 AM
+Section 3 Full
 3.00
 LEC
 TH
@@ -5233,7 +5418,7 @@ AM
 01-05
 2026-
 04-06
-Section 4 
+Section 4 Full
 3.00
 LEC
 TH
@@ -5254,7 +5439,7 @@ AM
 04-06
 GENG-1202 (-)
 Laboratory
-Section 51 
+Section 51 Full
 3.00
 LAB
 T
@@ -5265,7 +5450,7 @@ PM
 01-05
 2026-
 04-06
-Section 52 
+Section 52 Full
 3.00
 LAB
 M
@@ -5276,7 +5461,7 @@ PM
 01-05
 2026-
 04-06
-Section 53 
+Section 53 Full
 3.00
 LAB
 TH
@@ -5287,7 +5472,7 @@ PM
 01-05
 2026-
 04-06
-Section 54 
+Section 54 Full
 3.00
 LAB
 W
@@ -5342,7 +5527,7 @@ PM
 01-05
 2026-
 04-06
-Section 52 
+Section 52 Full
 LAB
 W
 10:00 AM
@@ -5449,6 +5634,8 @@ LEC
 04-06
 GENG-4300 (-)
 Intelligent and Digital Mfg
+Monday, January 5, 2026
+02:32:57 AM
 Section 60 
 3.00
 LEC
@@ -5495,9 +5682,9 @@ Product and Process Design
 Section 1 
 3.00
 LEC
-TTH
-10:00 AM
-11:20 
+MW
+08:30 AM
+09:50 
 AM
 2026-
 01-05
@@ -5628,6 +5815,8 @@ PM
 01-05
 2026-
 04-06
+Monday, January 5, 2026
+02:32:57 AM
 W
 02:30 PM
 04:20 
@@ -5638,7 +5827,7 @@ PM
 04-06
 MECH-2210 (-)
 Dynamics
-Section 1 
+Section 1 Full
 3.00
 LEC
 MW
@@ -5672,7 +5861,7 @@ PM
 01-05
 2026-
 04-06
-Section 52 
+Section 52 Full
 LAB
 T
 06:30 PM
@@ -5684,7 +5873,7 @@ PM
 04-06
 MECH-2230 (-)
 Advanced Engineering & Design
-Section 1 
+Section 1 Full
 3.00
 LEC
 T
@@ -5738,7 +5927,7 @@ PM
 01-05
 2026-
 04-06
-Section 4 
+Section 4 Full
 3.00
 LEC
 M
@@ -5792,7 +5981,6 @@ PM
 MECH-3221 (-)
 Laboratory
 Section 51 
-3.00
 LAB
 T
 04:30 PM
@@ -5863,6 +6051,8 @@ PM
 01-05
 2026-
 04-06
+Monday, January 5, 2026
+02:32:57 AM
 Section 52 
 3.00
 LAB
@@ -5926,7 +6116,7 @@ PM
 04-06
 MECH-4211 (-)
 Design for Failure Prevention
-Section 1 
+Section 1 Full
 3.00
 LEC
 TTH
@@ -6054,6 +6244,8 @@ PM
 01-05
 2026-
 04-06
+Monday, January 5, 2026
+02:32:57 AM
 MECH-4250 (-)
 Gas Dynamics
 Section 1 
@@ -6231,6 +6423,8 @@ PM
 01-05
 2026-
 04-06
+Monday, January 5, 2026
+02:32:57 AM
 MECH-4871 (-)
 Automotive Mat/Manufctrng Meth
 Section 1 
@@ -6284,6 +6478,24 @@ PM
 04-06
 Faculty of Human Kinetics
 Faculty of Human Kinetics
+HKEX-   4XXX (-)
+International Exchange
+Section 29 Full
+15.00
+LEC
+2026-
+01-05
+2026-
+04-06
+KINE-   4XXX (-)
+4th Year Kinesiology Elective
+Section 29 
+15.00
+LEC
+2026-
+01-05
+2026-
+04-06
 KINE-1200 (-)
 Intro to the Sport Industry
 Section 1 
@@ -6312,7 +6524,7 @@ AM
 04-06
 KINE-1660 (-)
 Functional Anatomy II
-Section 1 
+Section 1 Full
 3.00
 LEC
 MW
@@ -6363,7 +6575,7 @@ PM
 01-05
 2026-
 04-06
-Section 54 
+Section 54 Full
 LAB
 T
 01:00 PM
@@ -6373,7 +6585,7 @@ PM
 01-05
 2026-
 04-06
-Section 55 
+Section 55 Full
 LAB
 T
 02:00 PM
@@ -6383,7 +6595,7 @@ PM
 01-05
 2026-
 04-06
-Section 56 
+Section 56 Full
 LAB
 T
 03:00 PM
@@ -6393,6 +6605,8 @@ PM
 01-05
 2026-
 04-06
+Monday, January 5, 2026
+02:32:57 AM
 Section 57 
 LAB
 W
@@ -6403,7 +6617,7 @@ PM
 01-05
 2026-
 04-06
-Section 58 
+Section 58 Full
 LAB
 W
 01:30 PM
@@ -6413,7 +6627,7 @@ PM
 01-05
 2026-
 04-06
-Section 59 
+Section 59 Full
 LAB
 W
 02:30 PM
@@ -6423,7 +6637,7 @@ PM
 01-05
 2026-
 04-06
-Section 60 
+Section 60 Full
 LAB
 TH
 01:00 PM
@@ -6443,7 +6657,7 @@ PM
 01-05
 2026-
 04-06
-Section 62 
+Section 62 Full
 LAB
 TH
 03:00 PM
@@ -6489,7 +6703,7 @@ AM
 04-06
 KINE-2150 (-)
 Fitness/ Lifestyle Assessment
-Section 1 
+Section 1 Full
 3.00
 LEC
 M
@@ -6502,7 +6716,7 @@ PM
 04-06
 KINE-2150 (-)
 Laboratory
-Section 51 
+Section 51 Full
 3.00
 LAB
 W
@@ -6554,7 +6768,7 @@ PM
 04-06
 KINE-2850 (-)
 Human Growth & Development
-Section 1 
+Section 1 Full
 3.00
 LEC
 MW
@@ -6576,7 +6790,7 @@ LEC
 04-06
 KINE-3020 (-)
 Exercise & Fitness Psychology
-Section 1 
+Section 1 Full
 3.00
 LEC
 MW
@@ -6600,6 +6814,8 @@ AM
 01-05
 2026-
 04-06
+Monday, January 5, 2026
+02:32:57 AM
 KINE-3501 (-)
 Prac Strategies -Social Change
 Section 1 
@@ -6706,36 +6922,6 @@ AM
 01-05
 2026-
 04-06
-Section 54 
-LAB
-F
-11:30 AM
-12:50 
-PM
-2026-
-01-05
-2026-
-04-06
-Section 55 
-LAB
-F
-01:00 PM
-02:20 
-PM
-2026-
-01-05
-2026-
-04-06
-Section 56 
-LAB
-F
-02:30 PM
-03:50 
-PM
-2026-
-01-05
-2026-
-04-06
 KINE-4400 (-)
 History of Sport in Canada
 Section 1 
@@ -6776,8 +6962,8 @@ PM
 2026-
 04-06
 KINE-4610 (-)
-Chronic Disease/Exercise Rehab
-Section 1 
+Clinical Exercise Rehabilitati
+Section 1 Full
 3.00
 LEC
 TTH
@@ -6790,7 +6976,7 @@ PM
 04-06
 KINE-4620 (-)
 Exercise in Extreme Environs
-Section 1 
+Section 1 Full
 3.00
 LEC
 MW
@@ -6814,6 +7000,8 @@ PM
 01-05
 2026-
 04-06
+Monday, January 5, 2026
+02:32:57 AM
 KINE-4670 (-)
 User Experience
 Section 1 
@@ -6867,7 +7055,7 @@ AM
 04-06
 KINE-4930 (-)
 Lab Experiences/Kinesiology II
-Section 1 
+Section 1 Full
 3.00
 LEC
 M
@@ -6878,7 +7066,7 @@ PM
 01-05
 2026-
 04-06
-Section 2 
+Section 2 Full
 3.00
 LEC
 T
@@ -6889,7 +7077,7 @@ PM
 01-05
 2026-
 04-06
-Section 3 
+Section 3 Full
 3.00
 LEC
 W
@@ -6911,7 +7099,7 @@ PM
 01-05
 2026-
 04-06
-Section 5 
+Section 5 Full
 3.00
 LEC
 F
@@ -6966,6 +7154,8 @@ LEC
 01-05
 2026-
 04-06
+Monday, January 5, 2026
+02:32:57 AM
 NURS-1120 (-)
 Professional Nursing II
 Section 1 
@@ -7014,7 +7204,7 @@ AM
 01-05
 2026-
 04-06
-Section 52 
+Section 52 Full
 LAB
 F
 01:00 PM
@@ -7024,7 +7214,7 @@ PM
 01-05
 2026-
 04-06
-Section 53 
+Section 53 Full
 LAB
 F
 08:00 AM
@@ -7034,7 +7224,7 @@ AM
 01-05
 2026-
 04-06
-Section 54 
+Section 54 Full
 LAB
 F
 10:00 AM
@@ -7044,7 +7234,7 @@ AM
 01-05
 2026-
 04-06
-Section 55 
+Section 55 Full
 LAB
 F
 12:20 PM
@@ -7054,7 +7244,7 @@ PM
 01-05
 2026-
 04-06
-Section 56 
+Section 56 Full
 LAB
 F
 02:20 PM
@@ -7122,7 +7312,7 @@ PM
 04-06
 NURS-1512 (-)
 Clinical Practicum I
-Section 2 
+Section 2 Full
 1.50
 LEC
 TH
@@ -7155,7 +7345,7 @@ PM
 01-05
 2026-
 04-06
-Section 5 
+Section 5 Full
 1.50
 LEC
 T
@@ -7166,7 +7356,7 @@ PM
 01-05
 2026-
 04-06
-Section 6 
+Section 6 Full
 1.50
 LEC
 T
@@ -7188,7 +7378,7 @@ PM
 01-05
 2026-
 04-06
-Section 8 
+Section 8 Full
 1.50
 LEC
 T
@@ -7199,7 +7389,7 @@ PM
 01-05
 2026-
 04-06
-Section 9 
+Section 9 Full
 1.50
 LEC
 T
@@ -7210,7 +7400,7 @@ PM
 01-05
 2026-
 04-06
-Section 10 
+Section 10 Full
 1.50
 LEC
 T
@@ -7221,7 +7411,7 @@ PM
 01-05
 2026-
 04-06
-Section 11 
+Section 11 Full
 1.50
 LEC
 T
@@ -7243,7 +7433,9 @@ PM
 01-05
 2026-
 04-06
-Section 13 
+Monday, January 5, 2026
+02:32:57 AM
+Section 13 Full
 1.50
 LEC
 T
@@ -7254,7 +7446,7 @@ PM
 01-05
 2026-
 04-06
-Section 14 
+Section 14 Full
 1.50
 LEC
 T
@@ -7265,7 +7457,7 @@ PM
 01-05
 2026-
 04-06
-Section 15 
+Section 15 Full
 1.50
 LEC
 T
@@ -7276,7 +7468,7 @@ PM
 01-05
 2026-
 04-06
-Section 16 
+Section 16 Full
 1.50
 LEC
 TH
@@ -7287,7 +7479,7 @@ PM
 01-05
 2026-
 04-06
-Section 17 
+Section 17 Full
 1.50
 LEC
 TH
@@ -7298,7 +7490,7 @@ PM
 01-05
 2026-
 04-06
-Section 18 
+Section 18 Full
 1.50
 LEC
 TH
@@ -7309,7 +7501,7 @@ PM
 01-05
 2026-
 04-06
-Section 19 
+Section 19 Full
 1.50
 LEC
 TH
@@ -7320,7 +7512,7 @@ PM
 01-05
 2026-
 04-06
-Section 20 
+Section 20 Full
 1.50
 LEC
 T
@@ -7353,7 +7545,7 @@ PM
 01-05
 2026-
 04-06
-Section 23 
+Section 23 Full
 1.50
 LEC
 TH
@@ -7364,7 +7556,7 @@ PM
 01-05
 2026-
 04-06
-Section 24 
+Section 24 Full
 1.50
 LEC
 TH
@@ -7375,7 +7567,7 @@ PM
 01-05
 2026-
 04-06
-Section 25 
+Section 25 Full
 1.50
 LEC
 T
@@ -7386,7 +7578,7 @@ PM
 01-05
 2026-
 04-06
-Section 26 
+Section 26 Full
 1.50
 LEC
 T
@@ -7408,7 +7600,7 @@ PM
 01-05
 2026-
 04-06
-Section 28 
+Section 28 Full
 1.50
 LEC
 TH
@@ -7430,7 +7622,7 @@ PM
 01-05
 2026-
 04-06
-Section 30 
+Section 30 Full
 1.50
 LEC
 TH
@@ -7465,7 +7657,7 @@ PM
 04-06
 NURS-1521 (-)
 Experiential Learning Lab II
-Section 50 
+Section 50 Full
 1.00
 LEC
 TH
@@ -7487,7 +7679,7 @@ AM
 01-05
 2026-
 04-06
-Section 52 
+Section 52 Full
 1.00
 LEC
 T
@@ -7498,7 +7690,7 @@ PM
 01-05
 2026-
 04-06
-Section 53 
+Section 53 Full
 1.00
 LEC
 T
@@ -7520,18 +7712,18 @@ PM
 01-05
 2026-
 04-06
-Section 55 
+Section 55 Full
 1.00
 LEC
 TH
-07:00 AM
-09:50 
+07:30 AM
+10:20 
 AM
 2026-
 01-05
 2026-
 04-06
-Section 56 
+Section 56 Full
 1.00
 LEC
 TH
@@ -7542,7 +7734,7 @@ PM
 01-05
 2026-
 04-06
-Section 57 
+Section 57 Full
 1.00
 LEC
 TH
@@ -7575,7 +7767,7 @@ PM
 01-05
 2026-
 04-06
-Section 60 
+Section 60 Full
 1.00
 LEC
 TH
@@ -7586,6 +7778,8 @@ AM
 01-05
 2026-
 04-06
+Monday, January 5, 2026
+02:32:57 AM
 Section 61 
 1.00
 LEC
@@ -7619,7 +7813,7 @@ PM
 01-05
 2026-
 04-06
-Section 64 
+Section 64 Full
 1.00
 LEC
 T
@@ -7641,7 +7835,7 @@ PM
 01-05
 2026-
 04-06
-Section 66 
+Section 66 Full
 1.00
 LEC
 F
@@ -7652,7 +7846,7 @@ AM
 01-05
 2026-
 04-06
-Section 67 
+Section 67 Full
 1.00
 LEC
 F
@@ -7663,7 +7857,7 @@ PM
 01-05
 2026-
 04-06
-Section 68 
+Section 68 Full
 1.00
 LEC
 T
@@ -7891,6 +8085,8 @@ LEC
 01-05
 2026-
 05-30
+Monday, January 5, 2026
+02:32:57 AM
 Section 33 
 3.00
 LEC
@@ -8008,7 +8204,7 @@ PM
 01-05
 2026-
 04-06
-Section 17 Full
+Section 17 
 3.00
 LEC
 T
@@ -8052,23 +8248,12 @@ PM
 01-05
 2026-
 04-06
-Section 21 
+Section 21 Full
 3.00
 LEC
 F
 06:00 AM
 03:00 
-PM
-2026-
-01-05
-2026-
-04-06
-Section 22 Full
-3.00
-LEC
-T
-06:00 AM
-10:00 
 PM
 2026-
 01-05
@@ -8085,7 +8270,7 @@ PM
 01-05
 2026-
 04-06
-Section 24 Full
+Section 24 
 3.00
 LEC
 TH
@@ -8096,7 +8281,7 @@ PM
 01-05
 2026-
 04-06
-Section 25 
+Section 25 Full
 3.00
 LEC
 TH
@@ -8107,7 +8292,7 @@ PM
 01-05
 2026-
 04-06
-Section 26 
+Section 26 Full
 3.00
 LEC
 T
@@ -8140,7 +8325,7 @@ PM
 01-05
 2026-
 04-06
-Section 29 
+Section 29 Full
 3.00
 LEC
 F
@@ -8162,7 +8347,7 @@ PM
 01-05
 2026-
 04-06
-Section 31 Full
+Section 31 
 3.00
 LEC
 T
@@ -8173,7 +8358,7 @@ PM
 01-05
 2026-
 04-06
-Section 32 
+Section 32 Full
 3.00
 LEC
 TH
@@ -8209,6 +8394,8 @@ LEC
 01-05
 2026-
 04-06
+Monday, January 5, 2026
+02:32:57 AM
 Section 88 
 3.00
 LEC
@@ -8236,7 +8423,7 @@ AM
 01-05
 2026-
 04-06
-Section 52 
+Section 52 Full
 1.00
 LEC
 T
@@ -8247,7 +8434,7 @@ AM
 01-05
 2026-
 04-06
-Section 53 
+Section 53 Full
 1.00
 LEC
 T
@@ -8269,7 +8456,7 @@ PM
 01-05
 2026-
 04-06
-Section 55 
+Section 55 Full
 1.00
 LEC
 T
@@ -8291,7 +8478,7 @@ PM
 01-05
 2026-
 04-06
-Section 57 
+Section 57 Full
 1.00
 LEC
 TH
@@ -8302,7 +8489,7 @@ AM
 01-05
 2026-
 04-06
-Section 58 
+Section 58 Full
 1.00
 LEC
 TH
@@ -8313,7 +8500,7 @@ AM
 01-05
 2026-
 04-06
-Section 59 
+Section 59 Full
 1.00
 LEC
 TH
@@ -8324,7 +8511,7 @@ PM
 01-05
 2026-
 04-06
-Section 60 
+Section 60 Full
 1.00
 LEC
 TH
@@ -8335,7 +8522,7 @@ PM
 01-05
 2026-
 04-06
-Section 61 
+Section 61 Full
 1.00
 LEC
 TH
@@ -8357,7 +8544,7 @@ PM
 01-05
 2026-
 04-06
-Section 63 
+Section 63 Full
 1.00
 LEC
 F
@@ -8472,6 +8659,8 @@ LEC
 01-05
 2026-
 04-06
+Monday, January 5, 2026
+02:32:57 AM
 Section 11 
 3.00
 LEC
@@ -8549,6 +8738,13 @@ LEC
 01-05
 2026-
 05-30
+Section 70 
+3.00
+LEC
+2026-
+01-05
+2026-
+04-06
 NURS-2820 (-)
 Adult Hlth/Hlth Alterations II
 Section 1 
@@ -8623,8 +8819,8 @@ Section 1
 3.00
 LEC
 M
-04:30 PM
-07:20 
+05:00 PM
+07:50 
 PM
 2026-
 01-05
@@ -8653,7 +8849,7 @@ LEC
 04-06
 NURS-3130 (-)
 Prof Nursing III: Leader & Mgm
-Section 1 
+Section 1 Full
 3.00
 LEC
 T
@@ -8677,6 +8873,8 @@ PM
 04-06
 NURS-3542 (-)
 Clinical Practicum IV
+Monday, January 5, 2026
+02:32:57 AM
 Section 70 
 3.00
 LEC
@@ -8697,12 +8895,12 @@ LEC
 04-06
 NURS-3552 (-)
 Clinical Practicum V
-Section 2 
+Section 2 Full
 3.00
 LEC
 M
 06:00 AM
-03:00 
+10:00 
 PM
 2026-
 01-05
@@ -8724,7 +8922,7 @@ Section 4 Full
 LEC
 T
 06:00 AM
-04:00 
+03:00 
 PM
 2026-
 01-05
@@ -8821,7 +9019,7 @@ PM
 Section 14 Full
 3.00
 LEC
-W
+T
 06:00 AM
 03:00 
 PM
@@ -8840,7 +9038,7 @@ PM
 01-05
 2026-
 04-06
-Section 16 
+Section 16 Full
 3.00
 LEC
 M
@@ -8851,7 +9049,7 @@ PM
 01-05
 2026-
 04-06
-Section 17 
+Section 17 Full
 3.00
 LEC
 M
@@ -8868,17 +9066,6 @@ LEC
 W
 06:00 AM
 10:00 
-PM
-2026-
-01-05
-2026-
-04-06
-Section 19 
-3.00
-LEC
-M
-06:00 AM
-03:00 
 PM
 2026-
 01-05
@@ -8906,7 +9093,7 @@ PM
 01-05
 2026-
 04-06
-Section 24 
+Section 24 Full
 3.00
 LEC
 W
@@ -8942,7 +9129,7 @@ PM
 Section 27 Full
 3.00
 LEC
-T
+M
 06:00 AM
 03:00 
 PM
@@ -9005,7 +9192,7 @@ PM
 01-05
 2026-
 04-06
-Section 34 
+Section 34 Full
 3.00
 LEC
 T
@@ -9027,6 +9214,8 @@ PM
 01-05
 2026-
 04-06
+Monday, January 5, 2026
+02:32:57 AM
 Section 36 Full
 3.00
 LEC
@@ -9038,7 +9227,7 @@ PM
 01-05
 2026-
 04-06
-Section 37 
+Section 37 Full
 3.00
 LEC
 TH
@@ -9049,7 +9238,7 @@ PM
 01-05
 2026-
 04-06
-Section 39 
+Section 39 Full
 3.00
 LEC
 M
@@ -9060,7 +9249,7 @@ PM
 01-05
 2026-
 04-06
-Section 40 
+Section 40 Full
 3.00
 LEC
 T
@@ -9093,7 +9282,7 @@ PM
 01-05
 2026-
 04-06
-Section 44 
+Section 44 Full
 3.00
 LEC
 SA
@@ -9148,10 +9337,10 @@ PM
 01-05
 2026-
 04-06
-Section 51 
+Section 51 Full
 3.00
 LEC
-TH
+M
 06:00 AM
 03:00 
 PM
@@ -9159,7 +9348,7 @@ PM
 01-05
 2026-
 04-06
-Section 52 Full
+Section 52 
 3.00
 LEC
 TH
@@ -9186,7 +9375,7 @@ LEC
 05-30
 NURS-3561 (-)
 Experiential Learning Lab VI
-Section 1 
+Section 1 Full
 0.50
 LEC
 M
@@ -9197,7 +9386,7 @@ AM
 01-05
 2026-
 04-06
-Section 2 
+Section 2 Full
 0.50
 LEC
 M
@@ -9208,7 +9397,7 @@ AM
 01-05
 2026-
 04-06
-Section 3 
+Section 3 Full
 0.50
 LEC
 M
@@ -9219,7 +9408,7 @@ PM
 01-05
 2026-
 04-06
-Section 4 
+Section 4 Full
 0.50
 LEC
 M
@@ -9230,7 +9419,7 @@ PM
 01-05
 2026-
 04-06
-Section 5 
+Section 5 Full
 0.50
 LEC
 M
@@ -9252,7 +9441,7 @@ PM
 01-05
 2026-
 04-06
-Section 8 
+Section 8 Full
 0.50
 LEC
 W
@@ -9263,7 +9452,7 @@ AM
 01-05
 2026-
 04-06
-Section 9 
+Section 9 Full
 0.50
 LEC
 W
@@ -9274,7 +9463,7 @@ AM
 01-05
 2026-
 04-06
-Section 10 
+Section 10 Full
 0.50
 LEC
 W
@@ -9285,7 +9474,7 @@ PM
 01-05
 2026-
 04-06
-Section 11 
+Section 11 Full
 0.50
 LEC
 W
@@ -9296,7 +9485,7 @@ PM
 01-05
 2026-
 04-06
-Section 12 
+Section 12 Full
 0.50
 LEC
 W
@@ -9318,7 +9507,7 @@ PM
 01-05
 2026-
 04-06
-Section 15 
+Section 15 Full
 0.50
 LEC
 M
@@ -9329,7 +9518,7 @@ AM
 01-05
 2026-
 04-06
-Section 16 
+Section 16 Full
 0.50
 LEC
 M
@@ -9340,7 +9529,7 @@ AM
 01-05
 2026-
 04-06
-Section 17 
+Section 17 Full
 0.50
 LEC
 M
@@ -9351,7 +9540,7 @@ PM
 01-05
 2026-
 04-06
-Section 18 
+Section 18 Full
 0.50
 LEC
 M
@@ -9362,7 +9551,9 @@ PM
 01-05
 2026-
 04-06
-Section 19 
+Monday, January 5, 2026
+02:32:57 AM
+Section 19 Full
 0.50
 LEC
 M
@@ -9384,7 +9575,7 @@ PM
 01-05
 2026-
 04-06
-Section 22 
+Section 22 Full
 0.50
 LEC
 W
@@ -9395,7 +9586,7 @@ AM
 01-05
 2026-
 04-06
-Section 23 
+Section 23 Full
 0.50
 LEC
 W
@@ -9406,7 +9597,7 @@ AM
 01-05
 2026-
 04-06
-Section 24 
+Section 24 Full
 0.50
 LEC
 W
@@ -9625,6 +9816,8 @@ LEC
 01-05
 2026-
 04-06
+Monday, January 5, 2026
+02:32:57 AM
 Section 21 
 3.00
 LEC
@@ -9800,7 +9993,7 @@ LEC
 01-05
 2026-
 04-06
-Section 70 
+Section 70 Full
 3.00
 LEC
 2026-
@@ -9829,7 +10022,7 @@ AM
 04-06
 NURS-3970 (-)
 Health Issues in Gerontology
-Section 1 
+Section 1 Full
 3.00
 LEC
 T
@@ -9840,6 +10033,8 @@ PM
 01-05
 2026-
 04-06
+Monday, January 5, 2026
+02:32:57 AM
 Section 2 
 3.00
 LEC
@@ -9857,8 +10052,8 @@ Section 1
 3.00
 LEC
 T
-08:30 AM
-09:50 
+10:00 AM
+11:20 
 AM
 2026-
 01-05
@@ -9895,119 +10090,119 @@ LEC
 01-05
 2026-
 04-06
-Section 2 
+Section 2 Full
 6.00
 LEC
 2026-
 01-05
 2026-
 02-13
-Section 3 
+Section 3 Full
 6.00
 LEC
 2026-
 01-05
 2026-
 02-13
-Section 4 
+Section 4 Full
 6.00
 LEC
 2026-
 01-05
 2026-
 02-13
-Section 5 
+Section 5 Full
 6.00
 LEC
 2026-
 01-05
 2026-
 02-13
-Section 6 
+Section 6 Full
 6.00
 LEC
 2026-
 01-05
 2026-
 02-13
-Section 7 
+Section 7 Full
 6.00
 LEC
 2026-
 01-05
 2026-
 02-13
-Section 8 
+Section 8 Full
 6.00
 LEC
 2026-
 01-05
 2026-
 02-13
-Section 9 
+Section 9 Full
 6.00
 LEC
 2026-
 01-05
 2026-
 02-13
-Section 10 
+Section 10 Full
 6.00
 LEC
 2026-
 01-05
 2026-
 02-13
-Section 11 
+Section 11 Full
 6.00
 LEC
 2026-
 01-05
 2026-
 02-13
-Section 12 
+Section 12 Full
 6.00
 LEC
 2026-
 01-05
 2026-
 02-13
-Section 13 
-6.00
-LEC
-2026-
-01-05
-2026-
-02-13
-Section 16 
+Section 13 Full
 6.00
 LEC
 2026-
 02-23
 2026-
 04-06
-Section 17 
+Section 16 Full
 6.00
 LEC
 2026-
 02-23
 2026-
 04-06
-Section 18 
+Section 17 Full
 6.00
 LEC
 2026-
 02-23
 2026-
 04-06
-Section 19 
+Section 18 Full
 6.00
 LEC
 2026-
 02-23
 2026-
 04-06
-Section 20 
+Section 19 Full
+6.00
+LEC
+2026-
+02-23
+2026-
+04-06
+Section 20 Full
 6.00
 LEC
 2026-
@@ -10021,28 +10216,28 @@ LEC
 02-23
 2026-
 04-06
-Section 22 
+Section 22 Full
 6.00
 LEC
 2026-
 02-23
 2026-
 04-06
-Section 23 
+Section 23 Full
 6.00
 LEC
 2026-
 02-23
 2026-
 04-06
-Section 24 
+Section 24 Full
 6.00
 LEC
 2026-
 02-23
 2026-
 04-06
-Section 25 
+Section 25 Full
 6.00
 LEC
 2026-
@@ -10056,6 +10251,8 @@ LEC
 02-23
 2026-
 04-06
+Monday, January 5, 2026
+02:32:57 AM
 Section 87 
 6.00
 LEC
@@ -10090,7 +10287,7 @@ AM
 01-05
 2026-
 04-06
-Section 2 
+Section 2 Full
 0.50
 LEC
 M
@@ -10101,7 +10298,7 @@ AM
 01-05
 2026-
 04-06
-Section 3 
+Section 3 Full
 0.50
 LEC
 M
@@ -10112,7 +10309,7 @@ PM
 01-05
 2026-
 04-06
-Section 4 
+Section 4 Full
 0.50
 LEC
 W
@@ -10123,7 +10320,7 @@ AM
 01-05
 2026-
 04-06
-Section 5 
+Section 5 Full
 0.50
 LEC
 W
@@ -10145,7 +10342,7 @@ AM
 01-05
 2026-
 04-06
-Section 7 
+Section 7 Full
 0.50
 LEC
 M
@@ -10156,7 +10353,7 @@ AM
 01-05
 2026-
 04-06
-Section 8 
+Section 8 Full
 0.50
 LEC
 M
@@ -10167,7 +10364,7 @@ PM
 01-05
 2026-
 04-06
-Section 9 
+Section 9 Full
 0.50
 LEC
 W
@@ -10178,7 +10375,7 @@ AM
 01-05
 2026-
 04-06
-Section 10 
+Section 10 Full
 0.50
 LEC
 W
@@ -10212,154 +10409,156 @@ LEC
 01-05
 2026-
 04-06
-Section 2 
+Section 2 Full
 6.00
 LEC
 2026-
 01-05
 2026-
 02-13
-Section 3 
+Section 3 Full
 6.00
 LEC
 2026-
 01-05
 2026-
 02-13
-Section 4 
+Section 4 Full
 6.00
 LEC
 2026-
 01-05
 2026-
 02-13
-Section 5 
+Section 5 Full
 6.00
 LEC
 2026-
 01-05
 2026-
 02-13
-Section 6 
+Section 6 Full
 6.00
 LEC
 2026-
 01-05
 2026-
 02-13
-Section 7 
+Section 7 Full
 6.00
 LEC
 2026-
 01-05
 2026-
 02-13
-Section 8 
+Section 8 Full
 6.00
 LEC
 2026-
 01-05
 2026-
 02-13
-Section 9 
+Section 9 Full
 6.00
 LEC
 2026-
 01-05
 2026-
 02-13
-Section 10 
+Section 10 Full
 6.00
 LEC
 2026-
 01-05
 2026-
 02-13
-Section 11 
+Section 11 Full
 6.00
 LEC
 2026-
 01-05
 2026-
 02-13
-Section 12 
+Section 12 Full
 6.00
 LEC
 2026-
 01-05
 2026-
 02-13
-Section 16 
+Section 16 Full
 6.00
 LEC
 2026-
 02-23
 2026-
 04-06
-Section 17 
+Section 17 Full
 6.00
 LEC
 2026-
 02-23
 2026-
 04-06
-Section 18 
+Monday, January 5, 2026
+02:32:57 AM
+Section 18 Full
 6.00
 LEC
 2026-
 02-23
 2026-
 04-06
-Section 19 
+Section 19 Full
 6.00
 LEC
 2026-
 02-23
 2026-
 04-06
-Section 20 
+Section 20 Full
 6.00
 LEC
 2026-
 02-23
 2026-
 04-06
-Section 21 
+Section 21 Full
 6.00
 LEC
 2026-
 02-23
 2026-
 04-06
-Section 22 
+Section 22 Full
 6.00
 LEC
 2026-
 02-23
 2026-
 04-06
-Section 23 
+Section 23 Full
 6.00
 LEC
 2026-
 02-23
 2026-
 04-06
-Section 24 
+Section 24 Full
 6.00
 LEC
 2026-
 02-23
 2026-
 04-06
-Section 25 
+Section 25 Full
 6.00
 LEC
 2026-
 02-23
 2026-
 04-06
-Section 26 
+Section 26 Full
 6.00
 LEC
 2026-
@@ -10440,8 +10639,8 @@ Section 1
 3.00
 LEC
 T
-10:00 AM
-11:20 
+08:30 AM
+09:50 
 AM
 2026-
 01-05
@@ -10501,16 +10700,18 @@ Section 60
 3.00
 LEC
 MW
-05:30 PM
-06:50 
+02:30 PM
+03:50 
 PM
 2026-
 01-05
 2026-
 04-06
+Monday, January 5, 2026
+02:32:57 AM
 W
-01:00 PM
-02:30 
+02:30 PM
+03:50 
 PM
 2026-
 01-05
@@ -10536,7 +10737,7 @@ Faculty of Science
 Biomedical Sciences
 BIOM-2021 (-)
 Human Anatomy
-Section 1 
+Section 1 Full
 3.00
 LEC
 M
@@ -10549,7 +10750,7 @@ PM
 04-06
 BIOM-2021 (-)
 Laboratory
-Section 51 
+Section 51 Full
 LAB
 T
 09:30 AM
@@ -10559,7 +10760,7 @@ AM
 01-05
 2026-
 04-06
-Section 52 
+Section 52 Full
 LAB
 T
 02:30 PM
@@ -10569,7 +10770,7 @@ PM
 01-05
 2026-
 04-06
-Section 53 
+Section 53 Full
 LAB
 W
 09:30 AM
@@ -10579,7 +10780,7 @@ AM
 01-05
 2026-
 04-06
-Section 54 
+Section 54 Full
 LAB
 W
 02:30 PM
@@ -10614,7 +10815,7 @@ PM
 04-06
 BIOM-2131 (-)
 Laboratory
-Section 51 
+Section 51 Full
 LAB
 M
 02:30 PM
@@ -10624,7 +10825,7 @@ PM
 01-05
 2026-
 04-06
-Section 52 
+Section 52 Full
 LAB
 T
 08:30 AM
@@ -10634,7 +10835,7 @@ AM
 01-05
 2026-
 04-06
-Section 53 
+Section 53 Full
 LAB
 T
 06:00 PM
@@ -10644,7 +10845,7 @@ PM
 01-05
 2026-
 04-06
-Section 54 
+Section 54 Full
 LAB
 W
 08:30 AM
@@ -10654,7 +10855,7 @@ AM
 01-05
 2026-
 04-06
-Section 55 
+Section 55 Full
 LAB
 W
 02:30 PM
@@ -10664,7 +10865,7 @@ PM
 01-05
 2026-
 04-06
-Section 56 
+Section 56 Full
 LAB
 W
 06:00 PM
@@ -10674,7 +10875,7 @@ PM
 01-05
 2026-
 04-06
-Section 57 
+Section 57 Full
 LAB
 M
 02:30 PM
@@ -10684,7 +10885,7 @@ PM
 01-05
 2026-
 04-06
-Section 58 
+Section 58 Full
 LAB
 M
 06:00 PM
@@ -10694,7 +10895,7 @@ PM
 01-05
 2026-
 04-06
-Section 59 
+Section 59 Full
 LAB
 W
 02:30 PM
@@ -10704,6 +10905,38 @@ PM
 01-05
 2026-
 04-06
+Section 60 Full
+LAB
+M
+02:30 PM
+05:20 
+PM
+2026-
+01-05
+2026-
+04-06
+Section 61 Full
+LAB
+W
+02:30 PM
+05:20 
+PM
+2026-
+01-05
+2026-
+04-06
+Section 62 
+LAB
+T
+06:00 PM
+08:50 
+PM
+2026-
+01-05
+2026-
+04-06
+Monday, January 5, 2026
+02:32:57 AM
 BIOM-3070 (-)
 Medical Microbiology
 Section 1 
@@ -10758,7 +10991,7 @@ PM
 04-06
 BIOM-3581B (-)
 Laboratory
-Section 51 
+Section 51 Full
 LAB
 TW
 02:30 PM
@@ -10778,7 +11011,7 @@ PM
 01-05
 2026-
 04-06
-Section 53 
+Section 53 Full
 LAB
 THF
 02:30 PM
@@ -10790,7 +11023,7 @@ PM
 04-06
 BIOM-4008 (-)
 Neuroscience Methods
-Section 4 
+Section 4 Full
 3.00
 LEC
 TTH
@@ -10803,7 +11036,7 @@ AM
 04-06
 BIOM-4510 (-)
 Stem Cells
-Section 1 
+Section 1 Full
 3.00
 LEC
 F
@@ -10880,7 +11113,7 @@ PM
 04-06
 BIOC-2010 (-)
 Laboratory
-Section 51 
+Section 51 Full
 LAB
 M
 02:30 PM
@@ -10890,7 +11123,7 @@ PM
 01-05
 2026-
 04-06
-Section 52 
+Section 52 Full
 LAB
 M
 02:30 PM
@@ -10900,7 +11133,9 @@ PM
 01-05
 2026-
 04-06
-Section 53 
+Monday, January 5, 2026
+02:32:57 AM
+Section 53 Full
 LAB
 W
 02:30 PM
@@ -10910,7 +11145,7 @@ PM
 01-05
 2026-
 04-06
-Section 54 
+Section 54 Full
 LAB
 W
 02:30 PM
@@ -10920,7 +11155,7 @@ PM
 01-05
 2026-
 04-06
-Section 55 
+Section 55 Full
 LAB
 TH
 02:30 PM
@@ -10930,7 +11165,7 @@ PM
 01-05
 2026-
 04-06
-Section 56 
+Section 56 Full
 LAB
 TH
 06:00 PM
@@ -10940,7 +11175,7 @@ PM
 01-05
 2026-
 04-06
-Section 57 
+Section 57 Full
 LAB
 F
 02:30 PM
@@ -10950,7 +11185,7 @@ PM
 01-05
 2026-
 04-06
-Section 58 
+Section 58 Full
 LAB
 F
 02:30 PM
@@ -10960,7 +11195,7 @@ PM
 01-05
 2026-
 04-06
-Section 59 
+Section 59 Full
 LAB
 M
 06:00 PM
@@ -10970,7 +11205,7 @@ PM
 01-05
 2026-
 04-06
-Section 61 
+Section 61 Full
 LAB
 W
 06:00 PM
@@ -10980,7 +11215,7 @@ PM
 01-05
 2026-
 04-06
-Section 63 
+Section 63 Full
 LAB
 T
 11:30 AM
@@ -10990,7 +11225,7 @@ PM
 01-05
 2026-
 04-06
-Section 64 
+Section 64 Full
 LAB
 TH
 11:30 AM
@@ -11000,7 +11235,7 @@ PM
 01-05
 2026-
 04-06
-Section 65 
+Section 65 Full
 LAB
 TH
 11:30 AM
@@ -11010,11 +11245,21 @@ PM
 01-05
 2026-
 04-06
-Section 66 
+Section 66 Full
 LAB
 T
 11:30 AM
 02:20 
+PM
+2026-
+01-05
+2026-
+04-06
+Section 67 Full
+LAB
+M
+06:00 PM
+08:50 
 PM
 2026-
 01-05
@@ -11061,7 +11306,7 @@ AM
 04-06
 BIOC-3130 (-)
 Protein&Nucleic Acid Chemistry
-Section 1 
+Section 1 Full
 3.00
 LEC
 TTH
@@ -11100,7 +11345,7 @@ PM
 04-06
 BIOC-3581B (-)
 Laboratory
-Section 51 
+Section 51 Full
 LAB
 TW
 02:30 PM
@@ -11110,7 +11355,7 @@ PM
 01-05
 2026-
 04-06
-Section 52 
+Section 52 Full
 LAB
 TW
 06:00 PM
@@ -11120,7 +11365,7 @@ PM
 01-05
 2026-
 04-06
-Section 53 
+Section 53 Full
 LAB
 THF
 02:30 PM
@@ -11132,6 +11377,8 @@ PM
 04-06
 BIOC-4008 (-)
 Nanobiosensors
+Monday, January 5, 2026
+02:32:57 AM
 Section 1 
 3.00
 LEC
@@ -11208,7 +11455,7 @@ PM
 04-06
 CHEM-1103 (-)
 Laboratory
-Section 55 
+Section 55 Full
 LAB
 W
 11:30 AM
@@ -11218,7 +11465,7 @@ PM
 01-05
 2026-
 04-06
-Section 56 
+Section 56 Full
 LAB
 W
 11:30 AM
@@ -11228,7 +11475,7 @@ PM
 01-05
 2026-
 04-06
-Section 59 
+Section 59 Full
 LAB
 F
 08:30 AM
@@ -11238,7 +11485,7 @@ AM
 01-05
 2026-
 04-06
-Section 60 
+Section 60 Full
 LAB
 F
 08:30 AM
@@ -11248,7 +11495,7 @@ AM
 01-05
 2026-
 04-06
-Section 61 
+Section 61 Full
 LAB
 M
 11:30 AM
@@ -11258,7 +11505,7 @@ PM
 01-05
 2026-
 04-06
-Section 62 
+Section 62 Full
 LAB
 M
 11:30 AM
@@ -11268,7 +11515,7 @@ PM
 01-05
 2026-
 04-06
-Section 65 
+Section 65 Full
 LAB
 T
 06:00 PM
@@ -11278,7 +11525,17 @@ PM
 01-05
 2026-
 04-06
-Section 67 
+Section 66 Full
+LAB
+T
+06:00 PM
+08:50 
+PM
+2026-
+01-05
+2026-
+04-06
+Section 67 Full
 LAB
 TH
 02:30 PM
@@ -11288,7 +11545,17 @@ PM
 01-05
 2026-
 04-06
-Section 69 
+Section 68 Full
+LAB
+TH
+06:00 PM
+08:50 
+PM
+2026-
+01-05
+2026-
+04-06
+Section 69 Full
 LAB
 T
 02:30 PM
@@ -11298,7 +11565,7 @@ PM
 01-05
 2026-
 04-06
-Section 70 
+Section 70 Full
 LAB
 T
 02:30 PM
@@ -11308,7 +11575,7 @@ PM
 01-05
 2026-
 04-06
-Section 71 
+Section 71 Full
 LAB
 F
 11:30 AM
@@ -11318,7 +11585,7 @@ PM
 01-05
 2026-
 04-06
-Section 72 
+Section 72 Full
 LAB
 F
 11:30 AM
@@ -11328,7 +11595,7 @@ PM
 01-05
 2026-
 04-06
-Section 74 
+Section 74 Full
 LAB
 W
 06:00 PM
@@ -11338,7 +11605,7 @@ PM
 01-05
 2026-
 04-06
-Section 75 
+Section 75 Full
 LAB
 T
 08:30 AM
@@ -11348,7 +11615,7 @@ AM
 01-05
 2026-
 04-06
-Section 76 
+Section 76 Full
 LAB
 T
 08:30 AM
@@ -11371,6 +11638,8 @@ PM
 01-05
 2026-
 04-06
+Monday, January 5, 2026
+02:32:57 AM
 Section 2 
 3.00
 LEC
@@ -11406,7 +11675,7 @@ PM
 04-06
 CHEM-1110 (-)
 Laboratory
-Section 51 
+Section 51 Full
 LAB
 M
 08:30 AM
@@ -11416,7 +11685,7 @@ AM
 01-05
 2026-
 04-06
-Section 52 
+Section 52 Full
 LAB
 M
 08:30 AM
@@ -11446,7 +11715,7 @@ AM
 01-05
 2026-
 04-06
-Section 55 
+Section 55 Full
 LAB
 W
 08:30 AM
@@ -11456,7 +11725,7 @@ AM
 01-05
 2026-
 04-06
-Section 56 
+Section 56 Full
 LAB
 W
 08:30 AM
@@ -11496,7 +11765,7 @@ AM
 01-05
 2026-
 04-06
-Section 60 
+Section 60 Full
 LAB
 F
 08:30 AM
@@ -11506,7 +11775,7 @@ AM
 01-05
 2026-
 04-06
-Section 61 
+Section 61 Full
 LAB
 M
 02:30 PM
@@ -11516,7 +11785,7 @@ PM
 01-05
 2026-
 04-06
-Section 62 
+Section 62 Full
 LAB
 M
 02:30 PM
@@ -11526,7 +11795,7 @@ PM
 01-05
 2026-
 04-06
-Section 63 
+Section 63 Full
 LAB
 T
 02:30 PM
@@ -11536,7 +11805,7 @@ PM
 01-05
 2026-
 04-06
-Section 64 
+Section 64 Full
 LAB
 T
 02:30 PM
@@ -11546,7 +11815,7 @@ PM
 01-05
 2026-
 04-06
-Section 65 
+Section 65 Full
 LAB
 W
 02:30 PM
@@ -11556,7 +11825,7 @@ PM
 01-05
 2026-
 04-06
-Section 66 
+Section 66 Full
 LAB
 W
 02:30 PM
@@ -11566,7 +11835,7 @@ PM
 01-05
 2026-
 04-06
-Section 67 
+Section 67 Full
 LAB
 TH
 02:30 PM
@@ -11576,7 +11845,7 @@ PM
 01-05
 2026-
 04-06
-Section 68 
+Section 68 Full
 LAB
 TH
 02:30 PM
@@ -11586,7 +11855,7 @@ PM
 01-05
 2026-
 04-06
-Section 69 
+Section 69 Full
 LAB
 F
 02:30 PM
@@ -11596,7 +11865,7 @@ PM
 01-05
 2026-
 04-06
-Section 70 
+Section 70 Full
 LAB
 F
 02:30 PM
@@ -11634,16 +11903,6 @@ PM
 04-06
 CHEM-2410 (-)
 Laboratory
-Section 53 
-LAB
-T
-02:30 PM
-05:20 
-PM
-2026-
-01-05
-2026-
-04-06
 Section 57 
 3.00
 LAB
@@ -11655,6 +11914,18 @@ PM
 01-05
 2026-
 04-06
+Section 58 
+LAB
+TH
+06:00 PM
+08:50 
+PM
+2026-
+01-05
+2026-
+04-06
+Monday, January 5, 2026
+02:32:57 AM
 CHEM-2510 (-)
 Intro Inorganic Chemistry II
 Section 1 
@@ -11681,7 +11952,7 @@ PM
 04-06
 CHEM-2510 (-)
 Laboratory
-Section 51 
+Section 51 Full
 LAB
 M
 02:30 PM
@@ -11691,17 +11962,7 @@ PM
 01-05
 2026-
 04-06
-Section 52 
-LAB
-M
-06:00 PM
-08:50 
-PM
-2026-
-01-05
-2026-
-04-06
-Section 55 
+Section 55 Full
 LAB
 W
 02:30 PM
@@ -11711,11 +11972,11 @@ PM
 01-05
 2026-
 04-06
-Section 56 
+Section 59 
 LAB
-W
-06:00 PM
-08:50 
+F
+02:30 PM
+05:20 
 PM
 2026-
 01-05
@@ -11736,7 +11997,7 @@ PM
 04-06
 CHEM-3210 (-)
 Laboratory
-Section 53 
+Section 53 Full
 LAB
 T
 02:30 PM
@@ -11746,7 +12007,7 @@ PM
 01-05
 2026-
 04-06
-Section 55 
+Section 55 Full
 3.00
 LAB
 W
@@ -11757,7 +12018,7 @@ PM
 01-05
 2026-
 04-06
-Section 57 
+Section 57 Full
 LAB
 TH
 02:30 PM
@@ -11873,6 +12134,8 @@ PM
 01-05
 2026-
 04-06
+Monday, January 5, 2026
+02:32:57 AM
 CHEM-4600 (-)
 Surface Chemistry and Analysis
 Section 1 
@@ -11955,27 +12218,51 @@ PM
 04-06
 COMP-1047 (-)
 Computer Concepts - End-Users
-Section 30 
+Section 91 Full
 3.00
 LEC
-W
-07:00 PM
-09:50 
+2026-
+01-05
+2026-
+04-06
+COMP-1400 (-)
+Intro: Algorithms & Prog I
+Section 1 
+3.00
+LEC
+TTH
+11:30 AM
+12:50 
 PM
 2026-
 01-05
 2026-
 04-06
-Section 91 
-3.00
-LEC
+COMP-1400 (-)
+Laboratory
+Section 51 
+LAB
+F
+10:00 AM
+11:20 
+AM
+2026-
+01-05
+2026-
+04-06
+Section 52 
+LAB
+F
+11:30 AM
+12:50 
+PM
 2026-
 01-05
 2026-
 04-06
 COMP-1410 (-)
 Intro: Algorithms & Prog II
-Section 1 
+Section 1 Full
 3.00
 LEC
 MW
@@ -12029,7 +12316,7 @@ PM
 01-05
 2026-
 04-06
-Section 54 
+Section 54 Full
 LAB
 W
 01:00 PM
@@ -12039,6 +12326,8 @@ PM
 01-05
 2026-
 04-06
+Monday, January 5, 2026
+02:32:57 AM
 Section 55 
 LAB
 2026-
@@ -12067,6 +12356,15 @@ TH
 01:00 PM
 02:20 
 PM
+2026-
+01-05
+2026-
+04-06
+COMP-2057 (-)
+Introduction to the Internet
+Section 91 Full
+3.00
+LEC
 2026-
 01-05
 2026-
@@ -12106,7 +12404,7 @@ AM
 04-06
 COMP-2097 (-)
 Soc Media&Mobile Tech-End User
-Section 91 
+Section 91 Full
 3.00
 LEC
 2026-
@@ -12203,7 +12501,7 @@ PM
 01-05
 2026-
 04-06
-Section 55 
+Section 55 Full
 LAB
 T
 08:30 AM
@@ -12228,6 +12526,8 @@ AM
 04-06
 COMP-2310 (-)
 Laboratory
+Monday, January 5, 2026
+02:32:57 AM
 Section 51 
 LAB
 M
@@ -12263,7 +12563,7 @@ Data Structures & Algorithms
 Section 1 
 3.00
 LEC
-MW
+TTH
 01:00 PM
 02:20 
 PM
@@ -12451,6 +12751,8 @@ AM
 01-05
 2026-
 04-06
+Monday, January 5, 2026
+02:32:57 AM
 COMP-2800 (-)
 Software Development
 Section 1 
@@ -12466,7 +12768,7 @@ PM
 04-06
 COMP-2800 (-)
 Laboratory
-Section 51 
+Section 51 Full
 LAB
 T
 04:00 PM
@@ -12476,7 +12778,7 @@ PM
 01-05
 2026-
 04-06
-Section 52 
+Section 52 Full
 LAB
 T
 05:30 PM
@@ -12497,7 +12799,7 @@ LEC
 04-06
 COMP-3057 (-)
 Cyber-Ethics
-Section 91 
+Section 91 Full
 3.00
 LEC
 2026-
@@ -12558,12 +12860,12 @@ AM
 04-06
 COMP-3300 (-)
 Operating Systems Fundamentals
-Section 1 
+Section 1 Full
 3.00
 LEC
-MW
-04:00 PM
-05:20 
+W
+07:00 PM
+09:50 
 PM
 2026-
 01-05
@@ -12630,6 +12932,8 @@ LEC
 01-05
 2026-
 04-06
+Monday, January 5, 2026
+02:32:57 AM
 COMP-4110 (-)
 Software Verification &Testing
 Section 1 
@@ -12645,7 +12949,7 @@ AM
 04-06
 COMP-4200 (-)
 Mobile Application Development
-Section 1 
+Section 1 Full
 3.00
 LEC
 TH
@@ -12675,8 +12979,8 @@ Section 1
 3.00
 LEC
 MW
-02:30 PM
-03:50 
+05:30 PM
+06:50 
 PM
 2026-
 01-05
@@ -12708,6 +13012,19 @@ PM
 01-05
 2026-
 04-06
+COMP-4680 (-)
+Advanced Networking
+Section 1 
+3.00
+LEC
+M
+11:30 AM
+02:20 
+PM
+2026-
+01-05
+2026-
+04-06
 COMP-4740 (-)
 Adv Tpcs: Artificial Intell II
 Section 1 
@@ -12717,6 +13034,19 @@ MW
 10:00 AM
 11:20 
 AM
+2026-
+01-05
+2026-
+04-06
+COMP-4770 (-)
+Artificial Intellig. for Games
+Section 1 
+3.00
+LEC
+TTH
+05:30 PM
+06:50 
+PM
 2026-
 01-05
 2026-
@@ -12762,7 +13092,7 @@ PM
 04-06
 COMP-4970 (-)
 Co-op Work Term III
-Section 1 
+Section 1 Full
 3.00
 LEC
 2026-
@@ -12778,6 +13108,8 @@ LEC
 01-05
 2026-
 04-06
+Monday, January 5, 2026
+02:32:57 AM
 Section 2 
 3.00
 LEC
@@ -12800,7 +13132,7 @@ PM
 04-06
 COMP-4990B (-)
 Project Mgmt: Techniques&Tools
-Section 2 
+Section 2 Full
 3.00
 LEC
 F
@@ -12814,7 +13146,7 @@ PM
 Economics
 ECON-1100 (-)
 Introduction to Economics I
-Section 1 
+Section 1 Full
 3.00
 LEC
 TTH
@@ -12827,7 +13159,7 @@ AM
 04-06
 ECON-1110 (-)
 Introduction to Economics II
-Section 1 
+Section 1 Full
 3.00
 LEC
 MW
@@ -12838,18 +13170,7 @@ AM
 01-05
 2026-
 04-06
-Section 2 
-3.00
-LEC
-TTH
-02:30 PM
-03:50 
-PM
-2026-
-01-05
-2026-
-04-06
-Section 3 
+Section 2 Full
 3.00
 LEC
 TTH
@@ -12966,6 +13287,8 @@ AM
 04-06
 ECON-4140 (-)
 Intro to Econometric Mthds II
+Monday, January 5, 2026
+02:32:57 AM
 Section 1 
 3.00
 LEC
@@ -13032,7 +13355,7 @@ PM
 Faculty of Science
 FRSC-1107 (-)
 Intro Crime Scn Investigtn
-Section 91 
+Section 91 Full
 3.00
 LEC
 2026-
@@ -13041,7 +13364,7 @@ LEC
 04-06
 FRSC-2007 (-)
 Overview of Forensic Science
-Section 1 
+Section 1 Full
 3.00
 LEC
 TH
@@ -13054,7 +13377,7 @@ PM
 04-06
 FRSC-2101 (-)
 Applied Crime Scene Techniques
-Section 1 
+Section 1 Full
 3.00
 LEC
 TH
@@ -13067,7 +13390,7 @@ PM
 04-06
 FRSC-2101 (-)
 Laboratory
-Section 51 
+Section 51 Full
 LAB
 T
 05:20 PM
@@ -13079,7 +13402,7 @@ PM
 04-06
 FRSC-2190 (-)
 Forensc Evidence/Cdn Legal Sys
-Section 1 
+Section 1 Full
 3.00
 LEC
 W
@@ -13092,7 +13415,7 @@ AM
 04-06
 FRSC-2190 (-)
 Laboratory
-Section 51 
+Section 51 Full
 LAB
 F
 09:00 AM
@@ -13136,6 +13459,8 @@ LEC
 01-05
 2026-
 04-06
+Monday, January 5, 2026
+02:32:57 AM
 FRSC-3231 (-)
 Forensic Anthropology
 Section 1 
@@ -13211,7 +13536,7 @@ PM
 04-06
 FRSC-4217 (-)
 Adv in Human Identification
-Section 91 
+Section 91 Full
 3.00
 LEC
 2026-
@@ -13258,10 +13583,19 @@ LEC
 01-05
 2026-
 04-06
+SCIX-   4XXX (-)
+International Exchange
+Section 29 
+15.00
+LEC
+2026-
+01-05
+2026-
+04-06
 Integrative Biology
 BIOL-1111 (-)
 Biological Diversity
-Section 1 
+Section 1 Full
 3.00
 LEC
 TTH
@@ -13283,9 +13617,11 @@ PM
 01-05
 2026-
 04-06
+Monday, January 5, 2026
+02:32:57 AM
 BIOL-1111 (-)
 Laboratory
-Section 51 
+Section 51 Full
 LAB
 M
 08:30 AM
@@ -13295,7 +13631,7 @@ AM
 01-05
 2026-
 04-06
-Section 53 
+Section 53 Full
 LAB
 M
 02:30 PM
@@ -13325,7 +13661,7 @@ AM
 01-05
 2026-
 04-06
-Section 57 
+Section 57 Full
 LAB
 T
 02:30 PM
@@ -13365,7 +13701,7 @@ PM
 01-05
 2026-
 04-06
-Section 61 
+Section 61 Full
 LAB
 W
 02:30 PM
@@ -13403,7 +13739,7 @@ AM
 04-06
 BIOL-2071 (-)
 Laboratory
-Section 51 
+Section 51 Full
 LAB
 T
 02:30 PM
@@ -13413,7 +13749,7 @@ PM
 01-05
 2026-
 04-06
-Section 52 
+Section 52 Full
 LAB
 T
 11:30 AM
@@ -13423,7 +13759,7 @@ PM
 01-05
 2026-
 04-06
-Section 53 
+Section 53 Full
 LAB
 T
 05:30 PM
@@ -13433,7 +13769,7 @@ PM
 01-05
 2026-
 04-06
-Section 54 
+Section 54 Full
 LAB
 T
 05:30 PM
@@ -13443,7 +13779,7 @@ PM
 01-05
 2026-
 04-06
-Section 55 
+Section 55 Full
 LAB
 W
 02:30 PM
@@ -13453,7 +13789,7 @@ PM
 01-05
 2026-
 04-06
-Section 56 
+Section 56 Full
 LAB
 W
 02:30 PM
@@ -13463,7 +13799,7 @@ PM
 01-05
 2026-
 04-06
-Section 57 
+Section 57 Full
 LAB
 TH
 02:30 PM
@@ -13473,7 +13809,7 @@ PM
 01-05
 2026-
 04-06
-Section 58 
+Section 58 Full
 LAB
 TH
 11:30 AM
@@ -13483,7 +13819,7 @@ PM
 01-05
 2026-
 04-06
-Section 59 
+Section 59 Full
 LAB
 TH
 05:30 PM
@@ -13493,11 +13829,21 @@ PM
 01-05
 2026-
 04-06
-Section 60 
+Section 60 Full
 LAB
 TH
 05:30 PM
 08:20 
+PM
+2026-
+01-05
+2026-
+04-06
+Section 61 Full
+LAB
+TH
+11:30 AM
+02:20 
 PM
 2026-
 01-05
@@ -13529,6 +13875,8 @@ PM
 01-05
 2026-
 04-06
+Monday, January 5, 2026
+02:32:57 AM
 BIOL-3250 (-)
 Community & Population Ecology
 MW
@@ -13541,7 +13889,7 @@ PM
 04-06
 BIOL-4008 (-)
 Movement Ecology
-Section 22 
+Section 22 Full
 3.00
 LEC
 TTH
@@ -13554,7 +13902,7 @@ PM
 04-06
 BIOL-4008 (-)
 Relationships with Nature
-Section 24 
+Section 24 Full
 3.00
 LEC
 T
@@ -13567,7 +13915,7 @@ PM
 04-06
 BIOL-4212 (-)
 Speciation
-Section 1 
+Section 1 Full
 3.00
 LEC
 TTH
@@ -13580,7 +13928,7 @@ PM
 04-06
 BIOL-4262 (-)
 Animal Communication
-Section 1 
+Section 1 Full
 3.00
 LEC
 TTH
@@ -13593,7 +13941,7 @@ AM
 04-06
 BIOL-4262 (-)
 Laboratory
-Section 51 
+Section 51 Full
 LAB
 T
 02:30 PM
@@ -13603,7 +13951,17 @@ PM
 01-05
 2026-
 04-06
-Section 53 
+Section 52 Full
+LAB
+T
+04:00 PM
+05:20 
+PM
+2026-
+01-05
+2026-
+04-06
+Section 53 Full
 LAB
 TH
 02:30 PM
@@ -13613,7 +13971,7 @@ PM
 01-05
 2026-
 04-06
-Section 54 
+Section 54 Full
 LAB
 TH
 04:00 PM
@@ -13704,6 +14062,8 @@ AM
 04-06
 MATH-1020 (-)
 Laboratory
+Monday, January 5, 2026
+02:32:57 AM
 Section 51 
 LAB
 F
@@ -13887,9 +14247,9 @@ PM
 01-05
 2026-
 04-06
-TTH
-04:00 PM
-05:20 
+MW
+07:30 PM
+09:30 
 PM
 2026-
 01-05
@@ -13909,16 +14269,18 @@ PM
 04-06
 MATH-1980 (-)
 Laboratory
-Section 51 
+Section 51 Full
 3.00
 LAB
 2026-
 01-05
 2026-
 04-06
+Monday, January 5, 2026
+02:32:57 AM
 MATH-1980 (-)
 Mathematics for Business
-Section 91 
+Section 91 Full
 3.00
 LEC
 2026-
@@ -14066,12 +14428,21 @@ AM
 01-05
 2026-
 04-06
+MATH-4000 (-)
+Topics in Math
+Section 15 
+3.00
+LEC
+2026-
+01-05
+2026-
+04-06
 MATH-4210 (-)
 Ring Theory and Modules
 Section 1 
 3.00
 LEC
-TTH
+MW
 11:30 AM
 12:50 
 PM
@@ -14081,6 +14452,8 @@ PM
 04-06
 MATH-4570 (-)
 Functional Analysis
+Monday, January 5, 2026
+02:32:57 AM
 Section 1 
 3.00
 LEC
@@ -14233,7 +14606,7 @@ PM
 01-05
 2026-
 04-06
-Section 91 
+Section 91 Full
 3.00
 LEC
 2026-
@@ -14255,7 +14628,7 @@ PM
 04-06
 PHYS-1310 (-)
 Laboratory
-Section 52 
+Section 52 Full
 LAB
 T
 02:30 PM
@@ -14265,7 +14638,7 @@ PM
 01-05
 2026-
 04-06
-Section 53 
+Section 53 Full
 LAB
 W
 02:30 PM
@@ -14275,7 +14648,9 @@ PM
 01-05
 2026-
 04-06
-Section 54 
+Monday, January 5, 2026
+02:32:57 AM
+Section 54 Full
 LAB
 TH
 02:30 PM
@@ -14295,7 +14670,7 @@ AM
 01-05
 2026-
 04-06
-Section 56 
+Section 56 Full
 LAB
 W
 08:30 AM
@@ -14305,7 +14680,7 @@ AM
 01-05
 2026-
 04-06
-Section 57 
+Section 57 Full
 LAB
 M
 02:30 PM
@@ -14315,7 +14690,7 @@ PM
 01-05
 2026-
 04-06
-Section 58 
+Section 58 Full
 LAB
 W
 08:30 AM
@@ -14335,7 +14710,7 @@ AM
 01-05
 2026-
 04-06
-Section 60 
+Section 60 Full
 LAB
 F
 02:30 PM
@@ -14380,7 +14755,7 @@ PM
 01-05
 2026-
 04-06
-Section 53 
+Section 53 Full
 LAB
 T
 02:30 PM
@@ -14415,7 +14790,7 @@ PM
 04-06
 PHYS-1410 (-)
 Laboratory
-Section 53 
+Section 53 Full
 LAB
 M
 02:30 PM
@@ -14425,7 +14800,7 @@ PM
 01-05
 2026-
 04-06
-Section 54 
+Section 54 Full
 LAB
 M
 02:30 PM
@@ -14435,7 +14810,7 @@ PM
 01-05
 2026-
 04-06
-Section 60 
+Section 60 Full
 LAB
 T
 02:30 PM
@@ -14465,7 +14840,7 @@ AM
 01-05
 2026-
 04-06
-Section 67 
+Section 67 Full
 LAB
 W
 02:30 PM
@@ -14530,9 +14905,11 @@ PM
 01-05
 2026-
 04-06
+Monday, January 5, 2026
+02:32:57 AM
 PHYS-2040 (-)
 History of Astronomy
-Section 91 
+Section 91 Full
 3.00
 LEC
 2026-
@@ -14659,7 +15036,7 @@ LEC
 School of the Environment
 ESCI-1000 (-)
 Natural Hazards and Disasters
-Section 91 
+Section 91 Full
 3.00
 LEC
 2026-
@@ -14668,7 +15045,7 @@ LEC
 04-06
 ESCI-1111 (-)
 Introduction to Earth Science
-Section 1 
+Section 1 Full
 3.00
 LEC
 TTH
@@ -14681,7 +15058,9 @@ AM
 04-06
 ESCI-1111 (-)
 Laboratory
-Section 51 
+Monday, January 5, 2026
+02:32:57 AM
+Section 51 Full
 LAB
 M
 02:30 PM
@@ -14691,7 +15070,7 @@ PM
 01-05
 2026-
 04-06
-Section 52 
+Section 52 Full
 LAB
 T
 02:30 PM
@@ -14701,7 +15080,7 @@ PM
 01-05
 2026-
 04-06
-Section 53 
+Section 53 Full
 LAB
 W
 02:30 PM
@@ -14711,7 +15090,7 @@ PM
 01-05
 2026-
 04-06
-Section 54 
+Section 54 Full
 LAB
 TH
 01:30 PM
@@ -14736,7 +15115,7 @@ PM
 04-06
 ESCI-1151 (-)
 Laboratory
-Section 51 
+Section 51 Full
 LAB
 M
 02:00 PM
@@ -14756,7 +15135,7 @@ PM
 01-05
 2026-
 04-06
-Section 53 
+Section 53 Full
 LAB
 W
 02:00 PM
@@ -14781,7 +15160,7 @@ PM
 04-06
 ESCI-2210 (-)
 Introduction to Climate Change
-Section 1 
+Section 1 Full
 3.00
 LEC
 TTH
@@ -14794,7 +15173,7 @@ PM
 04-06
 ESCI-2300 (-)
 Introduction to Oceanography
-Section 1 
+Section 1 Full
 3.00
 LEC
 MW
@@ -14891,6 +15270,9 @@ AM
 01-05
 2026-
 04-06
+Monday, January 5, 2026
+02:32:57 AM
+Page 75
 ESCI-2721 (-)
 Laboratory
 Section 51 
@@ -14995,7 +15377,7 @@ PM
 04-06
 ESCI-4808 (-)
 Life of the Honey Bee
-Section 30 
+Section 30 Full
 3.00
 LEC
 W
@@ -15047,7 +15429,7 @@ AM
 04-06
 ESTU-1100 (-)
 Intro to Environmental Studies
-Section 1 
+Section 1 Full
 3.00
 LEC
 MW
@@ -15071,6 +15453,9 @@ AM
 01-05
 2026-
 04-06
+Monday, January 5, 2026
+02:32:57 AM
+Page 76
 ESTU-3310 (-)
 Great Lakes Water Qual. Agrmnt
 Section 1 
@@ -15101,7 +15486,7 @@ Odette School of Business
 Odette School of Business
 ACCT-1510 (-)
 Principles of Financial Acctg
-Section 1 
+Section 1 Full
 3.00
 LEC
 MW
@@ -15112,7 +15497,7 @@ PM
 01-05
 2026-
 04-06
-Section 2 
+Section 2 Full
 3.00
 LEC
 MW
@@ -15145,7 +15530,7 @@ PM
 01-05
 2026-
 04-06
-Section 91 
+Section 91 Full
 3.00
 LEC
 2026-
@@ -15165,8 +15550,7 @@ PM
 01-05
 2026-
 04-06
-Page 75
-Section 91 
+Section 91 Full
 3.00
 LEC
 T
@@ -15192,7 +15576,7 @@ PM
 04-06
 ACCT-2550 (-)
 Principles of Managerial Acctg
-Section 1 
+Section 1 Full
 3.00
 LEC
 MW
@@ -15263,6 +15647,9 @@ PM
 01-05
 2026-
 04-06
+Monday, January 5, 2026
+02:32:57 AM
+Page 77
 ACCT-3610 (-)
 Taxation I
 Section 1 
@@ -15328,9 +15715,18 @@ PM
 01-05
 2026-
 04-06
+BUSX-   4XXX (-)
+International Exchange
+Section 28 Full
+15.00
+LEC
+2026-
+01-05
+2026-
+04-06
 FINA-2700 (-)
 Business Finance I
-Section 1 
+Section 1 Full
 3.00
 LEC
 TTH
@@ -15344,9 +15740,25 @@ PM
 Section 91 
 3.00
 LEC
-MW
+TH
 07:00 PM
-08:20 
+09:50 
+PM
+2026-
+01-05
+2026-
+04-06
+TH
+07:00 PM
+09:50 
+PM
+2026-
+01-05
+2026-
+04-06
+TH
+07:00 PM
+09:50 
 PM
 2026-
 01-05
@@ -15354,7 +15766,6 @@ PM
 04-06
 FINA-2710 (-)
 Business Finance II
-Page 76
 Section 1 
 3.00
 LEC
@@ -15424,7 +15835,7 @@ PM
 04-06
 FINA-3790 (-)
 International Financial Mgmt
-Section 1 
+Section 1 Full
 3.00
 LEC
 MW
@@ -15437,7 +15848,10 @@ PM
 04-06
 FINA-4720 (-)
 Portfolio Management
-Section 1 
+Monday, January 5, 2026
+02:32:57 AM
+Page 78
+Section 1 Full
 3.00
 LEC
 MW
@@ -15463,7 +15877,18 @@ PM
 04-06
 MGMT-1000 (-)
 Business Communications
-Section 2 
+Section 2 Full
+3.00
+LEC
+MW
+11:30 AM
+12:50 
+PM
+2026-
+01-05
+2026-
+04-06
+Section 3 Full
 3.00
 LEC
 MW
@@ -15476,23 +15901,23 @@ PM
 04-06
 MGMT-2400 (-)
 Organizational Behaviour
-Section 1 
+Section 1 Full
 3.00
 LEC
 TTH
-01:00 PM
-02:20 
+04:00 PM
+05:20 
 PM
 2026-
 01-05
 2026-
 04-06
-Section 2 
+Section 2 Full
 3.00
 LEC
 TTH
-02:30 PM
-03:50 
+05:30 PM
+06:50 
 PM
 2026-
 01-05
@@ -15519,7 +15944,7 @@ PM
 01-05
 2026-
 04-06
-Section 3 
+Section 3 Full
 3.00
 LEC
 TTH
@@ -15530,7 +15955,7 @@ PM
 01-05
 2026-
 04-06
-Section 4 
+Section 4 Full
 3.00
 LEC
 MW
@@ -15543,17 +15968,6 @@ PM
 04-06
 MGMT-3000 (-)
 Bus Ethics in a Global Context
-Section 1 
-3.00
-LEC
-TTH
-02:30 PM
-03:50 
-PM
-2026-
-01-05
-2026-
-04-06
 Section 2 
 3.00
 LEC
@@ -15578,7 +15992,6 @@ PM
 01-05
 2026-
 04-06
-Page 77
 MGMT-4490 (-)
 Negotiations
 Section 1 
@@ -15655,7 +16068,10 @@ AM
 01-05
 2026-
 04-06
-Section 91 
+Monday, January 5, 2026
+02:32:57 AM
+Page 79
+Section 91 Full
 3.00
 LEC
 2026-
@@ -15695,7 +16111,7 @@ PM
 04-06
 MKTG-4330 (-)
 Digital Marketing
-Section 1 
+Section 1 Full
 3.00
 LEC
 TTH
@@ -15708,7 +16124,7 @@ AM
 04-06
 MKTG-4350 (-)
 International Marketing
-Section 1 
+Section 1 Full
 3.00
 LEC
 M
@@ -15732,9 +16148,18 @@ PM
 01-05
 2026-
 04-06
+MKTG-4950 (-)
+AI in Marketing
+Section 1 Full
+3.00
+LEC
+2026-
+01-05
+2026-
+04-06
 MSCI-1000 (-)
 Intro - Business Data Analysis
-Section 1 
+Section 1 Full
 3.00
 LEC
 MW
@@ -15745,7 +16170,7 @@ AM
 01-05
 2026-
 04-06
-Section 2 
+Section 2 Full
 3.00
 LEC
 MW
@@ -15756,7 +16181,7 @@ PM
 01-05
 2026-
 04-06
-Section 4 
+Section 4 Full
 3.00
 LEC
 T
@@ -15775,7 +16200,7 @@ PM
 01-05
 2026-
 04-06
-Section 5 
+Section 5 Full
 3.00
 LEC
 T
@@ -15794,21 +16219,20 @@ PM
 01-05
 2026-
 04-06
-Page 78
-Section 6 
+Section 6 Full
 3.00
 LEC
-T
-07:00 PM
-08:20 
+M
+05:30 PM
+06:50 
 PM
 2026-
 01-05
 2026-
 04-06
-TH
-07:00 PM
-08:20 
+W
+05:30 PM
+06:50 
 PM
 2026-
 01-05
@@ -15816,7 +16240,7 @@ PM
 04-06
 MSCI-2020 (-)
 Business Data Analysis
-Section 1 
+Section 1 Full
 3.00
 LEC
 M
@@ -15856,7 +16280,10 @@ PM
 04-06
 MSCI-2130 (-)
 Intro to Mgmt Info Systems
-Section 1 
+Monday, January 5, 2026
+02:32:57 AM
+Page 80
+Section 1 Full
 3.00
 LEC
 T
@@ -15875,7 +16302,7 @@ AM
 01-05
 2026-
 04-06
-Section 2 
+Section 2 Full
 3.00
 LEC
 TH
@@ -15894,7 +16321,7 @@ PM
 01-05
 2026-
 04-06
-Section 3 
+Section 3 Full
 3.00
 LEC
 T
@@ -15937,7 +16364,7 @@ PM
 04-06
 MSCI-2200 (-)
 Quantitative Decision Models I
-Section 1 
+Section 1 Full
 3.00
 LEC
 M
@@ -15975,7 +16402,7 @@ AM
 01-05
 2026-
 04-06
-Section 3 
+Section 3 Full
 3.00
 LEC
 T
@@ -16013,18 +16440,18 @@ PM
 Section 5 
 3.00
 LEC
-M
-04:00 PM
-05:20 
-PM
+T
+10:00 AM
+11:20 
+AM
 2026-
 01-05
 2026-
 04-06
-W
-04:00 PM
-05:20 
-PM
+TH
+10:00 AM
+11:20 
+AM
 2026-
 01-05
 2026-
@@ -16055,7 +16482,6 @@ AM
 01-05
 2026-
 04-06
-Page 79
 T
 10:00 AM
 11:20 
@@ -16109,33 +16535,15 @@ PM
 01-05
 2026-
 04-06
+Monday, January 5, 2026
+02:32:57 AM
+Page 81
 MSCI-3410 (-)
 Supply Chain Mgt I:Intro &Fund
 MW
 10:00 AM
 11:20 
 AM
-2026-
-01-05
-2026-
-04-06
-MSCI-4230 (-)
-Business Analytics in Practice
-Section 1 
-3.00
-LEC
-T
-02:30 PM
-03:50 
-PM
-2026-
-01-05
-2026-
-04-06
-TH
-02:30 PM
-03:50 
-PM
 2026-
 01-05
 2026-
@@ -16188,7 +16596,7 @@ PM
 04-06
 STEN-3050 (-)
 B. Comm. Co-op Work Term II
-Section 1 
+Section 1 Full
 3.00
 LEC
 2026-
@@ -16197,7 +16605,7 @@ LEC
 04-06
 STEN-3930 (-)
 International Business
-Section 91 
+Section 91 Full
 3.00
 LEC
 2026-
@@ -16206,7 +16614,7 @@ LEC
 04-06
 STEN-3970 (-)
 Law & Business Administration
-Section 1 
+Section 1 Full
 3.00
 LEC
 TTH
@@ -16239,14 +16647,31 @@ LEC
 04-06
 STEN-4930 (-)
 Field St: Strategic Mgmt/Entr
-Page 80
-Section 1 
+Section 1 Full
 3.00
 LEC
 T
 10:00 AM
 12:50 
 PM
+2026-
+01-05
+2026-
+04-06
+STEN-4950 (-)
+Sfty Migrt Labr/Cdn Agri Bus
+Section 1 Full
+3.00
+LEC
+2026-
+01-05
+2026-
+04-06
+STEN-4950 (-)
+Unemployment in Windsor
+Section 2 Full
+3.00
+LEC
 2026-
 01-05
 2026-

@@ -7,7 +7,7 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-// Add the PizzaContext
+// Add the Database
 builder.Services.AddSqlite<DatabaseContext>("Data Source=database.db");
 
 var app = builder.Build();
