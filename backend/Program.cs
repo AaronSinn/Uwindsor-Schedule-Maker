@@ -36,6 +36,7 @@ app.UseHttpsRedirection();
 // Uncomment if you dont have a db
 //app.CreateDbIfNotExists();
 
+// serves from wwwroot
 app.UseStaticFiles();
 app.MapFallbackToFile("index.html");
 

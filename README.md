@@ -71,3 +71,32 @@ npm run dev
 
 Go To:
 `http://localhost:5173/`
+
+## Docker Instructions
+Build the Docker image
+```bash
+docker build . -t uwindsor-schedule-maker
+```
+
+Build the Docker image
+```bash
+docker run -p 5000:8080 windsor-schedule-maker:latest
+```
+
+Go To:
+`http://localhost:5000/`
+
+OR
+
+Pull the Docker image
+```bash
+docker pull aaronsinn/uwindsor-schedule-maker
+```
+
+Build the Docker image
+```bash
+docker run -p 5000:8080 aaronsinn/uwindsor-schedule-maker:latest
+```
+
+Go To:
+`http://localhost:5000/`
