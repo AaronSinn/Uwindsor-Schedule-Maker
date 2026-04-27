@@ -1,0 +1,4 @@
+fitz
+pypdf==6.10.2
+requests==2.35.5
+re

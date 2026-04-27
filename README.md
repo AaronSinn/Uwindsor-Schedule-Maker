@@ -39,9 +39,9 @@ Move into Uwindsor Data Parser Directory
 ```bash
 cd Uwindsor Data Parser
 ```
-Install the requests module
+Install the dependencies
 ```bash
-pip3 install requests
+pip3 install -r requirements.txt
 ```
 Create the Text file for the parser to work with - Modify any information regarding the PDF if necessary
 ```bash

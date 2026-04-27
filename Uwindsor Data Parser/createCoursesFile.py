@@ -1,12 +1,16 @@
 import fitz
+from pypdf import PdfReader
 
-timetable = fitz.open("PDFs/winter_2026_ugrd_timetable.pdf")
+PDF_NAME = "summer_2026_ugrd_timetable.pdf"
+PDF_PAGE_SIZE = len(PdfReader(f"PDFs/{PDF_NAME}").pages)
+
+timetable = fitz.open(f"PDFs/{PDF_NAME}")
 
 #lines in the PDF that are irelevant and give the parser trouble
 linesToDelete = [
-    "Winter 2026 Course Offerings\n",
-    "Monday, November 17, 2025\n",
-    "02:33:32 AM\n",
+    "Inter/Summer 2026 Course Offerings\n",
+    "Monday, April 20, 2026\n",
+    "02:30:13 AM\n",
     "Course Section\n",
     "Credits\n",
     "Act\n",
@@ -21,8 +25,6 @@ linesToDelete = [
     "Bldg/Room\n",
     "Professor\n",
 ]
-PDF_PAGE_SIZE = 75
-
 
 pdfText = ""
 for page in timetable:

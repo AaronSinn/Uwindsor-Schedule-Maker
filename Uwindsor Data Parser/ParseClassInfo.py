@@ -1,4 +1,4 @@
-import fitz, re, requests
+import re, requests
 
 IS_PROF_AND_ROOM_STATED = False
 DELETE_URL = 'http://localhost:5150/api/Course/DeleteAllCourses'
