@@ -1,0 +1,17 @@
+# Stage 1: Build .NET Backend
+FROM mcr.microsoft.com/dotnet/sdk:8.0 AS backend_build
+WORKDIR /src
+
+COPY backend/ ./backend/
+RUN dotnet restore "backend/backend.csproj"
+WORKDIR "/src/backend"
+RUN rm -rf wwwroot
+RUN dotnet publish "backend.csproj" -c Release -o /app/publish /p:UseAppHost=false
+
+# Stage 2: Final Runtime
+FROM mcr.microsoft.com/dotnet/aspnet:8.0
+WORKDIR /app
+COPY --from=backend_build /app/publish .
+EXPOSE 8080
+ENV ASPNETCORE_HTTP_PORTS=8080
+ENTRYPOINT ["dotnet", "backend.dll"]

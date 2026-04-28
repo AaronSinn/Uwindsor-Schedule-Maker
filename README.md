@@ -75,12 +75,12 @@ Go To:
 ## Docker Instructions
 Build the Docker image
 ```bash
-docker build . -t uwindsor-schedule-maker
+docker build -f Dockerfile.fullstack -t uwindsor-schedule-maker
 ```
 
 Build the Docker image
 ```bash
-docker run -p 5000:8080 windsor-schedule-maker:latest
+docker run -p 5000:8080 uwindsor-schedule-maker:latest
 ```
 
 Go To:
