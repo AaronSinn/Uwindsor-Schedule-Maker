@@ -14,7 +14,7 @@ export default function ClassForm() {
         const fetchDropdownValues = async () => {
             try {
                 const values = await GetCourseDropdownValues();
-                setCoursesDropdownValues(values);
+                if (Array.isArray(values)) setCoursesDropdownValues(values);
             } catch (error) {
                 console.error('Failed to fetch dropdown values:', error);
             } finally {

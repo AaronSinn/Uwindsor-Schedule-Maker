@@ -80,7 +80,7 @@ docker build -f Dockerfile.fullstack -t uwindsor-schedule-maker
 
 Build the Docker image
 ```bash
-docker run -p 5000:8080 uwindsor-schedule-maker:latest
+docker run -p 5000:8080 uwindsor-schedule-maker:latest .
 ```
 
 Go To:
