@@ -15,15 +15,11 @@ git clone <repo-url>
 Install the following NuGet packages and EF Core Tools in the `Backend` folder
 
 ```bash
-dotnet add package Microsoft.EntityFrameworkCore.Sqlite
-```
-
-```bash
-dotnet add package Microsoft.EntityFrameworkCore.Design
-```
-
-```bash
 dotnet tool install --global dotnet-ef
+```
+
+```bash
+dotnet restore
 ```
 
 Run the Backend API using
