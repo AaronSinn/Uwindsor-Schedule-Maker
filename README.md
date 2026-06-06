@@ -75,7 +75,7 @@ Go To:
 ## Docker Instructions
 Build the Docker image
 ```bash
-docker build -f Dockerfile.fullstack -t uwindsor-schedule-maker
+docker build -f Dockerfile.fullstack -t uwindsor-schedule-maker .
 ```
 
 Build the Docker image
