@@ -1,59 +1,36 @@
-import axios from "axios"
+import coursesFull from "./data/courses_full.json"
+import coursesMin from "./data/courses_min.json"
 
 export const GetAllCourses = async () => {
     try{
-        const data = await axios.get(`${import.meta.env.VITE_REACT_APP_API_URL}/api/Course/GetAllCourses`);
-        return data.data;
+        return coursesFull;
     }catch (error){
-        if(axios.isAxiosError(error)){
-            console.log("Axios Error Message: ", error.message);
-            return error.message;
-        } else{
-            console.log("Error: ", error.message);
-            return error.message;
-        }
+        console.log("Error: ", error.message);
+        return error.message;
     }
 }
 
 export const GetCourseDropdownValues = async () => {
     try{
-        const data = await axios.get(`${import.meta.env.VITE_REACT_APP_API_URL}/api/Course/GetCourseDropdownValues`);
-        return data.data;
+        return coursesMin;
     }catch (error){
-        if(axios.isAxiosError(error)){
-            console.log("Axios Error Message: ", error.message);
-            return error.message;
-        } else{
-            console.log("Error: ", error.message);
-            return error.message;
-        }
+        console.log("Error: ", error.message);
+        return error.message;
     }
 }
 
 export const GetSectionDataByCourseCode = async (code) => {
     try{
-        const data = await axios.get(`${import.meta.env.VITE_REACT_APP_API_URL}/api/Course/GetCourseByCode?code=${code}`);
-        // console.log(data);
-        if(data.data.length > 1) { //if the course had a laboratory
-            const sections = [...data.data[0].sections, ...data.data[1].sections]
-            const sectionsWithCourseCode = sections.map(section => ({
-                courseTitle: data.data[0].code,
+        const matchingCourses = coursesFull.filter(course => course.code === code);
+        const sectionsWithCourseCode = matchingCourses.flatMap(courseData =>
+            courseData.sections.map(section => ({
+                courseTitle: courseData.code,
                 ...section
             }))
-            return sectionsWithCourseCode;
-        }
-        const sectionsWithCourseCode = data.data[0].sections.map(section => ({
-            courseTitle: data.data[0].code,
-            ...section
-        }))
+        )
         return sectionsWithCourseCode;
     }catch (error){
-        if(axios.isAxiosError(error)){
-            console.log("Axios Error Message: ", error.message);
-            return error.message;
-        } else{
-            console.log("Error: ", error.message);
-            return error.message;
-        }
+        console.log("Error: ", error.message);
+        return error.message;
     }
 }

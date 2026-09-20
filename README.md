@@ -3,29 +3,8 @@ React app where users can create their weekly timetable for every class at the U
 
 ![screenshot](https://github.com/user-attachments/assets/d4fb22fd-2a53-409f-8ac9-d449bb01f0a7)
 
-
 ## Setup and Installation
-Ensure that you have the lastest version of Python, .NET 8.0 SDK., and Node.js installed.
-
-```bash
-git clone <repo-url>
-```
-## Setting up the Backend
-
-Install the following NuGet packages and EF Core Tools in the `Backend` folder
-
-```bash
-dotnet tool install --global dotnet-ef
-```
-
-```bash
-dotnet restore
-```
-
-Run the Backend API using
-```bash
-dotnet watch run
-```
+Ensure that you have the lastest version of Python and Node.js installed.
 
 ## Parsing the Data and Seeding the Database
 Change the URL in `ParseClassInfo.py` depending on the Port the backend is running on.
@@ -67,32 +46,3 @@ npm run dev
 
 Go To:
 `http://localhost:5173/`
-
-## Docker Instructions
-Build the Docker image
-```bash
-docker build -f Dockerfile.fullstack -t uwindsor-schedule-maker .
-```
-
-Run the Docker image
-```bash
-docker run -p 5000:8080 uwindsor-schedule-maker:latest 
-```
-
-Go To:
-`http://localhost:5000/`
-
-OR
-
-Pull the Docker image
-```bash
-docker pull aaronsinn/uwindsor-schedule-maker
-```
-
-Build the Docker image
-```bash
-docker run -p 5000:8080 aaronsinn/uwindsor-schedule-maker:latest
-```
-
-Go To:
-`http://localhost:5000/`

@@ -1,14 +1,6 @@
-import re, requests
-
-IS_PROF_AND_ROOM_STATED = False
-DELETE_URL = 'http://localhost:5150/api/Course/DeleteAllCourses'
-POST_URL= 'http://localhost:5150/api/Course/CreateCourse'
-HEADERS = {
-    "Content-Type": "application/json"
-}
-
-errorFile = open("errorFile.txt", "w+")
-postFile = open("postFile.txt", "w+")
+import re
+import json
+import shutil
 
 with open('./coursesFile.txt', 'r') as file:
     text = file.read()
@@ -16,8 +8,10 @@ with open('./coursesFile.txt', 'r') as file:
 courseRegex = re.compile(r"(\w{4}-\s*?\w{4}\w?) \(-\)\n(.*)\n(Section \d{1,2} [\s\S]*?)(?=\n\w{4}-\s*?\w{4}\w?|$)")
 courses = courseRegex.findall(text)
 
-#Deletes all of the current courses to make room for the new ones - TODO: maybe keep the old ones in the db instead, give the current courses a X202X code, frontend only uses course with X202X code?
-delete_response = requests.delete(DELETE_URL)
+all_courses = []
+courses_min = []
+
+course_min_Set = set()
 
 for course in courses:
     print(course, '\n')
@@ -75,15 +69,17 @@ for course in courses:
         "sections": sections_list
     }
 
-    print(course, '\n\n')
+    all_courses.append(course)
 
-    post_response = requests.post(POST_URL, json=course, headers=HEADERS)
+    if course["code"] not in course_min_Set:
+        courses_min.append({"name": course["code"], "code": course["code"]})
+    course_min_Set.add(course["code"])
 
-    if post_response.status_code == 200:
-        print("Request was successful!")
-        print(post_response.json())  # if the response is JSON
+with open('./courses_full.json', 'w') as file:
+    json.dump(all_courses, file, indent=2)
 
-        postFile.write(str(course) + "\n\n")
-    else:
-        errorFile.write(f"Error: {post_response.status_code}")
-        errorFile.write(post_response.text)
+with open('./courses_min.json', 'w') as file:
+    json.dump(courses_min, file, indent=2)
+
+shutil.copy('./courses_full.json', '../frontend/src/data/courses_full.json')
+shutil.copy('./courses_min.json', '../frontend/src/data/courses_min.json')
