@@ -12,3180 +12,610 @@ examination day. The determination of which examination shall be rescheduled and
 form from http://www.uwindsor.ca/registrar and submit to the Office of the Registrar.
 Note: These applications must be submitted by the end of the fourth week of classes (second week of classes for 6 week
 courses).
-Thursday, September 17, 
-2026
 Arts, Humanities, Soc Science
 Arts, Humanities, Soc Science
-ARSC-1000 (-)
-Intro to Interdisc Arts & Scie
-Section 1 Full
-3.00
-LEC
-T
-04:00 PM
-06:50 
-PM
-2026-
-09-10
-2026-
-12-09
-ARSC-3100 (-)
-Modes and Methods of Inquiry
-Section 1 
-3.00
-LEC
-M
-07:00 PM
-09:50 
-PM
-2026-
-09-10
-2026-
-12-09
-ARSC-4990A (-)
-Research Project
-Section 1 
-3.00
-LEC
-2026-
-09-10
-2026-
-12-09
-ARSC-4990B (-)
-Research Project
-Section 1 
-3.00
-LEC
-2026-
-09-10
-2026-
-12-09
-ARTX-   4XXX (-)
-International Exchange
-Section 28 Full
-15.00
-LEC
-2026-
-09-10
-2026-
-12-09
-CAVL-1970A (-)
-Prac: Prof Devt Pilot Training
-Section 1 
-3.00
-LEC
-W
-03:00 PM
-04:50 
-PM
-2026-
-09-10
-2026-
-12-09
-CAVL-2970A (-)
-Practm: Prof Devt Pilot Traing
-Section 1 
-3.00
-LEC
-W
-10:00 AM
-11:50 
-AM
-2026-
-09-10
-2026-
-12-09
-CAVL-3970A (-)
-Practm: Prof Devt Pilot Traing
-Section 1 
-3.00
-LEC
-T
-05:30 PM
-09:20 
-PM
-2026-
-09-10
-2026-
-12-09
-CAVL-4970A (-)
-Practm: Prof Devt Pilot Traing
-Thursday, September 17, 
-2026
-Section 1 
-3.00
-LEC
-T
-03:00 PM
-05:00 
-PM
-2026-
-09-10
-2026-
-12-09
 GART-1210 (-)
 An Intro to Indigenous Topics
 Section 91 Full
 3.00
 LEC
 2026-
-09-10
+05-04
 2026-
-12-09
+08-05
 Section 92 Full
 3.00
 LEC
 2026-
-09-10
+05-04
 2026-
-12-09
-GART-2090 (-)
-Ethics in the Professions
-Section 1 Full
-3.00
-LEC
-2026-
-09-10
-2026-
-12-09
-GART-2980 (-)
-Co-op Work Term I
+08-05
+GART-3980 (-)
+Co-op Work Term II
 Section 1 
 3.00
 LEC
 2026-
-09-10
+05-04
 2026-
-12-09
-GART-4000 (-)
-Mentorship and Learning
-Section 1 Full
+08-05
+GART-4980 (-)
+Co-op Work Term III
+Section 1 
 3.00
 LEC
-F
-01:00 PM
-03:50 
-PM
 2026-
-09-10
+05-04
 2026-
-12-09
-Section 2 Full
-3.00
-LEC
-F
-01:00 PM
-03:50 
-PM
-2026-
-09-10
-2026-
-12-09
+08-05
 SOSC-1210 (-)
 An Intro to Indigenous Topics
-Section 91 
+Section 91 Full
 3.00
 LEC
 2026-
-09-10
+05-04
 2026-
-12-09
+08-05
 Section 92 Full
 3.00
 LEC
 2026-
-09-10
+05-04
 2026-
-12-09
+08-05
 SOSC-2500 (-)
 Basic Quantitative Methods
-Section 1 Full
+Section 1 
 3.00
 LEC
-F
-08:30 AM
-11:20 
-AM
+TTH
+11:30 AM
+02:20 
+PM
 2026-
-09-10
+05-04
 2026-
-12-09
+06-15
 SOSC-2500 (-)
 Laboratory
-Section 51 Full
-LAB
-W
-09:00 AM
-09:50 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 52 Full
-LAB
-W
-10:00 AM
-10:50 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 53 Full
-LAB
-W
-07:00 PM
-07:50 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 54 Full
-LAB
-TH
-09:00 AM
-09:50 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 55 Full
-LAB
-TH
-10:00 AM
-10:50 
-AM
-2026-
-09-10
-2026-
-12-09
-SOSC-3500 (-)
-Prac Strategies -Social Change
-Section 1 
-3.00
-LEC
-MW
-10:00 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-SOSC-4000 (-)
-Mentorship and Learning
-Section 1 
-3.00
-LEC
-F
-01:00 PM
-03:50 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 2 
-3.00
-LEC
-F
-01:00 PM
-03:50 
-PM
-2026-
-09-10
-2026-
-12-09
-SOSC-4500 (-)
-Practicum in Social Change
-Section 91 
-3.00
-LEC
-TTH
-01:00 PM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Thursday, September 17, 
-2026
-Communication, Media, Film
-CMAF-1010 (-)
-Intro: Media and Society
-Section 1 Full
-3.00
-LEC
-T
-04:00 PM
-05:50 
-PM
-2026-
-09-10
-2026-
-12-09
-CMAF-1010 (-)
-Laboratory
 Section 51 
+3.00
 LAB
-W
+T
 09:00 AM
 09:50 
 AM
 2026-
-09-10
+05-04
 2026-
-12-09
+06-15
 Section 52 
+3.00
 LAB
-W
+T
 10:00 AM
 10:50 
 AM
 2026-
-09-10
+05-04
 2026-
-12-09
+06-15
 Section 53 
+3.00
 LAB
-TH
-04:00 PM
-04:50 
+W
+03:00 PM
+03:50 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
+06-15
 Section 54 
+3.00
 LAB
 TH
-05:00 PM
-05:50 
-PM
+10:00 AM
+10:50 
+AM
 2026-
-09-10
+05-04
 2026-
-12-09
+06-15
 Section 55 
+3.00
 LAB
-F
-11:30 AM
-12:20 
+TH
+03:00 PM
+03:50 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
+06-15
+Communication, Media, Film
 CMAF-2250 (-)
 Media Literacy
-Section 1 Full
-3.00
-LEC
-MW
-10:00 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-CMAF-2340 (-)
-Research Mthds - Communication
-Section 1 
-3.00
-LEC
-M
-11:30 AM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-CMAF-2400 (-)
-Cinema History I (Pre-War)
-Section 1 Full
-3.00
-LEC
-TTH
-10:00 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-CMAF-2900 (-)
-Spec Tpcs: Comm, Media & Film
 Section 1 
 3.00
 LEC
 TTH
-02:30 PM
-03:50 
-PM
-2026-
-09-10
-2026-
-12-09
-CMAF-3640 (-)
-Media, Tech & the Environ
-Section 1 Full
-3.00
-LEC
-W
 04:00 PM
 06:50 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
+06-15
 CMAF-3990 (-)
 Internship I
 Section 1 
 3.00
 LEC
 2026-
-09-10
+05-04
 2026-
-12-09
+08-05
 Section 2 
 6.00
 LEC
 2026-
-09-10
+05-04
 2026-
-12-09
-CMAF-4340 (-)
-Capstone Project I: Rsch Desgn
-Section 1 
-3.00
-LEC
-TH
-11:30 AM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-CMAF-4950 (-)
-Directed Reading
-Section 1 
-3.00
-LEC
-2026-
-09-10
-2026-
-12-09
+08-05
 CMAF-4990 (-)
 Internship II
 Section 1 
 3.00
 LEC
 2026-
-09-10
+05-04
 2026-
-12-09
-Thursday, September 17, 
-2026
+08-05
 Section 2 
 6.00
 LEC
 2026-
-09-10
+05-04
 2026-
-12-09
-FILM-1100 (-)
-Film Production I
-Section 1 Full
-3.00
-LEC
-W
-04:00 PM
-05:50 
-PM
-2026-
-09-10
-2026-
-12-09
-FILM-1100 (-)
-Laboratory
-Section 51 Full
-LAB
-TH
-08:30 AM
-09:20 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 52 Full
-LAB
-TH
-09:30 AM
-10:20 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 53 Full
-LAB
-TH
-10:30 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-FILM-1900 (-)
-Film Business & Prof Pract. I
-Section 1 
-3.00
-LEC
-W
-11:30 AM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-FILM-2300 (-)
-Screenwriting I
-Section 1 
-3.00
-LEC
-M
-04:00 PM
-05:50 
-PM
-2026-
-09-10
-2026-
-12-09
-FILM-2300 (-)
-Laboratory
-Section 51 
-LAB
-M
-06:00 PM
-06:50 
-PM
-2026-
-09-10
-2026-
-12-09
-FILM-2400 (-)
-Cinematography I
-Section 1 
-3.00
-LEC
-T
-07:00 PM
-09:50 
-PM
-2026-
-09-10
-2026-
-12-09
-FILM-3200 (-)
-Documentary Production II
-Section 1 
-3.00
-LEC
-TH
-11:30 AM
-12:50 
-PM
-2026-
-09-10
-2026-
-12-09
-FILM-3200 (-)
-Laboratory
-Section 51 
-LAB
-TH
-01:00 PM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-FILM-3400 (-)
-Cinematography II
-Section 1 
-3.00
-LEC
-TH
-07:00 PM
-09:50 
-PM
-2026-
-09-10
-2026-
-12-09
-FILM-3600 (-)
-Film  Editing II
-Section 1 Full
-3.00
-LEC
-T
-01:00 PM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-FILM-3600 (-)
-Laboratory
-Section 51 Full
-LAB
-T
-02:30 PM
-03:50 
-PM
-2026-
-09-10
-2026-
-12-09
-FILM-4100 (-)
-Film Production V
-Section 1 
-3.00
-LEC
-W
-07:00 PM
-09:50 
-PM
-2026-
-09-10
-2026-
-12-09
-FILM-4110 (-)
-Commercial and Industrial Film
-Thursday, September 17, 
-2026
-Section 1 Full
-3.00
-LEC
-M
-01:00 PM
-02:50 
-PM
-2026-
-09-10
-2026-
-12-09
-FILM-4110 (-)
-Laboratory
-Section 51 Full
-LAB
-M
-03:00 PM
-03:50 
-PM
-2026-
-09-10
-2026-
-12-09
+08-05
 Creative Arts
-MACS-2050 (-)
-Art and Material Culture
+VABE-3200 (-)
+Architectural Design VI
+Section 1 
+3.00
+LEC
+2026-
+05-04
+2026-
+08-05
+VSAR-3800 (-)
+Visual Arts Internship
 Section 1 Full
 3.00
 LEC
-F
-08:30 AM
-11:20 
-AM
 2026-
-09-10
+05-04
 2026-
-12-09
-F
-08:30 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-MACS-2600 (-)
-History of Photography
-Section 1 
-3.00
-LEC
-W
-11:30 AM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-MACS-3620 (-)
-Contemp Issues in Photography
-Section 1 Full
-3.00
-LEC
-M
-02:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-MACS-4520 (-)
-Urban Ecologies
-Section 1 
-3.00
-LEC
-W
-08:30 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-MUSC-1120 (-)
-Music Theory & Musicianship I
-Section 1 
-3.00
-LEC
-MW
-10:00 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-MUSC-1260 (-)
-Music History & Literature I
-Section 1 
-3.00
-LEC
-TTH
-01:00 PM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-MUSC-2550 (-)
-Vocal Techniques
-Section 1 
-3.00
-LEC
-TTH
-10:00 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-MUSC-4320 (-)
-New Music Workshop
-Section 1 
-3.00
-LEC
-W
-01:00 PM
-03:50 
-PM
-2026-
-09-10
-2026-
-12-09
-MUSP-2100 (-)
-University Singers
-Section 1 
-3.00
-LEC
-TTH
-04:30 PM
-06:20 
-PM
-2026-
-09-10
-2026-
-12-09
-MUSP-2400 (-)
-Jazz Ensemble
-Section 1 
-3.00
-LEC
-MW
-04:30 PM
-06:20 
-PM
-2026-
-09-10
-2026-
-12-09
-MUSP-2720 (-)
-Voice Classical
-Section 1 
-3.00
-LEC
-2026-
-09-10
-2026-
-12-09
-Thursday, September 17, 
-2026
-MUSP-2720 (-)
-Piano Classical
-Section 2 
-3.00
-LEC
-2026-
-09-10
-2026-
-12-09
-MUSP-2720 (-)
-Woodwinds Classical
-Section 3 
-3.00
-LEC
-2026-
-09-10
-2026-
-12-09
-MUSP-2720 (-)
-Brass Classical
-Section 4 
-3.00
-LEC
-2026-
-09-10
-2026-
-12-09
-MUSP-2720 (-)
-Strings Classical
-Section 5 
-3.00
-LEC
-2026-
-09-10
-2026-
-12-09
-MUSP-2720 (-)
-Percussion Classical
-Section 6 
-3.00
-LEC
-2026-
-09-10
-2026-
-12-09
-MUSP-2720 (-)
-Composition Classical
-Section 7 
-3.00
-LEC
-2026-
-09-10
-2026-
-12-09
-MUSP-2720 (-)
-Recital Classical
-Section 8 
-3.00
-LEC
-2026-
-09-10
-2026-
-12-09
-MUSP-2730 (-)
-Voice Jazz/Pop
-Section 1 
-3.00
-LEC
-2026-
-09-10
-2026-
-12-09
-MUSP-2730 (-)
-Recital Jazz/Pop
-Section 10 
-3.00
-LEC
-2026-
-09-10
-2026-
-12-09
-MUSP-2730 (-)
-Piano Jazz/Pop
-Section 2 
-3.00
-LEC
-2026-
-09-10
-2026-
-12-09
-MUSP-2730 (-)
-Woodwinds Jazz/Pop
-Section 3 
-3.00
-LEC
-2026-
-09-10
-2026-
-12-09
-MUSP-2730 (-)
-Brass Jazz/Pop
-Section 4 
-3.00
-LEC
-2026-
-09-10
-2026-
-12-09
-MUSP-2730 (-)
-Guitar Jazz/Pop
-Section 5 
-3.00
-LEC
-2026-
-09-10
-2026-
-12-09
-MUSP-2730 (-)
-Bass Jazz/Pop
-Section 6 
-3.00
-LEC
-2026-
-09-10
-2026-
-12-09
-Thursday, September 17, 
-2026
-MUSP-2730 (-)
-Percussion Jazz/Pop
-Section 7 
-3.00
-LEC
-2026-
-09-10
-2026-
-12-09
-MUSP-2730 (-)
-Production Jazz/Pop
-Section 8 
-3.00
-LEC
-2026-
-09-10
-2026-
-12-09
-MUSP-2730 (-)
-Composition/Arrangement
-Section 9 
-3.00
-LEC
-2026-
-09-10
-2026-
-12-09
-MUSP-4000 (-)
-Community Orchestra
-Section 1 
-3.00
-LEC
-2026-
-09-10
-2026-
-12-09
-MUSP-4000 (-)
-Percussion Ensemble & Techniqu
-Section 2 
-3.00
-LEC
-2026-
-09-10
-2026-
-12-09
-VABE-1100 (-)
-Architectural Design I
-Section 1 
-6.00
-LEC
-MW
-11:30 AM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-VABE-1100 (-)
-Laboratory
-Section 51 
-LAB
-MW
-03:00 PM
-05:50 
-PM
-2026-
-09-10
-2026-
-12-09
-VABE-1190 (-)
-Introduction to Architecture I
-Section 1 
-1.50
-LEC
-TTH
-12:30 PM
-04:00 
-PM
-2026-
-09-10
-2026-
-12-09
-VABE-2210 (-)
-Visual Communications III
-Section 1 
-3.00
-LEC
-TTH
-04:00 PM
-06:30 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 2 
-3.00
-LEC
-TH
-03:30 PM
-06:00 
-PM
-2026-
-09-10
-2026-
-12-09
-VABE-2300 (-)
-Architectural Design III
-Section 1 
-3.00
-LEC
-MWF
-02:00 PM
-06:00 
-PM
-2026-
-09-10
-2026-
-12-09
-VABE-2640 (-)
-Building Structures 1
-Section 1 
-1.00
-LEC
-TTH
-02:00 PM
-03:15 
-PM
-2026-
-09-10
-2026-
-10-30
-VABE-2660 (-)
-Building Environment I
-Section 1 
-1.00
-LEC
-TTH
-02:00 PM
-03:15 
-PM
-2026-
-09-10
-2026-
-10-30
-VABE-2680 (-)
-Building Construction 1
-Section 1 
-1.00
-LEC
-TTH
-02:00 PM
-03:15 
-PM
-2026-
-11-02
-2026-
-12-17
-VABE-3000 (-)
-Co-op Training Presentation
-Thursday, September 17, 
-2026
-Section 1 
-3.00
-LEC
-T
-06:40 PM
-09:10 
-PM
-2026-
-09-10
-2026-
-12-09
-VABE-3100 (-)
-Architectural Design V
-Section 1 
-3.00
-LEC
-MWF
-02:00 PM
-03:00 
-PM
-2026-
-09-10
-2026-
-12-09
-VSAR-1060 (-)
-Intro to the Elements of Art
-Section 1 Full
-3.00
-LEC
-M
-11:30 AM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-VSAR-1070 (-)
-Introduction to Drawing and Pa
-Section 1 Full
-3.00
-LEC
-TH
-05:30 PM
-08:20 
-PM
-2026-
-09-10
-2026-
-12-09
-T
-08:30 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-VSAR-2330 (-)
-Sculpture
-Section 1 Full
-3.00
-LEC
-F
-11:30 AM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-VSAR-2430 (-)
-Time-Based Art
-M
-08:30 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 2 Full
-3.00
-LEC
-T
-02:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-VSAR-3130 (-)
-Advanced Painting
-Section 1 Full
-3.00
-LEC
-W
-02:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-VSAR-3850 (-)
-Green Corridor
-Section 1 
-3.00
-LEC
-M
-06:00 PM
-08:50 
-PM
-2026-
-09-10
-2026-
-12-09
-VSAR-4800 (-)
-Studio Practice I
-Section 1 
-6.00
-LEC
-TH
-11:30 AM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
+08-05
 Dramatic Arts
-DRAM-1000 (-)
-Int. to Drama, Theatre & Perf
-Section 1 
-3.00
-LEC
-W
-01:00 PM
-02:50 
-PM
-2026-
-09-10
-2026-
-12-09
-DRAM-1000 (-)
-Laboratory
-Section 51 Full
-3.00
-LAB
-M
-10:00 AM
-10:50 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 52 
-LAB
-M
-10:00 AM
-10:50 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 53 Full
-LAB
-M
-11:00 AM
-11:50 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 54 
-LAB
-M
-11:00 AM
-11:50 
-AM
-2026-
-09-10
-2026-
-12-09
-DRAM-1300 (-)
-Theatre History I
-Thursday, September 17, 
-2026
-Section 1 Full
-3.00
-LEC
-M
-02:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-DRAM-2600 (-)
-Drama in Clsrm: Princ&Theories
-Section 1 
-3.00
-LEC
-T
-01:00 PM
-03:50 
-PM
-2026-
-09-10
-2026-
-12-09
-DRAM-3100 (-)
-Play Creation
-Section 1 Full
-3.00
-LEC
-W
-10:00 AM
-12:50 
-PM
-2026-
-09-10
-2026-
-12-09
-DRAM-3210 (-)
-Mod/Contemp Work in Progress I
-Section 1 
-3.00
-LEC
-MTWTH
-01:00 PM
-03:50 
-PM
-2026-
-11-02
-2026-
-12-17
-DRAM-3260 (-)
-Voice&Movement for the Actor I
-Section 1 
-3.00
-LEC
-TTH
-10:00 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-DRAM-3510 (-)
-Production Problems
-Section 1 
-3.00
-LEC
-2026-
-09-10
-2026-
-12-09
-Section 2 
-3.00
-LEC
-2026-
-09-10
-2026-
-12-09
 DRAM-3520 (-)
 Production Problems
 Section 1 
 3.00
 LEC
 2026-
-09-10
+07-15
 2026-
-12-09
-Section 4 
+07-19
+Section 2 
 3.00
 LEC
 2026-
-09-10
+07-15
 2026-
-12-09
-Section 5 
-3.00
-LEC
-2026-
-09-10
-2026-
-12-09
-DRAM-3530 (-)
-Production Problems:Stage Mgmt
-Section 1 
-3.00
-LEC
-2026-
-09-10
-2026-
-12-09
+07-19
 DRAM-3980 (-)
 Intership I: Arts Mgmt Cert
 Section 1 
 3.00
 LEC
 2026-
-09-10
+05-04
 2026-
-12-09
-DRAM-4200 (-)
-Graduation Recital
-Section 1 
-3.00
-LEC
-F
-01:00 PM
-03:50 
-PM
-2026-
-09-10
-2026-
-12-09
-DRAM-4510 (-)
-Advanced Shakespeare Performan
-Section 1 
+08-05
+DRAM-4000 (-)
+Voice and Text - Stratford
+Section 1 Full
 3.00
 LEC
 MTWTH
-01:00 PM
-03:50 
+FSA
+09:00 AM
+12:00 
 PM
 2026-
-09-10
+06-01
 2026-
-10-30
-DRAM-4530 (-)
-Dir Stud in screen/stage perf
-Section 1 Full
-3.00
-LEC
-TWTH
-06:00 PM
-10:00 
-PM
-2026-
-09-10
-2026-
-12-09
+06-13
 English and Creative Writing
-ENGL-1002 (-)
-Writing about Literature
-Thursday, September 17, 
-2026
-Section 1 Full
-3.00
-LEC
-MW
-10:00 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 2 Full
-3.00
-LEC
-TTH
-01:00 PM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 3 Full
-3.00
-LEC
-TTH
-10:00 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-ENGL-1003 (-)
-Early British Literature
-Section 1 Full
-3.00
-LEC
-TTH
-11:30 AM
-12:50 
-PM
-2026-
-09-10
-2026-
-12-09
 ENGL-1010 (-)
 Academic Writing
-Section 1 
+Section 1 Full
 3.00
 LEC
 2026-
-09-10
+05-04
 2026-
-12-09
-Section 2 Full
-3.00
-LEC
-2026-
-09-10
-2026-
-12-09
-Section 3 Full
-3.00
-LEC
-2026-
-09-10
-2026-
-12-09
-Section 4 
-3.00
-LEC
-2026-
-09-10
-2026-
-12-09
+06-15
 ENGL-1010 (-)
 Laboratory
 Section 51 Full
-3.00
-LAB
-T
-01:00 PM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 52 
-3.00
 LAB
 T
 02:30 PM
-03:50 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 53 Full
-3.00
-LAB
-W
-10:00 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 54 Full
-3.00
-LAB
-T
-10:00 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 55 Full
-3.00
-LAB
-T
-11:30 AM
-12:50 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 56 Full
-3.00
-LAB
-W
-11:30 AM
-12:50 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 57 
-3.00
-LAB
-W
-01:00 PM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-ENGL-2030 (-)
-Shakespeare
-Section 1 
-3.00
-LEC
-TTH
-10:00 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-ENGL-2110 (-)
-Romantic Literature
-Section 1 
-3.00
-LEC
-MW
-10:00 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-ENGL-2130 (-)
-Mod/Cont. Brit/Irish Lit
-Section 1 
-3.00
-LEC
-TTH
-11:30 AM
-12:50 
-PM
-2026-
-09-10
-2026-
-12-09
-ENGL-2410 (-)
-Rhetoric
-Section 1 Full
-3.00
-LEC
-MW
-11:30 AM
-12:50 
-PM
-2026-
-09-10
-2026-
-12-09
-ENGL-2510 (-)
-Comic Drama
-Section 1 
-3.00
-LEC
-MW
-04:00 PM
 05:20 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
-ENGL-2710A (-)
-Creative Writing I
-Thursday, September 17, 
-2026
-Section 1 
-3.00
-LEC
-MW
-01:00 PM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-ENGL-3020 (-)
-Bodies, Souls, and Science
-Section 1 Full
-3.00
-LEC
-TTH
-04:00 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-ENGL-3120 (-)
-Vict Lit: Blue Humanities
-Section 1 
-3.00
-LEC
-TTH
-01:00 PM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-ENGL-3220 (-)
-American Romanticism
-Section 1 
-3.00
-LEC
-MW
-02:30 PM
-03:50 
-PM
-2026-
-09-10
-2026-
-12-09
-ENGL-3520 (-)
-Literary Controversies
-Section 1 Full
-3.00
-LEC
-TTH
-10:00 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-ENGL-3520 (-)
-Literature and the Visual Arts
-Section 2 
-3.00
-LEC
-TTH
-02:30 PM
-03:50 
-PM
-2026-
-09-10
-2026-
-12-09
-ENGL-3710 (-)
-Children's Literature
-Section 1 
-3.00
-LEC
-W
-01:00 PM
-03:50 
-PM
-2026-
-09-10
-2026-
-12-09
-ENGL-4000 (-)
-New Fiction by Irish Women
-Section 1 
-3.00
-LEC
-MW
-02:30 PM
-03:50 
-PM
-2026-
-09-10
-2026-
-12-09
-ENGL-4003 (-)
-Editing Practicum
-Section 1 
-3.00
-LEC
-M
-10:00 AM
-12:50 
-PM
-2026-
-09-10
-2026-
-12-09
-ENGL-4710A (-)
-Creative Writing III
-Section 1 
-3.00
-LEC
-M
-01:00 PM
-03:50 
-PM
-2026-
-09-10
-2026-
-12-09
-History
-HIST-1030 (-)
-Past-Present:Understandng Hist
-Section 1 
-3.00
-LEC
-T
-04:00 PM
-06:50 
-PM
-2026-
-09-10
-2026-
-12-09
-HIST-1230 (-)
-World - 20 Century: 1914-1945
-Section 1 
-3.00
-LEC
-MW
-12:30 PM
-01:20 
-PM
-2026-
-09-10
-2026-
-12-09
-HIST-1230 (-)
-Laboratory
-Section 51 Full
-LAB
-F
-10:00 AM
-10:50 
-AM
-2026-
-09-10
-2026-
-12-09
+06-15
 Section 52 Full
 LAB
-F
-11:00 AM
-11:50 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 53 Full
-LAB
-F
-12:00 PM
+W
+10:00 AM
 12:50 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
-Thursday, September 17, 
-2026
-Section 54 Full
-LAB
-F
-01:00 PM
-01:50 
+06-15
+ENGL-2510 (-)
+Poetics Shakespeare-Atwood
+Section 1 
+3.00
+LEC
+TTH
+10:00 AM
+12:50 
 PM
 2026-
-09-10
+06-22
 2026-
-12-09
-Section 55 
-LAB
-F
-08:30 AM
-09:20 
-AM
+08-04
+ENGL-2510 (-)
+The Short Story
+Section 1 
+3.00
+LEC
+TTH
+10:00 AM
+12:50 
+PM
 2026-
-09-10
+05-04
 2026-
-12-09
-Section 56 Full
-LAB
-F
-09:30 AM
-10:20 
-AM
+06-15
+ENGL-2530 (-)
+Shakespeare in Performance
+Section 1 Full
+3.00
+LEC
 2026-
-09-10
+06-01
 2026-
-12-09
-HIST-2070 (-)
-Early Modern England:1485-1714
+06-13
+History
+HIST-1140 (-)
+Eur: Age of Discvry 15-18 Cent
 Section 1 
 3.00
 LEC
 MW
-10:00 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-HIST-2120 (-)
-Mod Islamic Hist: 1800-Present
-Section 1 
-3.00
-LEC
-TTH
-01:00 PM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-HIST-2430 (-)
-Canada, 1600 - 1867
-Section 1 Full
-3.00
-LEC
-TTH
 08:30 AM
-09:50 
-AM
-2026-
-09-10
-2026-
-12-09
-HIST-2460 (-)
-Aborigl Ppl Cdn Hist:Mid 19th
-Section 1 Full
-3.00
-LEC
-TTH
-11:30 AM
-12:50 
-PM
-2026-
-09-10
-2026-
-12-09
-HIST-2510 (-)
-Hist/Women's Mvts in N Amer
-Section 1 Full
-3.00
-LEC
-TTH
-10:00 AM
 11:20 
 AM
 2026-
-09-10
+06-22
 2026-
-12-09
-HIST-3030 (-)
-Schools of Historical Thought
-Section 1 Full
+08-04
+HIST-1970 (-)
+Queer History of Canada
+Section 1 
 3.00
 LEC
 MW
 02:30 PM
-03:50 
+05:20 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
-HIST-3480 (-)
-Canada/US Relations since 1783
-Section 1 Full
-3.00
-LEC
-TTH
-01:00 PM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-HIST-3970 (-)
-Arabs & Hist of Global Diaspor
-Section 1 
-3.00
-LEC
-MW
-01:00 PM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-HIST-3970 (-)
-God, King, & Parish: The Churc
-Section 2 
-3.00
-LEC
-TTH
-10:00 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-HIST-4350 (-)
-Early Modern Atlantic World
-Section 1 Full
-3.00
-LEC
-TH
-04:00 PM
-06:50 
-PM
-2026-
-09-10
-2026-
-12-09
-HIST-4800 (-)
-Public History
-Section 1 
-3.00
-LEC
-M
-04:00 PM
-06:50 
-PM
-2026-
-09-10
-2026-
-12-09
+06-15
 Interdisc &Critical Studies
-IACS-1000 (-)
-Social Justice in Action
-Section 1 Full
-3.00
-LEC
-MW
-08:30 AM
-09:50 
-AM
-2026-
-09-10
-2026-
-12-09
-Thursday, September 17, 
-2026
-IACS-2180 (-)
-Everyday Conflicts/ Resolution
-Section 1 Full
-3.00
-LEC
-TTH
-11:30 AM
-12:50 
-PM
-2026-
-09-10
-2026-
-12-09
-IACS-3500 (-)
-Pract Strat/Soc Change
+ICWG-1200 (-)
+Gal Pals: Women and Friendship
 Section 1 
-3.00
-LEC
-MW
-10:00 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-IACS-4500 (-)
-Practicum in Social Change
-Section 91 
-3.00
-LEC
-TTH
-01:00 PM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-ICDS-2010 (-)
-Dis.Studies/Theories & Culture
-Section 1 
-3.00
-LEC
-TTH
-01:00 PM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-ICDS-4010 (-)
-Comm Approachs, Advocy&Empowrt
-Section 1 
-3.00
-LEC
-M
-02:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-ICLS-1000 (-)
-Lab & Soc Mvt-Canadian Society
-Section 1 
-3.00
-LEC
-TTH
-02:30 PM
-03:50 
-PM
-2026-
-09-10
-2026-
-12-09
-ICWG-1000 (-)
-Women in Canadian Society
-Section 1 Full
-3.00
-LEC
-TTH
-11:30 AM
-12:50 
-PM
-2026-
-09-10
-2026-
-12-09
-ICWG-1300 (-)
-Imagining Women
-Section 1 Full
-3.00
-LEC
-MW
-02:30 PM
-03:50 
-PM
-2026-
-09-10
-2026-
-12-09
-ICWG-2100 (-)
-Gender, Sexuality and Social J
-Section 1 Full
-3.00
-LEC
-TH
-08:30 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-ICWG-2200 (-)
-Women, Race and Social Justice
-Section 1 
-3.00
-LEC
-W
-11:30 AM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-ICWG-2510 (-)
-Women's Movements in N America
-Section 1 Full
 3.00
 LEC
 TTH
 10:00 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-ICWG-2990 (-)
-Intro. to Black Studies
-Section 1 
-3.00
-LEC
-F
-08:30 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-ICWG-2990 (-)
-Reclaiming Hollywood:Indigenou
-Section 91 Full
-3.00
-LEC
-MW
-04:00 PM
-05:20 
+12:50 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
-ICWG-3000 (-)
-Seminar/Emerging Feminist Sch
+06-15
+ICWG-2110 (-)
+Women and Politics
+Section 1 Full
+3.00
+LEC
+2026-
+05-04
+2026-
+08-05
+ICWG-3540 (-)
+Home/Work/Leisure/ Digital Age
 Section 1 
 3.00
 LEC
 TTH
-02:30 PM
-03:50 
+10:00 AM
+12:50 
 PM
 2026-
-09-10
+06-22
 2026-
-12-09
-Thursday, September 17, 
-2026
+08-04
 Languages, Literature, Culture
-FREN-1140 (-)
-Intermediate French II
-Section 1 
-3.00
-LEC
-MW
-04:00 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-FREN-1210 (-)
-French Language Training I
-Section 1 Full
-3.00
-LEC
-MW
-10:00 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 2 
-3.00
-LEC
-TTH
-01:00 PM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-FREN-1410 (-)
-Intro to Literary Studies
-Section 1 
-3.00
-LEC
-TTH
-10:00 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-FREN-2150 (-)
-Oral Proficiency in French I
-Section 1 Full
-3.00
-LEC
-MW
-01:00 PM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-FREN-2210 (-)
-French Language Training III
-Section 1 
-3.00
-LEC
-MW
-10:00 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-FREN-2300 (-)
-Introduction to Linguistics I
-Section 1 
-3.00
-LEC
-TTH
-11:30 AM
-12:50 
-PM
-2026-
-09-10
-2026-
-12-09
-FREN-3250 (-)
-Error Analysis
-Section 1 
-3.00
-LEC
-TTH
-01:00 PM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-FREN-3300 (-)
-Issues in 1st & 2nd Lang. Acqu
-Section 1 Full
-3.00
-LEC
-MW
-11:30 AM
-12:50 
-PM
-2026-
-09-10
-2026-
-12-09
-FREN-3560 (-)
-Fran Lit of Sub-Saharan Africa
-Section 1 
-3.00
-LEC
-TTH
-10:00 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-FREN-3850 (-)
-Poetry/Quebec&Other Fr Regions
-Section 1 Full
-3.00
-LEC
-TTH
-02:30 PM
-03:50 
-PM
-2026-
-09-10
-2026-
-12-09
-GREK-1100 (-)
-Intro to Ancient Greek I
-Section 1 
-3.00
-LEC
-TTH
-10:00 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-GRHS-2200 (-)
-Roman Hist I: Republic End
-Section 1 
-3.00
-LEC
-TTH
-04:00 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-GRMN-2600 (-)
-Germ Culture & Civilization I
-Thursday, September 17, 
-2026
-Section 1 Full
-3.00
-LEC
-MW
-11:30 AM
-12:50 
-PM
-2026-
-09-10
-2026-
-12-09
-GRMN-3010 (-)
-Advanced German II
+FREN-4970 (-)
+"Les Philosophes" & the French
 Section 1 Full
 3.00
 LEC
 2026-
-09-10
+05-04
 2026-
-12-09
-GRST-1200 (-)
-Intro to Roman Civilization
-Section 1 
-3.00
-LEC
-TTH
-01:00 PM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-GRST-2030 (-)
-Religions of the Ancient World
-Section 1 
-3.00
-LEC
-MW
-10:00 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-GRST-2111 (-)
-Greek Tragedy
-Section 1 
-3.00
-LEC
-TTH
-02:30 PM
-04:00 
-PM
-2026-
-09-10
-2026-
-12-09
-GRST-2120 (-)
-Greek Art and Archeology
-Section 1 Full
-3.00
-LEC
-MW
-01:00 PM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-INCS-1370 (-)
-Intro: Germ / Ital / Span Lit
-Section 1 
-3.00
-LEC
-TTH
-02:30 PM
-04:00 
-PM
-2026-
-09-10
-2026-
-12-09
-INCS-3370 (-)
-Applied Literary Criticism
-Section 1 
-3.00
-LEC
-M
-03:00 PM
-05:50 
-PM
-2026-
-09-10
-2026-
-12-09
-ITLN-2020 (-)
-Intensive Intermediate Italian
-Section 1 
-6.00
-LEC
-MTWTH
-01:00 PM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-LING-2200 (-)
-Language and Society
-Section 1 Full
-3.00
-LEC
-TTH
-11:30 AM
-12:50 
-PM
-2026-
-09-10
-2026-
-12-09
-LING-3200 (-)
-Theories of Lang Acquisition
-Section 1 
-3.00
-LEC
-TTH
-04:00 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-SPAN-1020 (-)
-Intensive Spanish: Beginners
-Section 1 Full
-6.00
-LEC
-MTWTH
-08:30 AM
-09:50 
-AM
-2026-
-09-10
-2026-
-12-09
-SPAN-2610 (-)
-Culture&Civ of Spanish America
-Section 1 
-3.00
-LEC
-MW
-10:00 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-SPAN-3000 (-)
-Advanced Spanish I
-Section 1 Full
-3.00
-LEC
-MW
-01:00 PM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-SPAN-3010 (-)
-Advanced Spanish II
-Thursday, September 17, 
-2026
-Section 1 
-3.00
-LEC
-TTH
-01:00 PM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
+06-15
 Philosophy
-PHIL-1100 (-)
-Intro to Western Philosophy
-Section 91 Full
-3.00
-LEC
-2026-
-09-10
-2026-
-12-09
-PHIL-1120 (-)
-Philosophy and Human Nature
-Section 91 Full
-3.00
-LEC
-2026-
-09-10
-2026-
-12-09
-PHIL-1290 (-)
-Contemporary Moral Issues
-Section 1 
-3.00
-LEC
-TTH
-01:00 PM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-PHIL-1300 (-)
-Philosophy and Popular Culture
-Section 1 
-3.00
-LEC
-TTH
-04:00 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-PHIL-1600 (-)
-Reasoning Skills
-Section 1 Full
-3.00
-LEC
-MW
-01:00 PM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-PHIL-2210 (-)
-Introduction to Ethics
-Section 91 Full
-3.00
-LEC
-2026-
-09-10
-2026-
-12-09
-PHIL-2270 (-)
-Environmental Ethics
-Section 1 Full
-3.00
-LEC
-2026-
-09-10
-2026-
-12-09
-PHIL-2500 (-)
-Metaphysics
+PHIL-2250 (-)
+Ethics of LIfe, Death & Health
 Section 1 
 3.00
 LEC
 MW
-08:30 AM
-09:50 
-AM
+11:30 AM
+02:20 
+PM
 2026-
-09-10
+06-22
 2026-
-12-09
-PHIL-2520 (-)
-Existentialism
-Section 1 
-3.00
-LEC
-TTH
-10:00 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-PHIL-2730 (-)
-Ancient Greek Philosophy
+08-04
+PHIL-2550 (-)
+Knowledge, Science, & Society
 Section 1 
 3.00
 LEC
 TTH
 11:30 AM
-12:50 
-PM
-2026-
-09-10
-2026-
-12-09
-PHIL-3290 (-)
-Animal Ethics
-Section 1 Full
-3.00
-LEC
-TTH
-01:00 PM
 02:20 
 PM
 2026-
-09-10
+06-22
 2026-
-12-09
-PHIL-3520 (-)
-Philosophy and Language
+08-04
+PHIL-2660 (-)
+Reasoning About Weird Things
 Section 1 
 3.00
 LEC
-W
-02:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-PHIL-3760 (-)
-Kant
-Thursday, September 17, 
-2026
-Section 1 
-3.00
-LEC
-TTH
-02:30 PM
+MW
+01:00 PM
 03:50 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
-PHIL-4100 (-)
-Senior Seminar: Pragmatist Phi
-Section 1 
-3.00
-LEC
-2026-
-09-10
-2026-
-12-09
-PHIL-4720 (-)
-Analytic/Pragmatist Philosophy
-Section 1 
-3.00
-LEC
-M
-10:00 AM
-12:50 
-PM
-2026-
-09-10
-2026-
-12-09
-PHIL-4910 (-)
-Honours Seminar
-Section 1 
-3.00
-LEC
-W
-10:00 AM
-12:50 
-PM
-2026-
-09-10
-2026-
-12-09
+06-15
 Political Science
-POLS-1000 (-)
-Intro: Cdn Govt & Politics
+POLS-2110 (-)
+Women and Politics
 Section 1 
 3.00
 LEC
-MW
-02:30 PM
-03:50 
-PM
 2026-
-09-10
+05-04
 2026-
-12-09
-Section 2 Full
-3.00
-LEC
-TTH
-10:00 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-POLS-1300 (-)
-Comp Politics in Changing Wld
-Section 1 Full
-3.00
-LEC
-TTH
-08:30 AM
-09:50 
-AM
-2026-
-09-10
-2026-
-12-09
-POLS-1600 (-)
-Intro: International Relations
-Section 1 Full
-3.00
-LEC
-TTH
-01:00 PM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-POLS-2000 (-)
-Indigenous Policy/Constitution
-Section 1 Full
-3.00
-LEC
-TTH
-07:00 PM
-08:20 
-PM
-2026-
-09-10
-2026-
-12-09
-POLS-2140 (-)
-Legal Process in Canada
+08-05
+POLS-2600 (-)
+Politics, Hist & Asian Religns
 Section 1 
 3.00
 LEC
-MW
-02:30 PM
-03:50 
-PM
 2026-
-09-10
+05-04
 2026-
-12-09
-POLS-2320 (-)
-Government &Politics of the US
-Section 1 Full
-3.00
-LEC
-TTH
-02:30 PM
-03:50 
-PM
-2026-
-09-10
-2026-
-12-09
-POLS-2330 (-)
-Politics: Developing World
+06-15
+POLS-4880 (-)
+European Union Study Abroad
 Section 1 
 3.00
 LEC
-TTH
-02:30 PM
-03:50 
-PM
 2026-
-09-10
+05-04
 2026-
-12-09
-POLS-2340 (-)
-The Making of the Global Worl
+06-15
+POLS-4990 (-)
+Contem Cdn Pol Issues (in Fren
 Section 1 
 3.00
 LEC
-MW
-10:00 AM
-11:20 
-AM
 2026-
-09-10
+05-04
 2026-
-12-09
-POLS-2440 (-)
-Government and Politics/Europe
-Section 1 
-3.00
-LEC
-MW
-08:30 AM
-09:50 
-AM
-2026-
-09-10
-2026-
-12-09
-Thursday, September 17, 
-2026
-POLS-2510 (-)
-Classical Political Thought
-Section 1 Full
-3.00
-LEC
-TTH
-01:00 PM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-POLS-2610 (-)
-Politics, Hist & Wstrn Religns
-Section 1 
-3.00
-LEC
-MW
-10:00 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-POLS-2680 (-)
-International Organizations
-Section 1 
-3.00
-LEC
-T
-04:00 PM
-06:50 
-PM
-2026-
-09-10
-2026-
-12-09
-POLS-3260 (-)
-Local Government
-Section 1 Full
-3.00
-LEC
-MW
-10:00 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-POLS-3550 (-)
-Political Economy - Intl Trade
-Section 1 
-3.00
-LEC
-W
-07:00 PM
-09:50 
-PM
-2026-
-09-10
-2026-
-12-09
-POLS-3600 (-)
-Intl Conflict & Its Resolution
-Section 1 Full
-3.00
-LEC
-TTH
-11:30 AM
-12:50 
-PM
-2026-
-09-10
-2026-
-12-09
-POLS-3720 (-)
-Relig Fundamentalism &Politics
-Section 1 
-3.00
-LEC
-MW
-02:30 PM
-03:50 
-PM
-2026-
-09-10
-2026-
-12-09
-POLS-4210 (-)
-Sem: Canadian Public Policy
-Section 1 
-3.00
-LEC
-M
-11:30 AM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-POLS-4340 (-)
-Sem: Politics of the US
-Section 1 
-3.00
-LEC
-T
-08:30 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-POLS-4410 (-)
-New Scramble-African Resources
-Section 1 
-3.00
-LEC
-W
-11:30 AM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-POLS-4420 (-)
-Pol & Sec. in Russia & Eurasia
-Section 1 
-3.00
-LEC
-TH
-11:30 AM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-POLS-4970 (-)
-Pol. Sci - Thesis1: Res. Desig
-Section 1 
-3.00
-LEC
-TH
-08:30 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
+06-15
 Psychology
-PSYC-   2XXX (-)
-Senior Psychology Elective
-Section 29 
-3.00
-LEC
-2026-
-09-10
-2026-
-12-09
 PSYC-1150 (-)
 Intro: Psyc / Behavioural Scie
-Thursday, September 17, 
-2026
-Section 1 Full
-3.00
-LEC
-TTH
-10:00 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 2 Full
-3.00
-LEC
-TTH
-10:00 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 30 
-3.00
-LEC
-T
-07:00 PM
-09:50 
-PM
-2026-
-09-10
-2026-
-12-09
-PSYC-1160 (-)
-Intro: Psychology /Social Scie
 Section 1 
 3.00
 LEC
-T
-04:00 PM
-06:50 
+TTH
+08:30 AM
+11:20 
+AM
+2026-
+05-04
+2026-
+06-15
+PSYC-2230 (-)
+Devl Psychology: The Child
+Section 91 Full
+3.00
+LEC
+2026-
+05-04
+2026-
+06-15
+PSYC-2280 (-)
+Psychological Disorders
+Section 1 
+3.00
+LEC
+TTH
+08:30 AM
+11:20 
+AM
+2026-
+06-22
+2026-
+08-04
+PSYC-3100 (-)
+LGBTQ & Sex & Mental Health Se
+Section 1 Full
+3.00
+LEC
+2026-
+05-04
+2026-
+08-05
+PSYC-3390 (-)
+Health Psychology
+Section 91 Full
+3.00
+LEC
+2026-
+06-22
+2026-
+08-04
+Social Work
+SWRK-2000 (-)
+Statistics for Social Workers
+Section 91 
+3.00
+LEC
+2026-
+05-04
+2026-
+06-15
+Section 92 
+3.00
+LEC
+2026-
+05-04
+2026-
+06-15
+Sociology/Criminology
+SACR-3540 (-)
+Home/Work/Leisure/ Digital Age
+Section 1 
+3.00
+LEC
+TTH
+10:00 AM
+12:50 
 PM
 2026-
-09-10
+06-22
 2026-
-12-09
-PSYC-2180 (-)
-Everyday Disputes&Their Resoln
+08-04
+SACR-4220 (-)
+Adv Sem: Race and Ethnicity
+Section 1 
+3.00
+LEC
+WF
+02:30 PM
+05:20 
+PM
+2026-
+05-04
+2026-
+06-15
+Faculty of Engineering
+Civil and Environ.l Engin.g
+CIVL-3550 (-)
+Geotechnical Engineering I
+Section 1 
+3.00
+LEC
+MW
+10:00 AM
+11:20 
+AM
+2026-
+05-04
+2026-
+08-05
+CIVL-3550 (-)
+Laboratory
+Section 51 
+LAB
+M
+04:30 PM
+07:20 
+PM
+2026-
+05-04
+2026-
+08-05
+M
+04:30 PM
+07:20 
+PM
+2026-
+05-04
+2026-
+08-05
+CIVL-3610 (-)
+Masonry and Concrete Design
+Section 1 
+3.00
+LEC
+TTH
+01:00 PM
+02:20 
+PM
+2026-
+05-04
+2026-
+08-05
+CIVL-3610 (-)
+Laboratory
+Section 51 
+LAB
+M
+02:30 PM
+04:20 
+PM
+2026-
+05-04
+2026-
+08-05
+CIVL-3620 (-)
+Finite Element-Analysis&Design
 Section 1 
 3.00
 LEC
@@ -3194,1656 +624,328 @@ TTH
 12:50 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
-PSYC-2230 (-)
-Devl Psychology: The Child
-Section 1 
-3.00
-LEC
-MW
-02:30 PM
-03:50 
-PM
-2026-
-09-10
-2026-
-12-09
-PSYC-2240 (-)
-Devl Psychology: Adolescence
-Section 1 Full
-3.00
-LEC
-W
-04:00 PM
-06:50 
-PM
-2026-
-09-10
-2026-
-12-09
-PSYC-2250 (-)
-Dev Psy: Adulthood and Aging
-Section 1 
-3.00
-LEC
-MW
-01:00 PM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-PSYC-2300 (-)
-Social Scie Research Methods
-Section 1 
-3.00
-LEC
-TTH
-01:00 PM
-01:50 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 30 
-3.00
-LEC
-M
-07:00 PM
-08:50 
-PM
-2026-
-09-10
-2026-
-12-09
-PSYC-2300 (-)
+08-05
+CIVL-3620 (-)
 Laboratory
 Section 51 
-3.00
 LAB
 T
-07:00 PM
-08:50 
+05:30 PM
+07:20 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
-Section 52 
-3.00
-LAB
-W
-08:30 AM
-10:20 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 53 
-3.00
-LAB
-W
-10:00 AM
-11:50 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 54 
-3.00
-LAB
-W
-07:00 PM
-08:50 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 55 
-3.00
-LAB
-T
-08:30 AM
-10:20 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 56 
-3.00
-LAB
-T
-10:00 AM
-11:50 
-AM
-2026-
-09-10
-2026-
-12-09
-PSYC-2360 (-)
-Intro to Social Psychology
-Section 1 
-3.00
-LEC
-MW
-08:30 AM
-09:50 
-AM
-2026-
-09-10
-2026-
-12-09
-PSYC-2560 (-)
-Intro: Brain & Human Behaviour
+08-05
+CIVL-3640 (-)
+Structural Steel Design
 Section 1 
 3.00
 LEC
 TTH
-02:30 PM
-03:50 
-PM
+10:00 AM
+11:20 
+AM
 2026-
-09-10
+05-04
 2026-
-12-09
-PSYC-3130 (-)
-Advanced Statistics
-Section 1 Full
-3.00
-LEC
-MW
-01:00 PM
-01:50 
-PM
-2026-
-09-10
-2026-
-12-09
-Thursday, September 17, 
-2026
-PSYC-3130 (-)
+08-05
+CIVL-3640 (-)
 Laboratory
-Section 51 Full
+Section 51 
 LAB
-W
-05:00 PM
+TH
+04:00 PM
 05:50 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
-Section 52 Full
-LAB
-W
-08:00 PM
-08:50 
-PM
-2026-
-09-10
-2026-
-12-09
-PSYC-3200 (-)
-Tests & Measurement
-Section 1 
-3.00
-LEC
-TTH
-08:30 AM
-09:50 
-AM
-2026-
-09-10
-2026-
-12-09
-PSYC-3220 (-)
-Child Psychopathology
-Section 1 Full
-3.00
-LEC
-2026-
-09-10
-2026-
-12-09
-PSYC-3270 (-)
-Psyc Perspectives: Parenting
-Section 1 Full
-3.00
-LEC
-TTH
-02:30 PM
-03:50 
-PM
-2026-
-09-10
-2026-
-12-09
-PSYC-3330 (-)
-Intro to Clinical Psychology
-Section 1 
-3.00
-LEC
-M
-04:00 PM
-06:50 
-PM
-2026-
-09-10
-2026-
-12-09
-PSYC-3370 (-)
-Human Cognitive Neuroscience
-Section 1 
-3.00
-LEC
-MW
-11:30 AM
-12:50 
-PM
-2026-
-09-10
-2026-
-12-09
-PSYC-3390 (-)
-Health Psychology
-Section 30 
-3.00
-LEC
-W
-07:00 PM
-09:50 
-PM
-2026-
-09-10
-2026-
-12-09
-PSYC-3500 (-)
-Practical Strat: Social Change
-Section 1 Full
-3.00
-LEC
-MW
-10:00 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-PSYC-3580 (-)
-Cognitive Processes
-Section 1 Full
-3.00
-LEC
-T
-04:00 PM
-06:50 
-PM
-2026-
-09-10
-2026-
-12-09
-PSYC-3580 (-)
-Laboratory
-Section 51 Full
-LAB
-T
-07:00 PM
-07:50 
-PM
-2026-
-09-10
-2026-
-12-09
-PSYC-3700 (-)
-Indl - Organizational Psyc
-Section 1 Full
-3.00
-LEC
-MW
-02:30 PM
-03:50 
-PM
-2026-
-09-10
-2026-
-12-09
-PSYC-4000 (-)
-Sex & sexuality in the media
-Section 1 Full
-3.00
-LEC
-2026-
-09-10
-2026-
-12-09
-PSYC-4230 (-)
-Adv Developmental / Cognitive
-Section 1 
-3.00
-LEC
-TTH
-10:00 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 91 Full
-3.00
-LEC
-TTH
-10:00 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-Thursday, September 17, 
-2026
-PSYC-4240 (-)
-Advanced Developmental/Social
-Section 1 Full
-3.00
-LEC
-M
-04:00 PM
-06:50 
-PM
-2026-
-09-10
-2026-
-12-09
-PSYC-4270 (-)
-Methods of Behavioural Change
-Section 1 Full
-3.00
-LEC
-MW
-08:30 AM
-09:50 
-AM
-2026-
-09-10
-2026-
-12-09
-PSYC-4500 (-)
-Practicum in Social Change
-Section 91 Full
-3.00
-LEC
-TTH
-01:00 PM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-PSYC-4960 (-)
-Thesis: Seminar
+08-05
+CIVL-4000B (-)
+Capstone Design Project
 Section 1 
 3.00
 LEC
 F
-10:00 AM
-11:50 
+08:30 AM
+10:20 
 AM
 2026-
-09-10
+05-04
 2026-
-12-09
-Social Work
-SWRK-1170 (-)
-Meeting Hum Needs /Soc Welfare
+08-05
+CIVL-4710 (-)
+Hydrology
 Section 1 
-3.00
-LEC
-T
-08:30 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 30 
-3.00
-LEC
-M
-07:00 PM
-09:50 
-PM
-2026-
-09-10
-2026-
-12-09
-SWRK-2000 (-)
-Statistics for Social Workers
-Section 91 Full
-3.00
-LEC
-2026-
-09-10
-2026-
-12-09
-SWRK-2040 (-)
-Issues&Perspect-Social Welfare
-Section 1 
-3.00
-LEC
-M
-04:00 PM
-06:50 
-PM
-2026-
-09-10
-2026-
-12-09
-M
-04:00 PM
-06:50 
-PM
-2026-
-09-10
-2026-
-12-09
-SWRK-2100 (-)
-Social Work and Diversity
-Section 1 
-3.00
-LEC
-M
-01:00 PM
-03:50 
-PM
-2026-
-09-10
-2026-
-12-09
-M
-01:00 PM
-03:50 
-PM
-2026-
-09-10
-2026-
-12-09
-SWRK-3360 (-)
-Theory, Pract of SW With Indiv
-Section 1 Full
-3.00
-LEC
-M
-11:30 AM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 2 Full
-3.00
-LEC
-T
-11:30 AM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 3 
-3.00
-LEC
-TH
-02:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-SWRK-3370 (-)
-Theory, Pract of SW-Small Grps
-Section 1 Full
-3.00
-LEC
-M
-08:30 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 2 Full
-3.00
-LEC
-T
-08:30 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 3 
-3.00
-LEC
-TH
-08:30 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-Thursday, September 17, 
-2026
-SWRK-3440 (-)
-Research I: Found / Social Wk
-Section 1 
-3.00
-LEC
-W
-08:30 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-W
-08:30 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 2 
-3.00
-LEC
-W
-11:30 AM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-W
-11:30 AM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-SWRK-3500 (-)
-Practical Strat: Social Change
-Section 1 
-3.00
-LEC
-MW
-10:00 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-SWRK-4230 (-)
-Social Policy & Social Welfare
-Section 91 Full
-3.00
-LEC
-TH
-01:00 PM
-03:50 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 92 
-3.00
-LEC
-TH
-01:00 PM
-03:50 
-PM
-2026-
-09-10
-2026-
-12-09
-SWRK-4300 (-)
-Integration Seminar I
-Section 91 
-3.00
-LEC
-2026-
-09-10
-2026-
-12-09
-Section 92 
-3.00
-LEC
-TH
-08:30 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 93 
-3.00
-LEC
-TH
-08:30 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 94 
-3.00
-LEC
-TH
-08:30 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-SWRK-4500 (-)
-Practicum in Social Change
-Section 91 
 3.00
 LEC
 TTH
-01:00 PM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-SWRK-4730 (-)
-Field Education I
-Section 1 
-9.00
-LEC
-2026-
-09-10
-2026-
-12-09
-Sociology/Criminology
-SACR-1100 (-)
-Foundations of Social Life
-Section 91 Full
-3.00
-LEC
-W
 08:30 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-SACR-2100 (-)
-Gender, Sexuality &Soc Justice
-Section 1 
-3.00
-LEC
-TH
-08:30 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-SACR-2200 (-)
-Social Dilemmas: Soc Sci Persp
-Section 91 Full
-3.00
-LEC
-M
-08:30 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-SACR-2600 (-)
-Introduction to Criminology
-Section 1 
-3.00
-LEC
-T
-06:00 PM
-08:50 
-PM
-2026-
-09-10
-2026-
-12-09
-SACR-2900 (-)
-Researching  Social Life
-Thursday, September 17, 
-2026
-Section 1 
-3.00
-LEC
-M
-04:00 PM
-06:50 
-PM
-2026-
-09-10
-2026-
-12-09
-SACR-3050 (-)
-Sexuality and Health
-Section 91 Full
-3.00
-LEC
-M
-01:00 PM
-03:50 
-PM
-2026-
-09-10
-2026-
-12-09
-SACR-3080 (-)
-Intermediate Statistics
-Section 1 
-3.00
-LEC
-T
-07:00 PM
 09:50 
-PM
+AM
 2026-
-09-10
+05-04
 2026-
-12-09
-SACR-3080 (-)
+08-05
+CIVL-4710 (-)
 Laboratory
 Section 51 
 LAB
 T
-10:00 AM
-11:20 
-AM
+03:30 PM
+05:20 
+PM
 2026-
-09-10
+05-04
 2026-
-12-09
-Section 52 
+08-05
+CIVL-4810 (-)
+Highway Design & Construction
+Section 1 
+3.00
+LEC
+TTH
+02:30 PM
+03:50 
+PM
+2026-
+05-04
+2026-
+08-05
+CIVL-4810 (-)
+Laboratory
+Section 51 
 LAB
-T
+F
 12:30 PM
-01:20 
+02:30 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
-Section 53 
-LAB
-F
-02:30 PM
-03:50 
-PM
-2026-
-09-10
-2026-
-12-09
-SACR-3330 (-)
-State Crime: Genoc, War Crimes
-Section 91 
-3.00
-LEC
-TH
-02:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-SACR-3500 (-)
-Practical Strat: Social Change
-Section 1 Full
-3.00
-LEC
-MW
-10:00 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-SACR-3560 (-)
-Cultural Theory
-Section 1 Full
-3.00
-LEC
-W
-11:30 AM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-SACR-3610 (-)
-Youth in Conflict with the Law
-Section 1 Full
-3.00
-LEC
-TH
-02:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-SACR-3620 (-)
-Victimology
-Section 1 Full
-3.00
-LEC
-M
-06:00 PM
-08:50 
-PM
-2026-
-09-10
-2026-
-12-09
-SACR-3730 (-)
-Contemporary Crimin. Theory
-Section 1 Full
-3.00
-LEC
-TH
-10:00 AM
-12:50 
-PM
-2026-
-09-10
-2026-
-12-09
-SACR-3900 (-)
-Qual Approach to Soc &Cult Res
-Section 1 Full
-3.00
-LEC
-F
-10:00 AM
-12:50 
-PM
-2026-
-09-10
-2026-
-12-09
-SACR-3910 (-)
-Contemporary Social  Theory
-T
-07:00 PM
-09:50 
-PM
-2026-
-09-10
-2026-
-12-09
-T
-07:00 PM
-09:50 
-PM
-2026-
-09-10
-2026-
-12-09
-SACR-3970 (-)
-Selected Topics in Sociology
-Section 91 
-3.00
-LEC
-T
-08:30 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-Thursday, September 17, 
-2026
-SACR-4050 (-)
-Adv Seminar in Social Theory
+08-05
+CIVL-4820 (-)
+Planning and Construction Mgmt
 Section 1 
 3.00
 LEC
-W
-07:00 PM
+TTH
+08:30 AM
 09:50 
-PM
+AM
 2026-
-09-10
+05-04
 2026-
-12-09
-SACR-4210 (-)
-Spec Tpcs: Soci & Criminology
-Section 1 Full
-3.00
-LEC
+08-05
+CIVL-4820 (-)
+Laboratory
+Section 51 
+LAB
 M
 02:30 PM
-05:20 
+04:20 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
-SACR-4500 (-)
-Practicum in Social Change
-Section 91 
+08-05
+CIVL-4920 (-)
+Adv Topics: Structural Design
+Section 1 
 3.00
 LEC
 TTH
-01:00 PM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-SACR-4510 (-)
-Adv Sem: Sexualities & Idents
-Section 91 
-3.00
-LEC
-W
-02:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-SACR-4600 (-)
-Adv Sem:in Deviance /Soc Issue
-Section 91 Full
-3.00
-LEC
-TH
-08:30 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-SACR-4610 (-)
-Adv Sem: Law & Social Policy
-Section 91 Full
-3.00
-LEC
-W
 04:00 PM
-06:50 
-PM
-2026-
-09-10
-2026-
-12-09
-SACR-4640 (-)
-Adv Sem: Sociology of Law
-Section 91 
-3.00
-LEC
-T
-10:00 AM
-12:50 
-PM
-2026-
-09-10
-2026-
-12-09
-SACR-4650 (-)
-Adv Sem: Gender, Law & Crime
-Section 1 
-3.00
-LEC
-TH
-12:30 PM
-03:50 
-PM
-2026-
-09-10
-2026-
-12-09
-Faculty of Education
-Faculty of Education
-EDUC-1199A (-)
-Community Service Education
-Section 1 
-0.50
-LEC
-F
-2026-
-09-09
-2026-
-11-17
-F
-2026-
-09-09
-2026-
-11-17
-F
-2026-
-09-09
-2026-
-11-17
-EDUC-2299A (-)
-Teaching and Learning Pt. 1
-Section 1 
-0.50
-LEC
-F
-08:00 AM
-09:50 
-AM
-2026-
-09-09
-2026-
-11-17
-F
-08:00 AM
-09:50 
-AM
-2026-
-09-09
-2026-
-11-17
-F
-08:00 AM
-09:50 
-AM
-2026-
-09-09
-2026-
-11-17
-EDUC-3399A (-)
-Teaching and Learning Part II
-Thursday, September 17, 
-2026
-Section 1 
-0.50
-LEC
-F
-08:00 AM
-09:50 
-AM
-2026-
-09-09
-2026-
-11-17
-F
-08:00 AM
-09:50 
-AM
-2026-
-09-09
-2026-
-11-17
-F
-08:00 AM
-09:50 
-AM
-2026-
-09-09
-2026-
-11-17
-Section 2 
-0.50
-LEC
-F
-08:00 AM
-09:50 
-AM
-2026-
-09-09
-2026-
-11-17
-F
-08:00 AM
-09:50 
-AM
-2026-
-09-09
-2026-
-11-17
-F
-08:00 AM
-09:50 
-AM
-2026-
-09-09
-2026-
-11-17
-Faculty of Engineering
-Civil and Environ.l Engin.g
-CIVL-2200 (-)
-Civil Engg Information Systems
-Section 1 
-3.00
-LEC
-TTH
-08:30 AM
-09:50 
-AM
-2026-
-09-10
-2026-
-12-09
-CIVL-2200 (-)
-Laboratory
-Section 51 
-LAB
-F
-03:30 PM
 05:20 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
-F
-03:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-F
-03:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-CIVL-3510 (-)
-Fluid Mechanics
-Section 1 
-3.00
-LEC
-MW
-08:30 AM
-09:50 
-AM
-2026-
-09-10
-2026-
-12-09
-CIVL-3510 (-)
-Laboratory
-Section 51 
-LAB
-T
-02:30 PM
-04:20 
-PM
-2026-
-09-10
-2026-
-12-09
-CIVL-3530 (-)
-Structural Analysis
-Section 1 
-3.00
-LEC
-MW
-10:00 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-CIVL-3530 (-)
-Laboratory
-Section 51 
-LAB
-M
-02:30 PM
-04:20 
-PM
-2026-
-09-10
-2026-
-12-09
-CIVL-3540 (-)
-Concrete Design
-Section 1 
-3.00
-LEC
-MW
-11:30 AM
-12:50 
-PM
-2026-
-09-10
-2026-
-12-09
-CIVL-3540 (-)
-Laboratory
-Section 51 
-LAB
-W
-02:30 PM
-04:20 
-PM
-2026-
-09-10
-2026-
-12-09
-CIVL-3650 (-)
-Transportation & Traffic Engg
-Section 1 
-3.00
-LEC
-MW
-01:00 PM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Thursday, September 17, 
-2026
-CIVL-3650 (-)
+08-05
+CIVL-4920 (-)
 Laboratory
 Section 51 
 LAB
 TH
-02:30 PM
-04:20 
+05:30 PM
+07:20 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
-ENVE-3510 (-)
-Thermodynamics
-Section 30 
-3.00
-LEC
-T
-07:00 PM
-09:50 
-PM
-2026-
-09-10
-2026-
-12-09
-ENVE-3510 (-)
-Laboratory
-Section 51 
-LAB
-W
-02:30 PM
-04:20 
-PM
-2026-
-09-10
-2026-
-12-09
-ENVE-3521 (-)
-Env. Chemistry & Microbiology
-Section 1 
-3.00
-LEC
-TH
-08:30 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-ENVE-3521 (-)
-Laboratory
-Section 51 
-LAB
-M
-02:30 PM
-04:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Elec.l and Comptr Engineering
-ELEC-2141 (-)
-Circuit Analysis I
-Section 1 
+08-05
+CIVL-4940 (-)
+Transport Systems Analysis
+Section 1 Full
 3.00
 LEC
 M
-05:30 PM
-06:50 
-PM
-2026-
-09-10
-2026-
-12-09
-F
-06:30 PM
-07:50 
-PM
-2026-
-09-10
-2026-
-12-09
-ELEC-2141 (-)
-Laboratory
-Section 51 Full
-LAB
-W
-02:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-W
-02:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 52 
-LAB
-T
-11:30 AM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-T
-11:30 AM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-ELEC-2240 (-)
-Signals and Systems
-Section 1 
-3.00
-LEC
-MW
-01:00 PM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-ELEC-2240 (-)
-Laboratory
-Section 51 
-LAB
-F
-03:30 PM
-06:20 
-PM
-2026-
-09-10
-2026-
-12-09
-F
-03:30 PM
-06:20 
-PM
-2026-
-09-10
-2026-
-12-09
-ELEC-3000 (-)
-Engineering Design
-Section 1 
-3.00
-LEC
-M
-08:30 AM
-09:50 
-AM
-2026-
-09-10
-2026-
-12-09
-ELEC-3000 (-)
-Laboratory
-Section 51 
-LAB
-F
-05:30 PM
-08:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Thursday, September 17, 
-2026
-F
-05:30 PM
-08:20 
-PM
-2026-
-09-10
-2026-
-12-09
-F
-05:30 PM
-08:20 
-PM
-2026-
-09-10
-2026-
-12-09
-F
-05:30 PM
-08:20 
-PM
-2026-
-09-10
-2026-
-12-09
-ELEC-3130 (-)
-Electromechanical Systems
-Section 1 
-3.00
-LEC
-TTH
-10:00 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-ELEC-3130 (-)
-Laboratory
-Section 51 
-LAB
-M
-02:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-M
-02:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 52 Full
-LAB
-F
-02:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-F
-02:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-ELEC-3160 (-)
-Electronics II
-Section 1 
-3.00
-LEC
-F
 01:30 PM
 02:20 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
-MW
-10:00 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-ELEC-3160 (-)
-Laboratory
-F
-11:30 AM
-01:20 
-PM
-2026-
-09-10
-2026-
-12-09
-TH
-02:30 PM
-04:20 
-PM
-2026-
-09-10
-2026-
-12-09
-TH
-02:30 PM
-04:20 
-PM
-2026-
-09-10
-2026-
-12-09
-ELEC-3270 (-)
-Microprocessors
-Section 1 
-3.00
-LEC
-MW
-01:00 PM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
+08-05
 W
-01:00 PM
+12:30 PM
 02:20 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
+08-05
+CIVL-4940 (-)
+Laboratory
+Section 51 Full
+LAB
+W
+04:30 PM
+06:20 
+PM
+2026-
+05-04
+2026-
+08-05
+CIVL-4970 (-)
+Laboratory
+Section 51 
+LAB
 W
 02:30 PM
 03:50 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
-ELEC-3270 (-)
+08-05
+ENVE-3630 (-)
+Water and Wastewater Treatment
+Section 1 
+3.00
+LEC
+MW
+08:30 AM
+09:50 
+AM
+2026-
+05-04
+2026-
+08-05
+ENVE-3630 (-)
+Laboratory
+Section 51 
+LAB
+F
+10:00 AM
+12:50 
+PM
+2026-
+05-04
+2026-
+08-05
+ENVE-4000B (-)
+Capstone Design Project
+Section 1 
+3.00
+LEC
+F
+08:30 AM
+10:20 
+AM
+2026-
+05-04
+2026-
+08-05
+ENVE-4810 (-)
+Sustainability in Engineering
+Section 1 
+3.00
+LEC
+M
+11:30 AM
+12:20 
+PM
+2026-
+05-04
+2026-
+08-05
+WF
+11:30 AM
+12:20 
+PM
+2026-
+05-04
+2026-
+08-05
+ENVE-4810 (-)
+Laboratory
+Section 51 
+LAB
+M
+12:30 PM
+02:20 
+PM
+2026-
+05-04
+2026-
+08-05
+ENVE-4811 (-)
+Climate Change/Infrastructure
+Section 1 
+3.00
+LEC
+TTH
+01:00 PM
+02:20 
+PM
+2026-
+05-04
+2026-
+08-05
+ENVE-4811 (-)
+Laboratory
+Section 51 
+LAB
+M
+04:30 PM
+05:50 
+PM
+2026-
+05-04
+2026-
+08-05
+ENVE-4820 (-)
+Hydrogeological Engineering
+Section 1 
+3.00
+LEC
+MW
+10:00 AM
+11:20 
+AM
+2026-
+05-04
+2026-
+08-05
+ENVE-4820 (-)
 Laboratory
 Section 51 
 LAB
 W
 02:30 PM
-05:20 
+04:20 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
-W
-02:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Faculty of Engineering
-GENG-1101 (-)
-Engineering 1
+08-05
+Elec.l and Comptr Engineering
+ELEC-3030 (-)
+Physical Electronics
 Section 1 Full
 3.00
 LEC
@@ -4852,206 +954,54 @@ TTH
 12:50 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
-Section 2 
-3.00
-LEC
-TTH
-11:30 AM
-12:50 
-PM
-2026-
-09-10
-2026-
-12-09
-GENG-1101 (-)
+08-05
+ELEC-3030 (-)
 Laboratory
-Thursday, September 17, 
-2026
-Section 51 Full
-LAB
-W
-11:30 AM
-12:50 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 52 
-LAB
-W
-08:30 AM
-09:50 
+F
+10:00 AM
+11:50 
 AM
 2026-
-09-10
+05-04
 2026-
-12-09
-GENG-1102 (-)
-Engineering Graphics
+08-05
+ELEC-3240 (-)
+Control Systems I
 Section 1 
 3.00
 LEC
-M
+MW
 11:30 AM
 12:50 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
-F
-06:30 PM
-08:30 
-PM
-2026-
-09-10
-2026-
-12-09
-F
-06:30 PM
-08:30 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 2 Full
-3.00
-LEC
-M
-01:00 PM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-F
-06:30 PM
-08:30 
-PM
-2026-
-09-10
-2026-
-12-09
-F
-06:30 PM
-08:30 
-PM
-2026-
-09-10
-2026-
-12-09
-GENG-1102 (-)
+08-05
+ELEC-3240 (-)
 Laboratory
 Section 51 
 LAB
 T
-08:30 AM
-11:20 
-AM
+01:00 PM
+03:50 
+PM
 2026-
-09-10
+05-04
 2026-
-12-09
+08-05
 T
-08:30 AM
-11:20 
-AM
+01:00 PM
+03:50 
+PM
 2026-
-09-10
+05-04
 2026-
-12-09
-T
-08:30 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-T
-08:30 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 52 Full
-LAB
-TH
-08:30 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-TH
-08:30 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-TH
-08:30 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-TH
-08:30 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 53 
-LAB
-F
-08:30 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-F
-08:30 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-F
-08:30 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-F
-08:30 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-GENG-2101 (-)
-Engineering II
+08-05
+ELEC-3270 (-)
+Microprocessors
 Section 1 Full
 3.00
 LEC
@@ -5060,46 +1010,259 @@ MW
 11:20 
 AM
 2026-
-09-10
+05-04
 2026-
-12-09
-Section 2 
+08-05
+ELEC-3270 (-)
+Laboratory
+Section 51 Full
+LAB
+M
+01:00 PM
+03:50 
+PM
+2026-
+05-04
+2026-
+08-05
+M
+01:00 PM
+03:50 
+PM
+2026-
+05-04
+2026-
+08-05
+M
+01:00 PM
+03:50 
+PM
+2026-
+05-04
+2026-
+08-05
+ELEC-3290 (-)
+Analog Communications
+Section 1 Full
+3.00
+LEC
+TTH
+10:00 AM
+11:20 
+AM
+2026-
+05-04
+2026-
+08-05
+ELEC-3290 (-)
+Laboratory
+W
+01:00 PM
+03:50 
+PM
+2026-
+05-04
+2026-
+08-05
+W
+01:00 PM
+03:50 
+PM
+2026-
+05-04
+2026-
+08-05
+W
+01:00 PM
+03:50 
+PM
+2026-
+05-04
+2026-
+08-05
+W
+01:00 PM
+03:50 
+PM
+2026-
+05-04
+2026-
+08-05
+ELEC-4000B (-)
+Capstone Design Project
+Section 1 
+3.00
+LEC
+F
+08:30 AM
+10:20 
+AM
+2026-
+05-04
+2026-
+08-05
+ELEC-4000B (-)
+Laboratory
+F
+10:30 AM
+12:50 
+PM
+2026-
+05-04
+2026-
+08-05
+F
+04:00 PM
+05:20 
+PM
+2026-
+05-04
+2026-
+08-05
+ELEC-4100 (-)
+Industrial Control Systems
+Section 60 
+3.00
+LEC
+SA
+01:30 PM
+04:20 
+PM
+2026-
+05-04
+2026-
+08-05
+ELEC-4100 (-)
+Engineering Project Management
+Section 61 
+3.00
+LEC
+W
+05:30 PM
+08:20 
+PM
+2026-
+05-04
+2026-
+08-05
+ELEC-4320 (-)
+EM Waves & Radiating Systems
+Section 1 
 3.00
 LEC
 MW
-08:30 AM
-09:50 
+10:00 AM
+11:20 
 AM
 2026-
-09-10
+05-04
 2026-
-12-09
-GENG-2101 (-)
+08-05
+ELEC-4320 (-)
 Laboratory
-Section 51 Full
-3.00
+Section 51 
 LAB
 M
-07:00 PM
-08:50 
+03:00 PM
+04:50 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
-Section 52 
+08-05
+M
+03:00 PM
+04:50 
+PM
+2026-
+05-04
+2026-
+08-05
+M
+03:00 PM
+04:50 
+PM
+2026-
+05-04
+2026-
+08-05
+ELEC-4330 (-)
+Digl Integrated Circuit Desgn
+Section 1 
 3.00
+LEC
+TTH
+02:30 PM
+03:50 
+PM
+2026-
+05-04
+2026-
+08-05
+ELEC-4330 (-)
+Laboratory
+Section 51 
 LAB
 M
-07:00 PM
-08:50 
+01:00 PM
+02:50 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
-GENG-2102 (-)
-Programming and Algorithms
+08-05
+ELEC-4340 (-)
+Automotive Electronics
+Section 1 
+3.00
+LEC
+MW
+11:30 AM
+12:50 
+PM
+2026-
+05-04
+2026-
+08-05
+ELEC-4340 (-)
+Laboratory
+Section 51 
+LAB
+F
+01:00 PM
+02:50 
+PM
+2026-
+05-04
+2026-
+08-05
+ELEC-4400 (-)
+Wireless Communications
+Section 1 
+3.00
+LEC
+TTH
+04:00 PM
+05:20 
+PM
+2026-
+05-04
+2026-
+08-05
+ELEC-4400 (-)
+Laboratory
+Section 51 
+LAB
+W
+04:00 PM
+05:50 
+PM
+2026-
+05-04
+2026-
+08-05
+ELEC-4470 (-)
+Computer Networks Security
 Section 1 
 3.00
 LEC
@@ -5108,665 +1271,479 @@ TTH
 12:50 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
-Thursday, September 17, 
-2026
-Section 2 
+08-05
+ELEC-4470 (-)
+Laboratory
+Section 51 
+LAB
+TTH
+08:30 AM
+09:50 
+AM
+2026-
+05-04
+2026-
+08-05
+ELEC-4490 (-)
+Sensor and Vision Systems
+Section 60 
 3.00
 LEC
-MW
+F
+05:30 PM
+08:20 
+PM
+2026-
+05-04
+2026-
+08-05
+F
+05:30 PM
+08:20 
+PM
+2026-
+05-04
+2026-
+08-05
+ELEC-4600 (-)
+Power Systems II
+Section 1 
+3.00
+LEC
+TTH
+10:00 AM
+11:20 
+AM
+2026-
+05-04
+2026-
+08-05
+TTH
+10:00 AM
+11:20 
+AM
+2026-
+05-04
+2026-
+08-05
+TTH
+10:00 AM
+11:20 
+AM
+2026-
+05-04
+2026-
+08-05
+TTH
+10:00 AM
+11:20 
+AM
+2026-
+05-04
+2026-
+08-05
+ELEC-4600 (-)
+Laboratory
+Section 51 
+LAB
+W
+01:00 PM
+02:50 
+PM
+2026-
+05-04
+2026-
+08-05
+F
+05:30 PM
+07:20 
+PM
+2026-
+05-04
+2026-
+08-05
+F
+05:30 PM
+07:20 
+PM
+2026-
+05-04
+2026-
+08-05
+F
+05:30 PM
+07:20 
+PM
+2026-
+05-04
+2026-
+08-05
+F
+05:30 PM
+07:20 
+PM
+2026-
+05-04
+2026-
+08-05
+F
+05:30 PM
+07:20 
+PM
+2026-
+05-04
+2026-
+08-05
+F
+05:30 PM
+07:20 
+PM
+2026-
+05-04
+2026-
+08-05
+Faculty of Engineering
+GENG-1101 (-)
+Engineering 1
+Section 1 
+3.00
+LEC
+TTH
 11:30 AM
 12:50 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
-GENG-2102 (-)
+08-05
+GENG-1101 (-)
 Laboratory
 Section 51 
-3.00
-LAB
-M
-04:00 PM
-05:50 
-PM
-2026-
-09-10
-2026-
-12-09
-M
-04:00 PM
-05:50 
-PM
-2026-
-09-10
-2026-
-12-09
-M
-04:00 PM
-05:50 
-PM
-2026-
-09-10
-2026-
-12-09
-M
-04:00 PM
-05:50 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 52 
-3.00
 LAB
 W
-07:30 PM
-09:20 
+02:30 PM
+03:50 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
-W
-07:30 PM
-09:20 
-PM
-2026-
-09-10
-2026-
-12-09
-W
-07:30 PM
-09:20 
-PM
-2026-
-09-10
-2026-
-12-09
-W
-07:30 PM
-09:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 53 
+08-05
+GENG-1110 (-)
+Engineering Mechanics I
+Section 1 
 3.00
-LAB
-W
-05:30 PM
-07:20 
+LEC
+TTH
+04:00 PM
+05:20 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
-W
-05:30 PM
-07:20 
-PM
-2026-
-09-10
-2026-
-12-09
-W
-05:30 PM
-07:20 
-PM
-2026-
-09-10
-2026-
-12-09
-W
-05:30 PM
-07:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 54 Full
-3.00
+08-05
+GENG-1110 (-)
+Laboratory
+Section 51 
 LAB
 TH
-02:30 PM
-04:20 
+08:30 AM
+10:20 
+AM
+2026-
+05-04
+2026-
+08-05
+GENG-1201 (-)
+Cornerstone Design
+Section 1 
+3.00
+LEC
+W
+10:00 AM
+12:50 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
-TH
-02:30 PM
-04:20 
+08-05
+GENG-1201 (-)
+Laboratory
+Section 51 
+LAB
+W
+01:00 PM
+02:20 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
-TH
-02:30 PM
-04:20 
+08-05
+GENG-1202 (-)
+Intro Electrical /Computer Eng
+Section 1 
+3.00
+LEC
+M
+10:00 AM
+12:50 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
-TH
-02:30 PM
-04:20 
+08-05
+GENG-1202 (-)
+Laboratory
+Section 51 
+LAB
+M
+01:00 PM
+03:50 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
+08-05
 GENG-2180 (-)
 Mechanics of Deformable Bodies
 Section 1 
 3.00
 LEC
 TTH
-01:00 PM
-02:20 
+03:30 PM
+04:50 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
-Section 2 
-3.00
-LEC
-MW
-01:00 PM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
+08-05
 GENG-2180 (-)
 Laboratory
-Section 51 Full
-3.00
-LAB
-T
-02:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-T
-02:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 52 
-3.00
-LAB
-T
-11:30 AM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-T
-11:30 AM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 53 
-3.00
-LAB
-TH
-02:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-TH
-02:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 54 
-3.00
-LAB
-TH
-11:30 AM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-TH
-11:30 AM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Thursday, September 17, 
-2026
-Section 55 
+Section 51 
 LAB
 F
-08:30 AM
-11:20 
-AM
+12:00 PM
+02:50 
+PM
 2026-
-09-10
+05-04
 2026-
-12-09
-F
-08:30 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-GENG-2190 (-)
-Engg Materials Fundamentals
+08-05
+GENG-2980 (-)
+Work Term I
 Section 1 Full
 3.00
 LEC
-T
-02:30 PM
-04:20 
-PM
 2026-
-09-10
+05-04
 2026-
-12-09
-TH
-06:30 PM
-08:20 
-PM
-2026-
-09-10
-2026-
-12-09
-MW
-02:30 PM
-03:50 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 2 Full
-3.00
-LEC
-TTH
-04:30 PM
-05:50 
-PM
-2026-
-09-10
-2026-
-12-09
-TH
-06:30 PM
-08:20 
-PM
-2026-
-09-10
-2026-
-12-09
-T
-11:30 AM
-01:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 3 Full
-3.00
-LEC
-MW
-02:30 PM
-03:50 
-PM
-2026-
-09-10
-2026-
-12-09
-TH
-06:30 PM
-08:20 
-PM
-2026-
-09-10
-2026-
-12-09
-TH
-02:30 PM
-04:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 4 
-3.00
-LEC
-TTH
-04:30 PM
-05:50 
-PM
-2026-
-09-10
-2026-
-12-09
-TH
-06:30 PM
-08:20 
-PM
-2026-
-09-10
-2026-
-12-09
-TH
-11:30 AM
-01:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 5 Full
-3.00
-LEC
-MW
-02:30 PM
-03:50 
-PM
-2026-
-09-10
-2026-
-12-09
-F
-08:30 AM
-10:20 
-AM
-2026-
-09-10
-2026-
-12-09
-TH
-06:30 PM
-08:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 6 Full
-3.00
-LEC
-TTH
-04:30 PM
-05:50 
-PM
-2026-
-09-10
-2026-
-12-09
-F
-08:30 AM
-10:20 
-AM
-2026-
-09-10
-2026-
-12-09
-TH
-06:30 PM
-08:20 
-PM
-2026-
-09-10
-2026-
-12-09
-GENG-2980 (-)
-Work Term I
-Section 1 
-3.00
-LEC
-2026-
-09-10
-2026-
-12-09
-GENG-3130 (-)
-Engineering Economics
-Section 1 
-3.00
-LEC
-TTH
-10:00 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 2 
-3.00
-LEC
-TTH
-01:00 PM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 60 
-3.00
-LEC
-TH
-05:30 PM
-08:20 
-PM
-2026-
-09-10
-2026-
-12-09
-GENG-3130 (-)
-Laboratory
-Section 51 
-3.00
-LAB
-F
-10:00 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 52 
-3.00
-LAB
-F
-10:00 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-Thursday, September 17, 
-2026
+08-05
 GENG-3201 (-)
 Engineering Design III
 Section 1 
 3.00
 LEC
-MW
+TTH
 11:30 AM
 12:50 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
+08-05
 GENG-3201 (-)
 Laboratory
-Section 51 
-LAB
 T
 02:30 PM
 05:20 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
+08-05
 T
 02:30 PM
 05:20 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
-GENG-3300 (-)
-Applied Engg Mathematics
-Section 60 
-3.00
-LEC
-W
-05:30 PM
-08:20 
-PM
-2026-
-09-10
-2026-
-12-09
-GENG-3500 (-)
-Signals and Systems Analysis
-T
-05:30 PM
-08:20 
-PM
-2026-
-09-10
-2026-
-12-09
-T
-05:30 PM
-08:20 
-PM
-2026-
-09-10
-2026-
-12-09
+08-05
 GENG-3980 (-)
 Work Term II
 Section 1 
 3.00
 LEC
 2026-
-09-10
+05-04
 2026-
-12-09
-GENG-4400 (-)
-Energy Conversion Systems
-SA
+08-05
+GENG-4210 (-)
+Engineering & Society
+Section 1 Full
+3.00
+LEC
+TTH
 01:00 PM
-03:50 
+02:20 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
-SA
+08-05
+Section 2 
+3.00
+LEC
+TTH
 01:00 PM
-03:50 
+02:20 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
+08-05
+GENG-4600 (-)
+Introduction to Robotics
+Section 60 
+3.00
+LEC
+SA
+09:00 AM
+11:50 
+AM
+2026-
+05-04
+2026-
+08-05
+GENG-4800 (-)
+Capstone Mechatronics
+Section 60 
+3.00
+LEC
+M
+05:30 PM
+08:20 
+PM
+2026-
+05-04
+2026-
+08-05
 GENG-4980 (-)
 Work Term III
 Section 1 
 3.00
 LEC
 2026-
-09-10
+05-04
 2026-
-12-09
+08-05
 Section 2 
 3.00
 LEC
 2026-
-09-10
+05-04
 2026-
-12-09
+08-05
 Mech, Auto, Materials Eng
 INDE-3020 (-)
 Health, Safety & Human Factors
 Section 1 
 3.00
 LEC
-TTH
-02:30 PM
-03:50 
+MW
+11:30 AM
+12:50 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
+08-05
 INDE-3020 (-)
 Laboratory
-F
-11:30 AM
-01:20 
+Section 51 
+LAB
+TH
+01:30 PM
+03:20 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
-INDE-3120 (-)
-Operations Research I
+08-05
+TH
+01:30 PM
+03:20 
+PM
+2026-
+05-04
+2026-
+08-05
+Section 52 
+LAB
+TH
+03:30 PM
+05:20 
+PM
+2026-
+05-04
+2026-
+08-05
+TH
+03:30 PM
+05:20 
+PM
+2026-
+05-04
+2026-
+08-05
+INDE-3110 (-)
+Comp-Aided Des/Comp Aided Mfg
 Section 1 
 3.00
 LEC
-MW
+TTH
 10:00 AM
 11:20 
 AM
 2026-
-09-10
+05-04
 2026-
-12-09
-INDE-3120 (-)
+08-05
+TTH
+10:00 AM
+11:20 
+AM
+2026-
+05-04
+2026-
+08-05
+INDE-3110 (-)
+Laboratory
+Section 51 
+LAB
+T
+02:30 PM
+04:20 
+PM
+2026-
+05-04
+2026-
+08-05
+INDE-3270 (-)
+Product Quality & Reliability
+Section 1 
+3.00
+LEC
+TTH
+11:30 AM
+12:50 
+PM
+2026-
+05-04
+2026-
+08-05
+INDE-3270 (-)
 Laboratory
 Section 51 
 LAB
@@ -5775,13 +1752,111 @@ W
 04:20 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
-INDE-3130 (-)
-Computer Aided Mfg & Robotics
-Thursday, September 17, 
-2026
+08-05
+INDE-3910 (-)
+Supply Chain Engineering
+Section 1 
+3.00
+LEC
+MW
+10:00 AM
+11:20 
+AM
+2026-
+05-04
+2026-
+08-05
+INDE-3910 (-)
+Laboratory
+Section 51 
+LAB
+M
+02:00 PM
+03:50 
+PM
+2026-
+05-04
+2026-
+08-05
+INDE-4000B (-)
+Capstone Indl Design Projects
+Section 1 
+3.00
+LEC
+F
+08:30 AM
+10:20 
+AM
+2026-
+05-04
+2026-
+08-05
+INDE-4000B (-)
+Laboratory
+Section 51 
+LAB
+F
+01:00 PM
+05:00 
+PM
+2026-
+05-04
+2026-
+08-05
+INDE-4120 (-)
+Operations Research II
+Section 1 
+3.00
+LEC
+MW
+11:30 AM
+12:50 
+PM
+2026-
+05-04
+2026-
+08-05
+INDE-4120 (-)
+Laboratory
+Section 51 
+LAB
+TH
+02:30 PM
+04:20 
+PM
+2026-
+05-04
+2026-
+08-05
+INDE-4350 (-)
+DOE Techniques for Mfg
+Section 1 
+3.00
+LEC
+T
+10:00 AM
+12:50 
+PM
+2026-
+05-04
+2026-
+08-05
+INDE-4350 (-)
+Laboratory
+Section 51 
+LAB
+W
+01:00 PM
+02:50 
+PM
+2026-
+05-04
+2026-
+08-05
+MECH-3215 (-)
+Mechanical Vibrations
 Section 1 
 3.00
 LEC
@@ -5790,337 +1865,297 @@ TTH
 12:50 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
-TTH
-11:30 AM
-12:50 
-PM
-2026-
-09-10
-2026-
-12-09
-INDE-3130 (-)
+08-05
+MECH-3215 (-)
 Laboratory
 Section 51 
 LAB
 T
+03:00 PM
+03:50 
+PM
+2026-
+05-04
+2026-
+08-05
+MECH-3217 (-)
+Applied Thermodynamics
+Section 1 Full
+3.00
+LEC
+TTH
+10:00 AM
+11:20 
+AM
+2026-
+05-04
+2026-
+08-05
+Section 2 
+3.00
+LEC
+TTH
+10:00 AM
+11:20 
+AM
+2026-
+05-04
+2026-
+08-05
+MECH-3217 (-)
+Laboratory
+Section 51 
+LAB
+F
+01:30 PM
+03:20 
+PM
+2026-
+05-04
+2026-
+08-05
+Section 52 
+LAB
+F
+09:30 AM
+11:20 
+AM
+2026-
+05-04
+2026-
+08-05
+MECH-3220 (-)
+Fluid Mechanics II
+Section 1 Full
+3.00
+LEC
+MW
+10:00 AM
+11:20 
+AM
+2026-
+05-04
+2026-
+08-05
+Section 2 
+3.00
+LEC
+MW
+10:00 AM
+11:20 
+AM
+2026-
+05-04
+2026-
+08-05
+MECH-3220 (-)
+Laboratory
+W
 04:00 PM
 05:50 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
-INDE-4220 (-)
-Simulation of Indl Systems
-Section 1 
-3.00
-LEC
-MW
-11:30 AM
-12:50 
-PM
-2026-
-09-10
-2026-
-12-09
-INDE-4220 (-)
-Laboratory
-Section 51 
-LAB
-M
-02:00 PM
-03:50 
-PM
-2026-
-09-10
-2026-
-12-09
-MECH-3211 (-)
-Stress Analysis
-Section 1 Full
-3.00
-LEC
-MW
-10:00 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 2 
-3.00
-LEC
-MW
-10:00 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-MECH-3211 (-)
-Laboratory
-Section 51 Full
-3.00
-LAB
-M
-02:30 PM
-04:20 
-PM
-2026-
-09-10
-2026-
-12-09
-M
-01:30 PM
-04:20 
-PM
-2026-
-09-10
-2026-
-12-09
+08-05
 Section 52 
-3.00
-LAB
-W
-01:30 PM
-03:20 
-PM
-2026-
-09-10
-2026-
-12-09
-W
-01:30 PM
-04:20 
-PM
-2026-
-09-10
-2026-
-12-09
-W
-01:30 PM
-03:20 
-PM
-2026-
-09-10
-2026-
-12-09
-MECH-3212 (-)
-Thermodynamics I
-Section 1 Full
-3.00
-LEC
-TTH
-11:30 AM
-12:50 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 2 
-3.00
-LEC
-TTH
-11:30 AM
-12:50 
-PM
-2026-
-09-10
-2026-
-12-09
-MECH-3212 (-)
-Laboratory
-Section 51 Full
-3.00
-LAB
-TH
-02:30 PM
-03:50 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 52 
-3.00
-LAB
-TH
-02:30 PM
-03:50 
-PM
-2026-
-09-10
-2026-
-12-09
-MECH-3223 (-)
-Machine Dynamics
-Section 1 Full
-3.00
-LEC
-TTH
-08:30 AM
-09:50 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 2 
-3.00
-LEC
-TTH
-08:30 AM
-09:50 
-AM
-2026-
-09-10
-2026-
-12-09
-MECH-3223 (-)
-Laboratory
-Section 51 Full
-3.00
-LAB
-F
-01:30 PM
-03:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 52 
-3.00
-LAB
-F
-01:30 PM
-03:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Thursday, September 17, 
-2026
-MECH-3233 (-)
-Fluid Mechanics I
-MW
-11:30 AM
-12:50 
-PM
-2026-
-09-10
-2026-
-12-09
-MW
-11:30 AM
-12:50 
-PM
-2026-
-09-10
-2026-
-12-09
-MECH-3233 (-)
-Laboratory
-Section 51 
-LAB
-T
-02:30 PM
-03:50 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 52 Full
-LAB
-T
-02:30 PM
-03:50 
-PM
-2026-
-09-10
-2026-
-12-09
-MECH-4212 (-)
-Mechatronics
-Section 60 
-3.00
-LEC
-SA
-09:00 AM
-11:50 
-AM
-2026-
-09-10
-2026-
-12-09
-SA
-09:00 AM
-11:50 
-AM
-2026-
-09-10
-2026-
-12-09
-TRON-3201 (-)
-Solid Mechanics
-Section 1 
-3.00
-LEC
-MW
-10:00 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-TRON-3201 (-)
-Laboratory
-Section 51 
 LAB
 TH
 04:00 PM
-05:20 
+05:50 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
-Faculty of Human Kinetics
-Faculty of Human Kinetics
-KINE-   4XXX (-)
-4th Year Kinesiology Elective
+08-05
+MECH-3221 (-)
+Control Theory
 Section 1 
 3.00
 LEC
+TTH
+10:00 AM
+11:20 
+AM
 2026-
-09-10
+05-04
 2026-
-12-09
-KINE-1000 (-)
-Health and Wellness
+08-05
+MECH-3221 (-)
+Laboratory
+Section 51 Full
+LAB
+T
+05:30 PM
+06:50 
+PM
+2026-
+05-04
+2026-
+08-05
+T
+05:30 PM
+06:50 
+PM
+2026-
+05-04
+2026-
+08-05
+T
+05:30 PM
+06:50 
+PM
+2026-
+05-04
+2026-
+08-05
+T
+05:30 PM
+06:50 
+PM
+2026-
+05-04
+2026-
+08-05
+Section 52 
+LAB
+TH
+05:30 PM
+06:50 
+PM
+2026-
+05-04
+2026-
+08-05
+TH
+05:30 PM
+06:50 
+PM
+2026-
+05-04
+2026-
+08-05
+TH
+05:30 PM
+06:50 
+PM
+2026-
+05-04
+2026-
+08-05
+TH
+05:30 PM
+06:50 
+PM
+2026-
+05-04
+2026-
+08-05
+MECH-3228 (-)
+Heat Transfer
 Section 1 Full
 3.00
 LEC
-TTH
+MW
 08:30 AM
 09:50 
 AM
 2026-
-09-10
+05-04
 2026-
-12-09
-KINE-1110 (-)
-Princ of Mental Skill Training
-Section 1 Full
+08-05
+Section 2 
+3.00
+LEC
+MW
+08:30 AM
+09:50 
+AM
+2026-
+05-04
+2026-
+08-05
+MECH-3228 (-)
+Laboratory
+Section 51 Full
+LAB
+TH
+04:00 PM
+05:00 
+PM
+2026-
+05-04
+2026-
+08-05
+TH
+04:00 PM
+05:00 
+PM
+2026-
+05-04
+2026-
+08-05
+TH
+04:00 PM
+05:50 
+PM
+2026-
+05-04
+2026-
+08-05
+Section 52 
+LAB
+W
+04:00 PM
+05:50 
+PM
+2026-
+05-04
+2026-
+08-05
+W
+04:00 PM
+05:00 
+PM
+2026-
+05-04
+2026-
+08-05
+W
+04:00 PM
+05:00 
+PM
+2026-
+05-04
+2026-
+08-05
+MECH-3430 (-)
+Automotive Engg Fundamentals
+W
+11:30 AM
+01:20 
+PM
+2026-
+05-04
+2026-
+08-05
+MECH-3430 (-)
+Laboratory
+Section 51 
+LAB
+M
+11:30 AM
+02:20 
+PM
+2026-
+05-04
+2026-
+08-05
+MECH-3670 (-)
+Aerospace Engg Fundamentals
+Section 1 
 3.00
 LEC
 MW
@@ -6128,4395 +2163,1135 @@ MW
 12:50 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
-KINE-1200 (-)
-Intro to the Sport Industry
-Section 1 
-3.00
-LEC
-TTH
-02:30 PM
-03:50 
+08-05
+MECH-3670 (-)
+Laboratory
+Section 51 
+LAB
+W
+01:00 PM
+02:50 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
-KINE-1560 (-)
-Communication/Sport Industry
-Section 1 Full
-3.00
-LEC
-TTH
-10:00 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-KINE-1650 (-)
-Functional Anatomy
+08-05
+MECH-3830 (-)
+Materials and Their Properties
 Section 1 
 3.00
 LEC
 MW
-10:00 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-Thursday, September 17, 
-2026
-F
-08:30 AM
-12:00 
+11:30 AM
+12:50 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
-KINE-1650 (-)
-Laboratory
-Section 51 Full
-LAB
-M
-01:30 PM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 52 
-LAB
+08-05
 M
 02:30 PM
-03:20 
+04:20 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
+08-05
+MECH-4200B (-)
+Capstone Design
+Section 1 
+3.00
+LEC
+F
+08:30 AM
+10:20 
+AM
+2026-
+05-04
+2026-
+08-05
+MECH-4200B (-)
+Laboratory
+Section 51 
+LAB
+F
+01:30 PM
+05:20 
+PM
+2026-
+05-04
+2026-
+08-05
+Section 52 
+LAB
+F
+01:30 PM
+05:20 
+PM
+2026-
+05-04
+2026-
+08-05
 Section 53 
 LAB
-M
-03:30 PM
-04:20 
+F
+01:30 PM
+05:20 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
+08-05
 Section 54 Full
 LAB
-T
-01:00 PM
-01:50 
+F
+01:30 PM
+05:20 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
+08-05
 Section 55 Full
 LAB
-T
-02:00 PM
-02:50 
+F
+01:30 PM
+05:20 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
+08-05
 Section 56 
 LAB
-T
-03:00 PM
-03:50 
+F
+01:30 PM
+05:20 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
-Section 57 
+08-05
+Section 57 Full
 LAB
-W
+F
 01:30 PM
+05:20 
+PM
+2026-
+05-04
+2026-
+08-05
+Section 58 
+LAB
+F
+01:30 PM
+05:20 
+PM
+2026-
+05-04
+2026-
+08-05
+Section 59 
+LAB
+F
+01:30 PM
+05:20 
+PM
+2026-
+05-04
+2026-
+08-05
+Section 60 
+LAB
+F
+01:30 PM
+05:20 
+PM
+2026-
+05-04
+2026-
+08-05
+Section 61 
+LAB
+F
+01:30 PM
+05:20 
+PM
+2026-
+05-04
+2026-
+08-05
+Section 62 Full
+LAB
+F
+01:30 PM
+05:20 
+PM
+2026-
+05-04
+2026-
+08-05
+Section 63 
+LAB
+F
+01:30 PM
+05:20 
+PM
+2026-
+05-04
+2026-
+08-05
+Section 64 Full
+LAB
+F
+01:30 PM
+05:20 
+PM
+2026-
+05-04
+2026-
+08-05
+Section 65 Full
+LAB
+F
+01:30 PM
+05:20 
+PM
+2026-
+05-04
+2026-
+08-05
+Section 66 
+LAB
+F
+01:30 PM
+05:20 
+PM
+2026-
+05-04
+2026-
+08-05
+Section 67 
+LAB
+F
+01:30 PM
+05:20 
+PM
+2026-
+05-04
+2026-
+08-05
+Section 68 Full
+LAB
+F
+01:30 PM
+05:20 
+PM
+2026-
+05-04
+2026-
+08-05
+MECH-4212 (-)
+Mechatronics
+Section 1 
+3.00
+LEC
+W
+12:30 PM
 02:20 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
-Section 58 Full
-LAB
-W
-02:30 PM
-03:20 
+08-05
+MECH-4212 (-)
+Laboratory
+M
+11:30 AM
+02:20 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
-Section 59 
-LAB
-W
-03:30 PM
-04:20 
+08-05
+M
+11:30 AM
+02:20 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
-Section 60 Full
-LAB
-TH
-01:00 PM
-01:50 
+08-05
+MECH-4228 (-)
+Sustainability in Engineering
+Section 1 
+3.00
+LEC
+M
+11:30 AM
+12:20 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
-Section 61 
-LAB
-TH
-02:00 PM
-02:50 
+08-05
+WF
+11:30 AM
+12:20 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
-Section 62 
+08-05
+MECH-4228 (-)
+Laboratory
+Section 51 
 LAB
-TH
-03:00 PM
-03:50 
+M
+12:30 PM
+02:20 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
-KINE-2240 (-)
-Intro: Phys. Ergonmcs/Injury P
-Section 1 Full
+08-05
+MECH-4240 (-)
+Welding Engineering
+Section 6 
 3.00
 LEC
 MW
-01:00 PM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-KINE-2250 (-)
-Ethics in Kinesiology
-Section 1 Full
-3.00
-LEC
-TTH
-11:30 AM
-12:50 
-PM
-2026-
-09-10
-2026-
-12-09
-KINE-2500 (-)
-Organizational Behaviour
-Section 1 Full
-3.00
-LEC
-TTH
-11:30 AM
-12:50 
-PM
-2026-
-09-10
-2026-
-12-09
-KINE-2520 (-)
-Sport Finance
-Section 1 Full
-3.00
-LEC
-TTH
-08:30 AM
-09:50 
+10:00 AM
+11:20 
 AM
 2026-
-09-10
+05-04
 2026-
-12-09
-KINE-2700 (-)
-Research Design
+08-05
+T
+04:00 PM
+04:50 
+PM
+2026-
+05-04
+2026-
+08-05
+MECH-4240 (-)
+Biomedical Instrumentation
+Section 61 
+3.00
+LEC
+W
+05:30 PM
+08:20 
+PM
+2026-
+05-04
+2026-
+08-05
+MECH-4240 (-)
+Fundamentals/Electro-Mech Sys.
+Section 7 
+3.00
+LEC
+M
+05:30 PM
+08:20 
+PM
+2026-
+05-04
+2026-
+08-05
+M
+05:30 PM
+08:20 
+PM
+2026-
+05-04
+2026-
+08-05
+MECH-4240 (-)
+Materials and their Properties
+Section 9 
+3.00
+LEC
+MW
+11:30 AM
+12:50 
+PM
+2026-
+05-04
+2026-
+08-05
+M
+02:30 PM
+04:20 
+PM
+2026-
+05-04
+2026-
+08-05
+MECH-4255 (-)
+Envl Effects/Control of Noise
+Section 1 
+3.00
+LEC
+MW
+02:30 PM
+03:50 
+PM
+2026-
+05-04
+2026-
+08-05
+MECH-4255 (-)
+Laboratory
+Section 51 
+LAB
+M
+04:00 PM
+04:50 
+PM
+2026-
+05-04
+2026-
+08-05
+MECH-4258 (-)
+Computational Fluid Dynamics
 Section 1 
 3.00
 LEC
 TTH
+09:00 AM
+09:50 
+AM
+2026-
+05-04
+2026-
+08-05
+MECH-4258 (-)
+Laboratory
+Section 51 
+LAB
+F
+11:30 AM
+12:50 
+PM
+2026-
+05-04
+2026-
+08-05
+TH
+02:30 PM
+03:50 
+PM
+2026-
+05-04
+2026-
+08-05
+MECH-4259 (-)
+Computer Aided Engg - CAE
+Section 1 
+3.00
+LEC
+TTH
+09:00 AM
+09:50 
+AM
+2026-
+05-04
+2026-
+08-05
+MECH-4259 (-)
+Laboratory
+F
+08:30 AM
+11:20 
+AM
+2026-
+05-04
+2026-
+08-05
+F
+08:30 AM
+11:20 
+AM
+2026-
+05-04
+2026-
+08-05
+F
+01:30 PM
+04:20 
+PM
+2026-
+05-04
+2026-
+08-05
+F
+01:30 PM
+04:20 
+PM
+2026-
+05-04
+2026-
+08-05
+MECH-4440 (-)
+Fundamentals/Electro-Mech Sys
+Section 7 
+3.00
+LEC
+M
+05:30 PM
+08:20 
+PM
+2026-
+05-04
+2026-
+08-05
+M
+05:30 PM
+08:20 
+PM
+2026-
+05-04
+2026-
+08-05
+MECH-4467 (-)
+Vehicle Thermal Management
+Section 1 
+3.00
+LEC
+MW
+10:00 AM
+11:20 
+AM
+2026-
+05-04
+2026-
+08-05
+MECH-4467 (-)
+Laboratory
+Section 51 
+LAB
+M
 04:00 PM
 05:20 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
+08-05
+M
+04:00 PM
+05:20 
+PM
+2026-
+05-04
+2026-
+08-05
+M
+04:00 PM
+05:20 
+PM
+2026-
+05-04
+2026-
+08-05
+MECH-4671 (-)
+Aerodynamics and Performance
+Section 1 
+3.00
+LEC
+MW
+10:00 AM
+11:20 
+AM
+2026-
+05-04
+2026-
+08-05
+MW
+10:00 AM
+11:20 
+AM
+2026-
+05-04
+2026-
+08-05
+MECH-4671 (-)
+Laboratory
+Section 51 
+LAB
+M
+02:30 PM
+04:00 
+PM
+2026-
+05-04
+2026-
+08-05
+M
+02:30 PM
+04:00 
+PM
+2026-
+05-04
+2026-
+08-05
+MECH-4672 (-)
+Flight Dynamcs&Ctrl-Unman Veh
+Section 1 
+3.00
+LEC
+MW
+11:30 AM
+12:50 
+PM
+2026-
+05-04
+2026-
+08-05
+MW
+11:30 AM
+12:50 
+PM
+2026-
+05-04
+2026-
+08-05
+MECH-4672 (-)
+Laboratory
+Section 51 
+LAB
+W
+02:30 PM
+04:00 
+PM
+2026-
+05-04
+2026-
+08-05
+W
+02:30 PM
+04:00 
+PM
+2026-
+05-04
+2026-
+08-05
+MECH-4820 (-)
+Ceramic Materials
+Section 1 
+3.00
+LEC
+MW
+11:30 AM
+12:50 
+PM
+2026-
+05-04
+2026-
+08-05
+MECH-4820 (-)
+Laboratory
+Section 51 
+3.00
+LAB
+W
+02:30 PM
+04:20 
+PM
+2026-
+05-04
+2026-
+08-05
+MECH-4850 (-)
+Welding Engineering
+Section 1 Full
+3.00
+LEC
+MW
+10:00 AM
+11:20 
+AM
+2026-
+05-04
+2026-
+08-05
+T
+04:00 PM
+04:50 
+PM
+2026-
+05-04
+2026-
+08-05
+TRON-4035 (-)
+Computer Integrated Manufactur
+Section 1 
+3.00
+LEC
+T
+04:30 PM
+07:20 
+PM
+2026-
+05-04
+2026-
+08-05
+TRON-4035 (-)
+Laboratory
+Section 51 
+LAB
+W
+06:30 PM
+08:20 
+PM
+2026-
+05-04
+2026-
+08-05
+Faculty of Human Kinetics
+Faculty of Human Kinetics
+KINE-2690 (-)
+Measurement and Evaluation
+Section 1 
+3.00
+LEC
+2026-
+06-22
+2026-
+08-04
+KINE-2850 (-)
+Human Growth & Development
+Section 1 
+3.00
+LEC
+MTWTH
+10:00 AM
+11:20 
+AM
+2026-
+05-04
+2026-
+06-15
 KINE-2990 (-)
 Co-op Work Experience I
 Section 1 
 3.00
 LEC
 2026-
-09-10
+05-04
 2026-
-12-09
-KINE-3020 (-)
-Exercise Psychology
-Section 1 Full
-3.00
-LEC
-MW
-02:30 PM
-03:50 
-PM
-2026-
-09-10
-2026-
-12-09
-KINE-3150 (-)
-Scientific Prin./Strngth Condi
-Thursday, September 17, 
-2026
-Section 1 
-3.00
-LEC
-M
-11:30 AM
-12:50 
-PM
-2026-
-09-10
-2026-
-12-09
-KINE-3150 (-)
-Laboratory
-Section 51 Full
-LAB
-W
-11:30 AM
-12:50 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 52 
-LAB
-TH
-01:00 PM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 53 
-LAB
-F
-08:30 AM
-09:50 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 54 
-LAB
-F
-10:00 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 55 
-LAB
-F
-11:30 AM
-12:50 
-PM
-2026-
-09-10
-2026-
-12-09
-KINE-3501 (-)
-Prac Strategies -Social Change
-Section 1 Full
-3.00
-LEC
-MW
-10:00 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-KINE-3600 (-)
-Respiratory Physiology
-Section 1 Full
-3.00
-LEC
-MW
-01:00 PM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-KINE-3610 (-)
-Musculoskeletal Physiology
-Section 1 Full
-3.00
-LEC
-MW
-10:00 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-KINE-3630 (-)
-Cognitive Ergonomics
-Section 1 
-3.00
-LEC
-TTH
-01:00 PM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-KINE-3920 (-)
-PTA-Basketball
-Section 1 Full
-3.00
-LEC
-TTH
-10:00 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-KINE-3970 (-)
-PTA-Track &Field
-Section 1 Full
-3.00
-LEC
-TTH
-01:00 PM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
+08-05
 KINE-3990 (-)
 Co-op Work Experience II
 Section 1 
 3.00
 LEC
 2026-
-09-10
+05-04
 2026-
-12-09
-KINE-4050 (-)
-Gender Issues in Sport
-Section 1 
-3.00
-LEC
-TTH
-10:00 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-KINE-4330 (-)
-Sel Topics in Sport Leadership
-Section 1 Full
-3.00
-LEC
-TTH
-11:30 AM
-12:50 
-PM
-2026-
-09-10
-2026-
-12-09
-KINE-4410 (-)
-Sport in America
-Section 1 
-3.00
-LEC
-TTH
-02:30 PM
-03:50 
-PM
-2026-
-09-10
-2026-
-12-09
-KINE-4640 (-)
-The Pathophysiology of Pain
-Thursday, September 17, 
-2026
-Section 1 
-3.00
-LEC
-M
-04:00 PM
-06:50 
-PM
-2026-
-09-10
-2026-
-12-09
-KINE-4660 (-)
-Cardiac Rehabilitation
-Section 1 Full
-3.00
-LEC
-TTH
-02:30 PM
-03:50 
-PM
-2026-
-09-10
-2026-
-12-09
-KINE-4670 (-)
-User Experience
-Section 1 
-3.00
-LEC
-2026-
-09-10
-2026-
-12-09
+08-05
 KINE-4750 (-)
 Individual Studies
 Section 1 
 3.00
 LEC
 2026-
-09-10
+05-04
 2026-
-12-09
-Section 2 
-3.00
-LEC
-2026-
-09-10
-2026-
-12-09
-KINE-4760 (-)
-Principles of Coaching
-Section 1 
-3.00
-LEC
-M
-07:00 PM
-09:50 
-PM
-2026-
-09-10
-2026-
-12-09
-KINE-4780A (-)
-Undergraduate Thesis
-Section 1 Full
-3.00
-LEC
-F
-10:00 AM
-12:20 
-PM
-2026-
-09-10
-2026-
-12-09
-KINE-4850 (-)
-Group Dynamics in Sport
-Section 1 Full
-3.00
-LEC
-TTH
-08:30 AM
-09:50 
-AM
-2026-
-09-10
-2026-
-12-09
-KINE-4920 (-)
-Lab Experiences/Kinesiology I
-Section 1 Full
-3.00
-LEC
-M
-11:30 AM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 2 
-3.00
-LEC
-T
-11:30 AM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 3 Full
-3.00
-LEC
-W
-11:30 AM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 4 Full
-3.00
-LEC
-TH
-11:30 AM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 5 Full
-3.00
-LEC
-F
-09:30 AM
-12:20 
-PM
-2026-
-09-10
-2026-
-12-09
+08-05
 KINE-4980 (-)
 Internship
 Section 1 
 3.00
 LEC
 2026-
-09-10
+05-04
 2026-
-12-09
+08-05
 KINE-4990 (-)
 Co-op Work Experience III
 Section 1 
 3.00
 LEC
 2026-
-09-10
+05-04
 2026-
-12-09
+08-05
+Section 2 
+3.00
+LEC
+2026-
+05-04
+2026-
+08-05
 Faculty of Nursing
 Faculty of Nursing
-NURS-   8XXX (-)
-Graduate Nursing Elective
-Thursday, September 17, 
-2026
-Section 1 
-3.00
-LEC
-2026-
-09-10
-2026-
-12-09
-Section 50 
-3.00
-LEC
-2026-
-09-10
-2026-
-12-09
-NURS-1110 (-)
-Professional Nursing I
-Section 1 
-3.00
-LEC
-MW
-08:30 AM
-09:50 
-AM
-2026-
-09-10
-2026-
-12-09
-NURS-1210 (-)
-Human Anatomy and Physiology I
-Section 1 
-3.00
-LEC
-MW
-10:00 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-NURS-1210 (-)
-Laboratory
-Section 50 Full
-LAB
-TH
-08:00 AM
-09:50 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 51 Full
-LAB
-TH
-10:00 AM
-11:50 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 52 Full
-LAB
-TH
-12:00 PM
-01:50 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 53 Full
-LAB
-F
-08:00 AM
-09:50 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 54 Full
-LAB
-F
-10:00 AM
-11:50 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 55 Full
-LAB
-F
-12:00 PM
-01:50 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 56 Full
-LAB
-F
-02:00 PM
-03:50 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 57 Full
-LAB
-F
-04:20 PM
-06:10 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 58 Full
-LAB
-TH
-02:00 PM
-03:50 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 59 Full
-LAB
-TH
-04:20 PM
-06:10 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 60 
-LAB
-F
-06:20 PM
-08:10 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 61 Full
-LAB
-TH
-06:20 PM
-08:10 
-PM
-2026-
-09-10
-2026-
-12-09
-NURS-1511 (-)
-Experiential Learning Lab I
-Section 1 Full
-1.00
-LEC
-T
-07:00 AM
-08:50 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 2 Full
-1.00
-LEC
-T
-09:00 AM
-10:50 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 3 Full
-1.00
-LEC
-T
-11:20 AM
-01:10 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 4 Full
-1.00
-LEC
-T
-01:20 PM
-03:10 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 5 Full
-1.00
-LEC
-T
-03:20 PM
-05:10 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 6 Full
-1.00
-LEC
-T
-05:40 PM
-07:30 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 7 Full
-1.00
-LEC
-F
-08:00 AM
-09:50 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 8 Full
-1.00
-LEC
-M
-04:30 PM
-06:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 9 Full
-1.00
-LEC
-TH
-07:00 AM
-08:50 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 10 Full
-1.00
-LEC
-TH
-09:00 AM
-10:50 
-AM
-2026-
-09-10
-2026-
-12-09
-Thursday, September 17, 
-2026
-Section 11 Full
-1.00
-LEC
-TH
-11:00 AM
-12:50 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 12 Full
-1.00
-LEC
-TH
-01:00 PM
-02:50 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 13 Full
-1.00
-LEC
-TH
-03:20 PM
-05:10 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 14 
-1.00
-LEC
-TH
-05:20 PM
-07:10 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 15 
-1.00
-LEC
-TH
-07:20 PM
-09:10 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 16 Full
-1.00
-LEC
-M
-02:30 PM
-04:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 17 Full
-1.00
-LEC
-F
-10:00 AM
-11:50 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 18 Full
-1.00
-LEC
-F
-12:20 PM
-02:10 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 19 
-1.00
-LEC
-F
-02:20 PM
-04:10 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 20 Full
-1.00
-LEC
-M
-06:30 PM
-08:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 21 Full
-1.00
-LEC
-T
-07:40 PM
-09:30 
-PM
-2026-
-09-10
-2026-
-12-09
-NURS-1612 (-)
-Consolidated Practicum I
-Section 50 
-3.00
-LEC
-TH
-06:00 AM
-03:00 
-PM
-2026-
-09-10
-2026-
-12-09
+NURS-2622 (-)
+Consolidated Practicum II
 Section 70 
 3.00
 LEC
-TH
-06:00 AM
-10:00 
-PM
 2026-
-09-10
+05-25
 2026-
-12-09
-NURS-1900 (-)
-Writing for the Professnl Nurs
-Section 1 
-3.00
-LEC
-MW
-11:30 AM
-12:50 
-PM
-2026-
-09-10
-2026-
-12-09
-NURS-2320 (-)
-Pharmacology and Med. Mgmt II
-Section 1 
-3.00
-LEC
-F
-08:30 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-NURS-2420 (-)
-Holistic Health Assessment II
-MW
-11:30 AM
-12:50 
-PM
-2026-
-09-10
-2026-
-12-09
-NURS-2522 (-)
-Clinical Practicum II
-Section 7 Full
-3.00
-LEC
-T
-06:00 AM
-10:00 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 8 
-3.00
-LEC
-T
-06:00 AM
-10:00 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 9 Full
-3.00
-LEC
-T
-06:00 AM
-10:00 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 10 Full
-3.00
-LEC
-TH
-06:00 AM
-10:00 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 11 Full
-3.00
-LEC
-T
-06:00 AM
-10:00 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 12 Full
-3.00
-LEC
-TH
-06:00 AM
-10:00 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 13 Full
-3.00
-LEC
-TH
-06:00 AM
-10:00 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 14 
-3.00
-LEC
-T
-06:00 AM
-10:00 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 15 Full
-3.00
-LEC
-TH
-06:00 AM
-03:00 
-PM
-2026-
-09-10
-2026-
-12-09
-Thursday, September 17, 
-2026
-Section 16 
-3.00
-LEC
-T
-06:00 AM
-03:00 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 17 Full
-3.00
-LEC
-T
-06:00 AM
-03:00 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 18 Full
-3.00
-LEC
-TH
-06:00 AM
-10:00 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 19 Full
-3.00
-LEC
-T
-06:00 AM
-03:00 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 20 Full
-3.00
-LEC
-T
-06:00 AM
-03:00 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 21 
-3.00
-LEC
-T
-06:00 AM
-10:00 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 22 Full
-3.00
-LEC
-TH
-06:00 AM
-10:00 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 23 Full
-3.00
-LEC
-TH
-06:00 AM
-10:00 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 24 Full
-3.00
-LEC
-TH
-06:00 AM
-10:00 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 25 Full
-3.00
-LEC
-T
-06:00 AM
-03:00 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 26 
-3.00
-LEC
-TH
-06:00 AM
-03:00 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 27 Full
-3.00
-LEC
-T
-06:00 AM
-03:00 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 28 Full
-3.00
-LEC
-T
-06:00 AM
-10:00 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 29 Full
-3.00
-LEC
-TH
-06:00 AM
-10:00 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 30 Full
-3.00
-LEC
-TH
-06:00 AM
-10:00 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 31 
-3.00
-LEC
-TH
-06:00 AM
-10:00 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 32 Full
-3.00
-LEC
-T
-06:00 AM
-03:00 
-PM
-2026-
-09-10
-2026-
-12-09
-NURS-2531 (-)
-Experiential Learning Lab III
-T
-08:00 AM
-10:50 
-AM
-2026-
-09-10
-2026-
-12-09
-T
-11:20 AM
-02:10 
-PM
-2026-
-09-10
-2026-
-12-09
-T
-02:20 PM
-05:10 
-PM
-2026-
-09-10
-2026-
-12-09
-T
-05:40 PM
-08:30 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 55 Full
-1.00
-LEC
-T
-08:00 AM
-10:50 
-AM
-2026-
-09-10
-2026-
-12-09
-TH
-07:00 AM
-09:50 
-AM
-2026-
-09-10
-2026-
-12-09
-TH
-10:20 AM
-01:10 
-PM
-2026-
-09-10
-2026-
-12-09
-TH
-01:20 PM
-04:10 
-PM
-2026-
-09-10
-2026-
-12-09
-TH
-04:20 PM
-07:10 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 60 Full
-1.00
-LEC
-T
-11:20 AM
-02:10 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 61 Full
-1.00
-LEC
-SA
-08:00 AM
-10:50 
-AM
-2026-
-09-10
-2026-
-12-09
-SA
-11:20 AM
-02:10 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 63 Full
-1.00
-LEC
-TH
-11:20 AM
-02:10 
-PM
-2026-
-09-10
-2026-
-12-09
-Thursday, September 17, 
-2026
-Section 64 Full
-1.00
-LEC
-TH
-08:00 AM
-10:50 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 65 Full
-1.00
-LEC
-T
-02:20 PM
-05:10 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 66 Full
-1.00
-LEC
-TH
-02:20 PM
-05:10 
-PM
-2026-
-09-10
-2026-
-12-09
-NURS-2810 (-)
-Adult Hlth &Hlth Alterations I
-Section 1 
-3.00
-LEC
-MW
-08:30 AM
-09:50 
-AM
-2026-
-09-10
-2026-
-12-09
-NURS-3542 (-)
-Clinical Practicum IV
-Section 1 
-3.00
-LEC
-2026-
-09-10
-2026-
-12-09
-Section 3 Full
-3.00
-LEC
-TH
-06:00 AM
-03:00 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 4 Full
-3.00
-LEC
-M
-06:00 AM
-03:00 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 5 Full
-3.00
-LEC
-M
-06:00 AM
-03:00 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 6 
-3.00
-LEC
-T
-06:00 AM
-03:00 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 7 
-3.00
-LEC
-TH
-06:00 AM
-03:00 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 8 
-3.00
-LEC
-M
-06:00 AM
-03:00 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 9 Full
-3.00
-LEC
-T
-08:00 AM
-04:00 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 10 Full
-3.00
-LEC
-T
-06:00 AM
-03:00 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 11 Full
-3.00
-LEC
-W
-06:00 AM
-03:00 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 12 Full
-3.00
-LEC
-TH
-06:00 AM
-03:00 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 13 Full
-3.00
-LEC
-M
-06:00 AM
-03:00 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 14 Full
-3.00
-LEC
-T
-06:00 AM
-03:00 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 15 Full
-3.00
-LEC
-W
-08:00 AM
-04:00 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 16 Full
-3.00
-LEC
-TH
-06:00 AM
-03:00 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 17 Full
-3.00
-LEC
-T
-06:00 AM
-03:00 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 18 
-3.00
-LEC
-T
-06:00 AM
-03:00 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 19 Full
-3.00
-LEC
-TH
-06:00 AM
-03:00 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 20 Full
-3.00
-LEC
-T
-08:00 AM
-04:00 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 21 Full
-3.00
-LEC
-M
-06:00 AM
-03:00 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 22 Full
-3.00
-LEC
-M
-06:00 AM
-03:00 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 23 Full
-3.00
-LEC
-W
-08:00 AM
-04:00 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 24 Full
-3.00
-LEC
-W
-06:00 AM
-03:00 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 25 Full
-3.00
-LEC
-SA
-06:00 AM
-03:00 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 26 Full
-3.00
-LEC
-M
-06:00 AM
-03:00 
-PM
-2026-
-09-10
-2026-
-12-09
-Thursday, September 17, 
-2026
-Section 27 Full
-3.00
-LEC
-TH
-06:00 AM
-03:00 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 28 Full
-3.00
-LEC
-W
-06:00 AM
-03:00 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 29 Full
-3.00
-LEC
-SA
-06:00 AM
-03:00 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 30 Full
-3.00
-LEC
-W
-06:00 AM
-03:00 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 31 Full
-3.00
-LEC
-TH
-06:00 AM
-03:00 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 32 Full
-3.00
-LEC
-SA
-06:00 AM
-03:00 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 33 Full
-3.00
-LEC
-SA
-06:00 AM
-03:00 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 34 
-3.00
-LEC
-M
-06:00 AM
-03:00 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 35 Full
-3.00
-LEC
-M
-06:00 AM
-03:00 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 36 Full
-3.00
-LEC
-T
-08:00 AM
-04:00 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 37 
-3.00
-LEC
-M
-06:00 AM
-03:00 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 38 Full
-3.00
-LEC
-W
-06:00 AM
-03:00 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 39 Full
-3.00
-LEC
-M
-06:00 AM
-03:00 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 40 Full
-3.00
-LEC
-M
-08:00 AM
-04:00 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 41 Full
-3.00
-LEC
-W
-06:00 AM
-03:00 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 42 Full
-3.00
-LEC
-T
-08:00 AM
-04:00 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 43 Full
-3.00
-LEC
-T
-06:00 AM
-03:00 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 44 
-3.00
-LEC
-M
-06:00 AM
-03:00 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 45 Full
-3.00
-LEC
-W
-06:00 AM
-03:00 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 46 Full
-3.00
-LEC
-TH
-06:00 AM
-03:00 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 47 Full
-3.00
-LEC
-W
-06:00 AM
-03:00 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 48 Full
-3.00
-LEC
-M
-06:00 AM
-03:00 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 49 Full
-3.00
-LEC
-T
-06:00 AM
-03:00 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 50 Full
-3.00
-LEC
-W
-06:00 AM
-03:00 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 51 Full
-3.00
-LEC
-W
-06:00 AM
-03:00 
-PM
-2026-
-09-10
-2026-
-12-09
-NURS-3551 (-)
-Experiential Learning Lab V
-Section 1 Full
-0.50
-LEC
-M
-08:00 AM
-09:50 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 2 Full
-0.50
-LEC
-M
-10:00 AM
-11:50 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 3 Full
-0.50
-LEC
-M
-12:20 PM
-02:10 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 4 Full
-0.50
-LEC
-M
-02:20 PM
-04:10 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 5 Full
-0.50
-LEC
-M
-04:20 PM
-06:10 
-PM
-2026-
-09-10
-2026-
-12-09
-Thursday, September 17, 
-2026
-Section 6 Full
-0.50
-LEC
-M
-06:20 PM
-08:10 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 8 Full
-0.50
-LEC
-W
-07:30 AM
-09:20 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 9 Full
-0.50
-LEC
-W
-09:30 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 10 Full
-0.50
-LEC
-W
-11:30 AM
-01:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 11 Full
-0.50
-LEC
-W
-01:30 PM
-03:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 12 Full
-0.50
-LEC
-W
-03:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 13 
-0.50
-LEC
-W
-05:30 PM
-07:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 14 Full
-0.50
-LEC
-M
-08:00 AM
-09:50 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 15 Full
-0.50
-LEC
-M
-10:00 AM
-11:50 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 16 Full
-0.50
-LEC
-M
-12:20 PM
-02:10 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 17 Full
-0.50
-LEC
-M
-02:20 PM
-04:10 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 18 Full
-0.50
-LEC
-M
-04:20 PM
-06:10 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 19 
-0.50
-LEC
-M
-06:20 PM
-08:10 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 21 Full
-0.50
-LEC
-W
-07:30 AM
-09:20 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 22 Full
-0.50
-LEC
-W
-09:30 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 23 Full
-0.50
-LEC
-W
-11:30 AM
-01:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 24 Full
-0.50
-LEC
-W
-01:30 PM
-03:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 25 Full
-0.50
-LEC
-W
-03:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 26 Full
-0.50
-LEC
-W
-05:30 PM
-07:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 28 Full
-0.50
-LEC
-W
-08:00 AM
-09:50 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 29 Full
-0.50
-LEC
-W
-10:00 AM
-11:50 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 30 
-0.50
-LEC
-W
-12:20 PM
-02:10 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 31 Full
-0.50
-LEC
-W
-12:00 PM
-01:50 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 32 Full
-0.50
-LEC
-W
-02:00 PM
-03:50 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 35 
-0.50
-LEC
-2026-
-09-10
-2026-
-12-09
-NURS-3632 (-)
-Consolidated Practicum III
-Section 50 
-3.00
-LEC
-W
-06:00 AM
-03:00 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 70 
-3.00
-LEC
-M
-06:00 AM
-03:00 
-PM
-2026-
-09-10
-2026-
-12-09
+06-07
 Section 71 
 3.00
 LEC
-W
-06:00 AM
-03:00 
-PM
 2026-
-09-10
+05-25
 2026-
-12-09
+06-07
+NURS-3632 (-)
+Consolidated Practicum III
+Section 70 
+3.00
+LEC
+2026-
+04-22
+2026-
+05-05
+Section 71 
+3.00
+LEC
+2026-
+05-07
+2026-
+05-21
+Section 72 
+3.00
+LEC
+2026-
+05-25
+2026-
+06-07
 NURS-3830 (-)
 Adult Health & Health Alt. III
 Section 1 
 3.00
 LEC
-F
-12:30 PM
-03:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Thursday, September 17, 
-2026
-NURS-3940 (-)
-Nurs Care of Infants/Children/
-Section 1 
-3.00
-LEC
-F
+MW
 08:30 AM
 11:20 
 AM
 2026-
-09-10
+06-22
 2026-
-12-09
-NURS-3950 (-)
-Nursing Research
-T
-08:30 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-TH
-08:30 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-NURS-3960 (-)
-Community Health Nursing
-Section 1 
-3.00
-LEC
-TH
-02:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 2 
-3.00
-LEC
-T
-02:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-NURS-4140 (-)
-Professional Nursing IV
-Section 1 
-3.00
-LEC
-TTH
-10:00 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
+08-04
 NURS-4562 (-)
 Integrtd Clin. Pract:Community
 Section 1 
 6.00
 LEC
 2026-
-09-10
+05-04
 2026-
-12-09
-Section 2 Full
+08-05
+Section 60 
 6.00
 LEC
 2026-
-09-10
+05-04
 2026-
-10-30
-Section 3 Full
+06-15
+Section 61 
 6.00
 LEC
 2026-
-09-10
+05-04
 2026-
-10-30
-Section 4 Full
+06-15
+Section 62 
 6.00
 LEC
 2026-
-09-10
+05-04
 2026-
-10-30
-Section 5 Full
+06-15
+Section 63 
 6.00
 LEC
 2026-
-09-10
+06-22
 2026-
-10-30
-Section 6 Full
+08-04
+Section 64 
 6.00
 LEC
 2026-
-09-10
+06-22
 2026-
-10-30
-Section 7 Full
+08-04
+Section 65 
 6.00
 LEC
 2026-
-09-10
+06-22
 2026-
-10-30
-Section 8 Full
-6.00
-LEC
-2026-
-09-10
-2026-
-10-30
-Section 9 Full
-6.00
-LEC
-2026-
-09-10
-2026-
-10-30
-Section 10 Full
-6.00
-LEC
-2026-
-09-10
-2026-
-10-30
-Section 11 Full
-6.00
-LEC
-2026-
-09-10
-2026-
-10-30
-Section 12 Full
-6.00
-LEC
-2026-
-09-10
-2026-
-10-30
-Section 16 
-6.00
-LEC
-2026-
-09-10
-2026-
-10-30
-Section 17 Full
-6.00
-LEC
-2026-
-11-02
-2026-
-12-17
-Section 18 Full
-6.00
-LEC
-2026-
-11-02
-2026-
-12-17
-Section 19 Full
-6.00
-LEC
-2026-
-11-02
-2026-
-12-17
-Section 20 Full
-6.00
-LEC
-2026-
-11-02
-2026-
-12-17
-Section 21 Full
-6.00
-LEC
-2026-
-11-02
-2026-
-12-17
-Section 22 Full
-6.00
-LEC
-2026-
-11-02
-2026-
-12-17
-Thursday, September 17, 
-2026
-Section 23 Full
-6.00
-LEC
-2026-
-11-02
-2026-
-12-17
-Section 24 Full
-6.00
-LEC
-2026-
-11-02
-2026-
-12-17
-Section 25 Full
-6.00
-LEC
-2026-
-11-02
-2026-
-12-17
-Section 26 Full
-6.00
-LEC
-2026-
-11-02
-2026-
-12-17
-Section 27 Full
-6.00
-LEC
-2026-
-11-02
-2026-
-12-17
-Section 28 Full
-6.00
-LEC
-2026-
-11-02
-2026-
-12-17
-NURS-4571 (-)
-Experiential Learning Lab VII
-Section 1 Full
-0.50
-LEC
-M
-08:00 AM
-09:50 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 2 Full
-0.50
-LEC
-M
-10:00 AM
-11:50 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 3 Full
-0.50
-LEC
-M
-12:20 PM
-02:10 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 4 Full
-0.50
-LEC
-W
-04:00 PM
-05:50 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 5 
-0.50
-LEC
-M
-08:00 AM
-09:50 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 6 Full
-0.50
-LEC
-M
-10:00 AM
-11:50 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 7 Full
-0.50
-LEC
-M
-12:20 PM
-02:10 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 9 Full
-0.50
-LEC
-W
-08:00 AM
-09:50 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 10 Full
-0.50
-LEC
-W
-10:00 AM
-11:50 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 13 Full
-0.50
-LEC
-W
-08:00 AM
-09:50 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 14 Full
-0.50
-LEC
-W
-10:00 AM
-11:50 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 15 Full
-0.50
-LEC
-W
-08:00 AM
-09:50 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 16 
-0.50
-LEC
-W
-10:00 AM
-11:50 
-AM
-2026-
-09-10
-2026-
-12-09
+08-04
 NURS-4572 (-)
 Integrated Clinical Prac: Hosp
-Section 1 
+Section 1 Full
 6.00
 LEC
 2026-
-09-10
+05-04
 2026-
-12-09
-Section 2 Full
-6.00
-LEC
-2026-
-09-10
-2026-
-10-30
-Section 3 Full
-6.00
-LEC
-2026-
-09-10
-2026-
-10-30
-Section 4 Full
-6.00
-LEC
-2026-
-09-10
-2026-
-10-30
-Section 5 Full
-6.00
-LEC
-2026-
-09-10
-2026-
-10-30
-Section 6 Full
-6.00
-LEC
-2026-
-09-10
-2026-
-10-30
-Section 8 Full
-6.00
-LEC
-2026-
-09-10
-2026-
-10-30
-Section 9 Full
-6.00
-LEC
-2026-
-09-10
-2026-
-10-30
-Section 10 Full
-6.00
-LEC
-2026-
-09-10
-2026-
-10-30
-Section 11 Full
-6.00
-LEC
-2026-
-09-10
-2026-
-10-30
-Thursday, September 17, 
-2026
-Section 12 Full
-6.00
-LEC
-2026-
-09-10
-2026-
-10-30
-Section 13 Full
-6.00
-LEC
-2026-
-09-10
-2026-
-10-30
-Section 14 Full
-6.00
-LEC
-2026-
-09-10
-2026-
-10-30
-Section 15 
-6.00
-LEC
-2026-
-09-10
-2026-
-10-30
-Section 17 Full
-6.00
-LEC
-2026-
-11-02
-2026-
-12-17
-Section 18 Full
-6.00
-LEC
-2026-
-11-02
-2026-
-12-17
-Section 19 Full
-6.00
-LEC
-2026-
-11-02
-2026-
-12-17
-Section 20 Full
-6.00
-LEC
-2026-
-11-02
-2026-
-12-17
-Section 21 Full
-6.00
-LEC
-2026-
-11-02
-2026-
-12-17
-Section 22 Full
-6.00
-LEC
-2026-
-11-02
-2026-
-12-17
-Section 23 Full
-6.00
-LEC
-2026-
-11-02
-2026-
-12-17
-Section 24 Full
-6.00
-LEC
-2026-
-11-02
-2026-
-12-17
-Section 25 Full
-6.00
-LEC
-2026-
-11-02
-2026-
-12-17
-Section 26 Full
-6.00
-LEC
-2026-
-11-02
-2026-
-12-17
-Section 27 Full
-6.00
-LEC
-2026-
-11-02
-2026-
-12-17
-NURS-4980 (-)
-Palliative & End-of-Life Care
-Section 1 
-3.00
-LEC
-TH
-04:00 PM
-06:50 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 29 
-3.00
-LEC
-2026-
-09-10
-2026-
-12-09
-NURS-4990 (-)
-Issues in Global/Planetary Hth
-Section 1 
-3.00
-LEC
-TTH
-08:30 AM
-09:50 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 29 
-3.00
-LEC
-2026-
-09-10
-2026-
-12-09
-NURS-4999 (-)
-Wound Care
-Section 3 
-3.00
-LEC
-TTH
-02:30 PM
-03:50 
-PM
-2026-
-09-10
-2026-
-12-09
-NURS-4999 (-)
-RN Prescribing
+08-05
 Section 60 
-3.00
-LEC
-TTH
-01:00 PM
-02:30 
-PM
-2026-
-09-10
-2026-
-12-09
-TH
-01:00 PM
-02:30 
-PM
-2026-
-09-10
-2026-
-12-09
-NURX-   4XXX (-)
-International Exchange
-Section 29 
-15.00
+6.00
 LEC
 2026-
-09-10
+05-04
 2026-
-12-09
-Faculty of Science
-Thursday, September 17, 
-2026
-Biomedical Sciences
-BIOM-1000 (-)
-Biomedical Science Impacts on
-Section 1 
-3.00
+06-15
+Section 61 
+6.00
 LEC
-MW
-10:00 AM
-10:50 
-AM
 2026-
-09-10
+05-04
 2026-
-12-09
-BIOM-1073 (-)
-Intro to Medical Microbiology
-Section 1 
-3.00
+06-15
+Section 62 
+6.00
 LEC
-W
-04:00 PM
-06:50 
-PM
 2026-
-09-10
+05-04
 2026-
-12-09
-BIOM-2021 (-)
-Human Anatomy
-Section 1 Full
-3.00
+06-15
+Section 63 
+6.00
 LEC
-TH
-04:00 PM
-06:50 
-PM
 2026-
-09-10
+05-04
 2026-
-12-09
-BIOM-2021 (-)
-Laboratory
-Section 51 Full
-LAB
-T
-09:30 AM
-11:20 
-AM
+06-15
+Section 64 
+6.00
+LEC
 2026-
-09-10
+06-22
 2026-
-12-09
-Section 52 Full
-LAB
-T
-02:30 PM
-04:20 
-PM
+08-04
+Section 65 
+6.00
+LEC
 2026-
-09-10
+06-22
 2026-
-12-09
-Section 53 Full
-LAB
-W
-09:30 AM
-11:20 
-AM
+08-04
+Section 66 
+6.00
+LEC
 2026-
-09-10
+06-22
 2026-
-12-09
-Section 54 Full
-LAB
-W
-02:30 PM
-04:20 
-PM
+08-04
+Section 70 
+6.00
+LEC
 2026-
-09-10
+04-22
 2026-
-12-09
-Section 55 Full
-LAB
-TH
-09:30 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-BIOM-3070 (-)
-Medical Microbiology
-Section 1 Full
+06-15
+NURS-4951 (-)
+The Human Meaning of Death
+Section 95 
 3.00
 LEC
 MW
-01:00 PM
+11:30 AM
 02:20 
 PM
 2026-
-09-10
+06-22
 2026-
-12-09
-BIOM-3200 (-)
-Systems Neuroscience
-Section 1 
-3.00
-LEC
-MW
-04:00 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-BIOM-3500 (-)
-Molecular Cell Biology
-Section 1 
-3.00
-LEC
-MW
-10:00 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-BIOM-3540 (-)
-Immunology
-Section 1 Full
-3.00
-LEC
-TTH
-10:00 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-BIOM-3550 (-)
-Embryology
-Section 1 
-3.00
-LEC
-TTH
-08:30 AM
-09:50 
-AM
-2026-
-09-10
-2026-
-12-09
-BIOM-3560 (-)
-Homeostasis in Human Physiol
-Section 1 Full
-3.00
-LEC
-MW
-02:30 PM
-03:50 
-PM
-2026-
-09-10
-2026-
-12-09
-BIOM-3581A (-)
-Biotechnology Laboratory
-Section 1 
-3.00
-LEC
-M
-11:30 AM
-12:20 
-PM
-2026-
-09-10
-2026-
-12-09
-BIOM-3581A (-)
-Laboratory
-Thursday, September 17, 
-2026
-Section 51 
-LAB
-M
-02:30 PM
-08:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 52 
-LAB
-T
-02:30 PM
-08:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 54 
-LAB
-TH
-02:30 PM
-08:20 
-PM
-2026-
-09-10
-2026-
-12-09
-BIOM-4440 (-)
-Neurophysiology
-Section 1 
-3.00
-LEC
-MW
-10:00 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-BIOM-4570 (-)
-Introductory Genomics
-Section 1 
-3.00
-LEC
-TTH
-11:30 AM
-12:50 
-PM
-2026-
-09-10
-2026-
-12-09
-BIOM-4904A (-)
-Undergraduate Research in Biom
-Section 1 
-3.00
-LEC
-F
-09:30 AM
-10:30 
-AM
-2026-
-09-10
-2026-
-12-09
-IHSC-1000 (-)
-Foundations/Interdisciplinary
-Section 1 
-3.00
-LEC
-TH
-02:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-IHSC-3000 (-)
-Health Promotion / Translation
-Section 1 
-3.00
-LEC
-T
-02:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Chemistry and Biochemistry
-BIOC-3100 (-)
-Intermediary Metabolism I
-Section 1 
-3.00
-LEC
-MWF
-12:30 PM
-01:20 
-PM
-2026-
-09-10
-2026-
-12-09
-BIOC-3140 (-)
-Protein and Enzyme Eng
-Section 1 
-3.00
-LEC
-TTH
-01:00 PM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-BIOC-3581A (-)
-Biotechnology Laboratory
-Section 1 
-3.00
-LEC
-M
-11:30 AM
-12:20 
-PM
-2026-
-09-10
-2026-
-12-09
-BIOC-3581A (-)
-Laboratory
-Section 51 
-LAB
-M
-02:30 PM
-08:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 52 Full
-LAB
-T
-02:30 PM
-08:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 54 
-LAB
-TH
-02:30 PM
-08:20 
-PM
-2026-
-09-10
-2026-
-12-09
-BIOC-4030 (-)
-Enzymology and Biotechnology
-Section 1 Full
-3.00
-LEC
-TTH
-10:00 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-CHEM-1100 (-)
-General Chemistry I
-Section 1 
-3.00
-LEC
-MW
-12:30 PM
-01:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Thursday, September 17, 
-2026
-F
-12:30 PM
-01:30 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 2 
-3.00
-LEC
-TTH
-04:00 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 3 
-3.00
-LEC
-MW
-12:30 PM
-01:20 
-PM
-2026-
-09-10
-2026-
-12-09
-F
-12:30 PM
-01:30 
-PM
-2026-
-09-10
-2026-
-12-09
+08-04
+NURS-4999 (-)
+Introduction to Psychotherapy
 Section 4 
 3.00
 LEC
-TTH
-04:00 PM
-05:20 
+MTH
+05:00 PM
+07:50 
 PM
 2026-
-09-10
+06-22
 2026-
-12-09
-CHEM-1100 (-)
+08-04
+Faculty of Science
+Biomedical Sciences
+BIOM-2021 (-)
 Laboratory
 Section 51 Full
 LAB
-M
-08:30 AM
-11:20 
+MTWTH
+F
+09:30 AM
+11:50 
 AM
 2026-
-09-10
+05-04
 2026-
-12-09
+08-05
 Section 52 Full
 LAB
-M
-08:30 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 53 Full
-LAB
-T
-08:30 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 54 Full
-LAB
-T
-08:30 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 55 Full
-LAB
-W
-08:30 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 56 Full
-LAB
-W
-08:30 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 57 Full
-LAB
-TH
-08:30 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 58 Full
-LAB
-TH
-08:30 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 59 Full
-LAB
+MTWTH
 F
-08:30 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 60 Full
-LAB
-F
-08:30 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 61 Full
-LAB
-M
-02:30 PM
-05:20 
+01:30 PM
+03:50 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
-Section 62 Full
-LAB
-M
-02:30 PM
-05:20 
-PM
+08-05
+BIOM-2021 (-)
+Human Anatomy
+Section 95 Full
+3.00
+LEC
 2026-
-09-10
+05-04
 2026-
-12-09
-Section 63 Full
-LAB
-T
-02:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 64 Full
-LAB
-T
-02:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 65 Full
-LAB
-W
-02:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 66 Full
-LAB
-W
-02:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 67 Full
-LAB
-TH
-02:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 68 Full
-LAB
-TH
-02:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 69 
-LAB
-F
-02:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 70 Full
-LAB
-F
-02:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 71 Full
-LAB
-M
-06:00 PM
-08:50 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 73 Full
-LAB
-T
-06:00 PM
-08:50 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 75 
-LAB
-W
-06:00 PM
-08:50 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 77 Full
-LAB
-TH
-06:00 PM
-08:50 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 78 Full
-LAB
-W
-06:00 PM
-08:50 
-PM
-2026-
-09-10
-2026-
-12-09
-Thursday, September 17, 
-2026
-CHEM-2200 (-)
-Analytical Chemistry
+08-05
+Chemistry and Biochemistry
+BIOC-2010 (-)
+Organic Chem of Biomolecules
 Section 1 
 3.00
 LEC
 TTH
-10:00 AM
+08:30 AM
 11:20 
 AM
 2026-
-09-10
+06-22
 2026-
-12-09
-Section 2 
+08-04
+BIOC-2010 (-)
+Laboratory
+Section 51 
+LAB
+TTH
+11:30 AM
+02:20 
+PM
+2026-
+06-22
+2026-
+08-04
+Section 52 
+LAB
+TTH
+02:30 PM
+05:20 
+PM
+2026-
+06-22
+2026-
+08-04
+BIOC-2015 (-)
+Organic Chem of Biomolecules
+Section 1 
 3.00
 LEC
 TTH
-10:00 AM
+08:30 AM
 11:20 
 AM
 2026-
-09-10
+06-22
 2026-
-12-09
-CHEM-2200 (-)
-Laboratory
-Section 51 Full
-LAB
-M
-02:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 53 Full
-LAB
-T
-02:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 54 Full
-LAB
-T
-06:00 PM
-08:50 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 55 Full
-LAB
-W
-02:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 57 
-LAB
-TH
-02:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 59 Full
-LAB
-F
-02:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 61 Full
-LAB
-M
-02:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
+08-04
 CHEM-2300 (-)
 Introductory Organic Chemistry
 Section 1 
 3.00
 LEC
-MW
-01:30 PM
-02:20 
-PM
+TTH
+08:30 AM
+11:20 
+AM
 2026-
-09-10
+05-04
 2026-
-12-09
-F
-01:30 PM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
+06-15
 Section 2 Full
 3.00
 LEC
-MW
-01:30 PM
-02:20 
-PM
+TTH
+08:30 AM
+11:20 
+AM
 2026-
-09-10
+05-04
 2026-
-12-09
-F
-01:30 PM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
+06-15
 CHEM-2300 (-)
 Laboratory
 Section 51 Full
 LAB
-M
-02:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 52 Full
-LAB
-M
-02:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 53 Full
-LAB
-T
-02:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 54 Full
-LAB
-T
-02:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 55 Full
-LAB
-W
-02:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 56 Full
-LAB
-W
-02:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 57 Full
-LAB
-TH
-02:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 58 Full
-LAB
-TH
-02:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 59 Full
-LAB
-F
-02:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 60 Full
-LAB
-F
-02:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 61 Full
-LAB
-M
-06:00 PM
-08:50 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 62 Full
-LAB
-M
-06:00 PM
-08:50 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 63 
-LAB
-T
-06:00 PM
-08:50 
-PM
-2026-
-09-10
-2026-
-12-09
-Thursday, September 17, 
-2026
-Section 65 
-LAB
-W
-06:00 PM
-08:50 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 67 
-LAB
-TH
-06:00 PM
-08:50 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 68 
-LAB
-TH
-06:00 PM
-08:50 
-PM
-2026-
-09-10
-2026-
-12-09
-CHEM-2305 (-)
-Introductory Organic Chemistry
-Section 1 Full
-3.00
-LEC
-MW
-01:30 PM
+TTH
+11:30 AM
 02:20 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
-F
-01:30 PM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-CHEM-2400 (-)
-Intro Physical Chemistry I
-MWF
-12:30 PM
-01:20 
-PM
-2026-
-09-10
-2026-
-12-09
-MWF
-12:30 PM
-01:20 
-PM
-2026-
-09-10
-2026-
-12-09
-CHEM-2400 (-)
-Laboratory
-Section 51 Full
-LAB
-M
-02:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
+06-15
 Section 52 
 LAB
-M
-06:00 PM
-08:50 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 55 Full
-LAB
-W
+TTH
 02:30 PM
 05:20 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
-Section 56 
-LAB
-W
-06:00 PM
-08:50 
-PM
-2026-
-09-10
-2026-
-12-09
-CHEM-2500 (-)
-Intro Inorganic Chemistry I
+06-15
+CHEM-2305 (-)
+Introductory Organic Chemistry
 Section 1 
 3.00
 LEC
 TTH
-11:30 AM
-12:50 
-PM
-2026-
-09-10
-2026-
-12-09
-CHEM-2500 (-)
-Laboratory
-Section 51 
-LAB
-F
-10:00 AM
+08:30 AM
 11:20 
 AM
 2026-
-09-10
+05-04
 2026-
-12-09
-CHEM-3300 (-)
-Spectroscopic Structure Identn
-Section 1 
-3.00
-LEC
-TTH
-10:00 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-CHEM-3300 (-)
-Laboratory
-Section 51 
-LAB
-W
-02:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 53 
-LAB
-TH
-02:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-CHEM-3305 (-)
-Spectroscopic Structure Identn
-Section 1 
-3.00
-LEC
-TTH
-10:00 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-CHEM-3500 (-)
-Organometallic Chemistry
-Section 1 
-3.00
-LEC
-TTH
-01:00 PM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-CHEM-3500 (-)
-Laboratory
-Section 51 Full
-LAB
-M
-02:30 PM
-08:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Thursday, September 17, 
-2026
-CHEM-3710 (-)
-Materials Chemistry
-Section 1 
-3.00
-LEC
-TTH
-11:30 AM
-12:50 
-PM
-2026-
-09-10
-2026-
-12-09
+06-15
 CHEM-3909 (-)
 Internship Work Term I
 Section 1 
 3.00
 LEC
 2026-
-09-10
+05-04
 2026-
-12-09
-CHEM-4520 (-)
-Free Radicals in Chem/Biol
-Section 1 
-3.00
-LEC
-TTH
-04:00 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-CHEM-4599 (-)
-App. of Inorganic Spectroscopy
-Section 1 
-3.00
-LEC
-TTH
-10:00 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-CHEM-4630 (-)
-Self-Orgn by Molecular Design
-Section 1 
-3.00
-LEC
-MW
-02:30 PM
-03:50 
-PM
-2026-
-09-10
-2026-
-12-09
-CHEM-4641 (-)
-Bio-and Sustainable Materials
-Section 1 
-3.00
-LEC
-MW
-10:00 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-CHEM-4900A (-)
-Research
-Section 1 
-3.00
-LEC
-2026-
-09-10
-2026-
-12-09
+08-05
 CHEM-4908 (-)
 Internship Work Term II
-Section 1 
+Section 2 
 3.00
 LEC
 2026-
-09-10
+05-04
 2026-
-12-09
+08-05
 Computer Science
 COMP-1000 (-)
 Key Concepts in Computer Scie
-Section 1 Full
+Section 1 
 3.00
 LEC
 TTH
@@ -10524,2246 +3299,582 @@ TTH
 09:50 
 AM
 2026-
-09-10
+05-04
 2026-
-12-09
+08-05
 COMP-1000 (-)
 Laboratory
-Section 51 Full
-LAB
-T
-04:00 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 52 Full
+Section 51 
 LAB
 TH
 04:00 PM
 05:20 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
-Section 53 
-LAB
-T
-07:00 PM
-08:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 54 
-LAB
-TH
-07:00 PM
-08:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 55 
-LAB
-TH
-08:30 PM
-09:50 
-PM
-2026-
-09-10
-2026-
-12-09
+08-05
 COMP-1047 (-)
 Computer Concepts - End-Users
-Section 30 
-3.00
-LEC
-T
-07:00 PM
-09:50 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 91 Full
+Section 91 
 3.00
 LEC
 2026-
-09-10
+05-04
 2026-
-12-09
-Thursday, September 17, 
-2026
+08-05
 COMP-1400 (-)
 Intro: Algorithms & Prog I
 Section 1 
 3.00
 LEC
 MW
-01:00 PM
-02:20 
+10:00 AM
+12:50 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
-Section 30 
-3.00
-LEC
-W
+06-15
+COMP-1400 (-)
+Laboratory
+Section 51 
+LAB
+T
 05:30 PM
 08:20 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
-COMP-1400 (-)
-Laboratory
-Section 51 Full
+06-15
+Section 52 
 LAB
-M
-02:30 PM
-03:50 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 52 Full
-LAB
-W
-02:30 PM
-03:50 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 53 
-LAB
-M
-04:00 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 54 
-LAB
-W
-04:00 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 55 
-LAB
-M
+TH
 05:30 PM
-06:50 
+08:20 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
+06-15
 COMP-1410 (-)
 Intro: Algorithms & Prog II
-Section 30 
+Section 1 
 3.00
 LEC
-T
-07:00 PM
-09:50 
+MW
+10:00 AM
+12:50 
 PM
 2026-
-09-10
+06-22
 2026-
-12-09
+08-04
 COMP-1410 (-)
 Laboratory
 Section 51 
 LAB
-TH
-07:00 PM
+T
+05:30 PM
 08:20 
 PM
 2026-
-09-10
+06-22
 2026-
-12-09
+08-04
 Section 52 
 LAB
 TH
-08:30 PM
-09:50 
+05:30 PM
+08:20 
 PM
 2026-
-09-10
+06-22
 2026-
-12-09
+08-04
 COMP-2057 (-)
 Introduction to the Internet
-Section 91 Full
+Section 91 
 3.00
 LEC
 2026-
-09-10
+05-04
 2026-
-12-09
+08-05
 COMP-2067 (-)
 Programming for Beginners
 Section 95 
 3.00
 LEC
-2026-
-09-10
-2026-
-12-09
-TH
+W
 01:00 PM
 01:50 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
-COMP-2087 (-)
-Programming for Beginners II
-Section 95 
+08-05
+Section 96 
 3.00
 LEC
 2026-
-09-10
+05-04
 2026-
-12-09
-M
-09:00 AM
-09:50 
-AM
-2026-
-09-10
-2026-
-12-09
+08-05
 COMP-2097 (-)
 Soc Media&Mobile Tech-End User
 Section 91 Full
 3.00
 LEC
 2026-
-09-10
+05-04
 2026-
-12-09
+08-05
 COMP-2120 (-)
 Obj-Orientd Progrmg Using Java
 Section 1 
 3.00
 LEC
 MW
-04:00 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-COMP-2120 (-)
-Laboratory
-Section 51 Full
-LAB
-TH
-10:00 AM
-11:20 
+08:30 AM
+09:50 
 AM
 2026-
-09-10
+05-04
 2026-
-12-09
-Section 52 Full
+08-05
+COMP-2120 (-)
+Laboratory
+Section 51 
 LAB
-TH
+M
 01:00 PM
 02:20 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
-Thursday, September 17, 
-2026
-Section 53 Full
-LAB
-TH
-05:30 PM
-06:50 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 54 
-LAB
-TH
-07:00 PM
-08:20 
-PM
-2026-
-09-10
-2026-
-12-09
-COMP-2310 (-)
-Theoretical Fdns: Computer Sci
-Section 1 
-3.00
-LEC
-TTH
-11:30 AM
-12:50 
-PM
-2026-
-09-10
-2026-
-12-09
-COMP-2310 (-)
-Laboratory
-Section 51 
-LAB
-T
-04:00 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
+08-05
 Section 52 
 LAB
-TH
+M
 04:00 PM
 05:20 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
-Section 53 Full
-LAB
-W
-02:30 PM
-03:50 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 54 
-LAB
-W
-04:00 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
+08-05
 COMP-2540 (-)
 Data Structures & Algorithms
 Section 1 
 3.00
 LEC
 TTH
-04:00 PM
-05:20 
+11:30 AM
+12:50 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
+08-05
 COMP-2540 (-)
 Laboratory
-Section 51 Full
-LAB
-M
-02:30 PM
-03:50 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 52 Full
+Section 51 
 LAB
 W
-02:30 PM
-03:50 
+01:00 PM
+02:20 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
-Section 53 
+08-05
+Section 52 
 LAB
-M
+W
 04:00 PM
 05:20 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
-Section 54 
-LAB
-T
-05:30 PM
-06:50 
-PM
-2026-
-09-10
-2026-
-12-09
-COMP-2547 (-)
-Applied Algorithms/Data Struct
-Section 1 
-3.00
-LEC
-TH
-02:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
+08-05
 COMP-2560 (-)
 System Programming
 Section 1 
 3.00
 LEC
 MW
-10:00 AM
-11:20 
-AM
+02:30 PM
+03:50 
+PM
 2026-
-09-10
+05-04
 2026-
-12-09
+08-05
 COMP-2560 (-)
 Laboratory
-Section 51 Full
+Section 51 
 LAB
-M
-11:30 AM
-12:50 
+T
+02:30 PM
+03:50 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
-Section 52 
-LAB
-W
-11:30 AM
-12:50 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 53 
-LAB
-M
-01:00 PM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 54 
-LAB
-W
-01:00 PM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
+08-05
 COMP-2650 (-)
 Comp Architre I:Digital Design
 Section 1 
 3.00
 LEC
 TTH
-02:30 PM
-03:50 
-PM
+10:00 AM
+11:20 
+AM
 2026-
-09-10
+05-04
 2026-
-12-09
+08-05
 COMP-2650 (-)
 Laboratory
 Section 51 
 LAB
 M
-11:30 AM
-12:50 
+05:30 PM
+06:50 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
-Thursday, September 17, 
-2026
-Section 52 
-LAB
-W
-11:30 AM
-12:50 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 53 
-LAB
-M
-01:00 PM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 54 
-LAB
-W
-01:00 PM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-COMP-2660 (-)
-Comp Architre II:Micro Program
-Section 1 
-3.00
-LEC
-MW
-08:30 AM
-09:50 
-AM
-2026-
-09-10
-2026-
-12-09
-COMP-2660 (-)
-Laboratory
-Section 51 
-LAB
-T
-04:00 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 52 
-LAB
-TH
-04:00 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
+08-05
 COMP-2707 (-)
 Advanced Website Design
 Section 95 
 3.00
 LEC
 2026-
-09-10
+05-04
 2026-
-12-09
-M
+08-05
+TH
 01:00 PM
 01:50 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
-COMP-2717 (-)
-A.I. :  Practice and Ethics fo
-Section 1 
-3.00
-LEC
-W
-01:00 PM
-03:50 
-PM
-2026-
-09-10
-2026-
-12-09
-COMP-2750 (-)
-Selected Topics I
-Section 1 
-3.00
-LEC
-F
-10:00 AM
-12:50 
-PM
-2026-
-09-10
-2026-
-12-09
+08-05
 COMP-2980 (-)
 Co-op Work Term I
-Section 1 Full
+Section 1 
 3.00
 LEC
 2026-
-09-10
+05-04
 2026-
-12-09
-COMP-3037 (-)
-Information Security for IT
-Section 95 
-3.00
-LEC
-2026-
-09-10
-2026-
-12-09
-W
-11:30 AM
-12:30 
-PM
-2026-
-09-10
-2026-
-12-09
+08-05
 COMP-3057 (-)
 Cyber-Ethics
-Section 91 Full
+Section 91 
 3.00
 LEC
 2026-
-09-10
+05-04
 2026-
-12-09
-COMP-3067 (-)
-Applied Databases
-Section 95 
+08-05
+COMP-3220 (-)
+Obj-Oriented Software Anal/Des
+Section 91 
 3.00
 LEC
-2026-
-09-10
-2026-
-12-09
 M
-12:00 PM
-12:50 
+07:00 PM
+09:50 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
-COMP-3110 (-)
-Intro to Software Engineering
+08-05
+COMP-3300 (-)
+Operating Systems Fundamentals
 Section 1 
 3.00
 LEC
 MW
-05:30 PM
+11:30 AM
+12:50 
+PM
+2026-
+05-04
+2026-
+08-05
+COMP-3340 (-)
+World Wide Web Info System Dev
+Section 91 
+3.00
+LEC
+W
+07:00 PM
+09:50 
+PM
+2026-
+05-04
+2026-
+08-05
+COMP-3670 (-)
+Computer Networks
+Section 95 
+3.00
+LEC
+M
+04:00 PM
 06:50 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
-COMP-3150 (-)
-Database Management Systems
-Thursday, September 17, 
-2026
-Section 1 
-3.00
-LEC
-TTH
-11:30 AM
-12:50 
-PM
-2026-
-09-10
-2026-
-12-09
-COMP-3220 (-)
-Obj-Oriented Software Anal/Des
-Section 1 
-3.00
-LEC
-TTH
-10:00 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-COMP-3540 (-)
-Theory of Computation
-Section 1 
-3.00
-LEC
-TTH
-01:00 PM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-COMP-3670 (-)
-Computer Networks
-Section 1 
-3.00
-LEC
-MW
-04:00 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-COMP-3770 (-)
-Game Design, Dev & Tools
-Section 1 
-3.00
-LEC
-TTH
-08:30 AM
-09:50 
-AM
-2026-
-09-10
-2026-
-12-09
-COMP-3980 (-)
-Co-op Work Term II
-Section 1 Full
-3.00
-LEC
-2026-
-09-10
-2026-
-12-09
-COMP-4150 (-)
-Adv&Practical Database Systems
-Section 1 
-3.00
-LEC
-TH
-11:30 AM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-COMP-4220 (-)
-Agile Software Development
-Section 1 
-3.00
-LEC
-MW
-11:30 AM
-12:50 
-PM
-2026-
-09-10
-2026-
-12-09
-COMP-4250 (-)
-Big Data Analytics/DBase Dsgn
-Section 1 
-3.00
-LEC
-TH
-02:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-COMP-4400 (-)
-Principle of Programming Langs
-Section 1 
-3.00
-LEC
-MW
-02:30 PM
-03:50 
-PM
-2026-
-09-10
-2026-
-12-09
-COMP-4540 (-)
-Dsgn &Anlys of Comp Algorithms
-Section 1 
-3.00
-LEC
-TTH
-02:30 PM
-03:50 
-PM
-2026-
-09-10
-2026-
-12-09
-COMP-4670 (-)
-Network Security
-Section 1 
-3.00
-LEC
-MW
-10:00 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-COMP-4730 (-)
-Adv Tpcs: Artificial Intell I
-Section 1 Full
-3.00
-LEC
-TTH
-10:00 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 2 Full
-3.00
-LEC
-TH
-08:30 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-COMP-4750 (-)
-Computational Geometry and its
-Section 1 
-3.00
-LEC
+08-05
 W
 01:00 PM
-03:50 
+01:50 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
-Thursday, September 17, 
-2026
-COMP-4960A (-)
+08-05
+COMP-3980 (-)
+Co-op Work Term II
+Section 1 
+3.00
+LEC
+2026-
+05-04
+2026-
+08-05
+COMP-4960B (-)
 Research Project
 Section 1 Full
 3.00
 LEC
-F
-10:00 AM
-12:50 
-PM
 2026-
-09-10
+05-04
 2026-
-12-09
-COMP-4960B (-)
-Research Project
+08-05
+COMP-4970 (-)
+Co-op Work Term III
+Section 1 
+3.00
+LEC
+2026-
+05-04
+2026-
+08-05
+COMP-4980 (-)
+Co-op Work Term IV
+Section 1 
+3.00
+LEC
+2026-
+05-04
+2026-
+08-05
 Section 2 
 3.00
 LEC
-F
-10:00 AM
-12:50 
-PM
 2026-
-09-10
+05-04
 2026-
-12-09
-COMP-4970 (-)
-Co-op Work Term III
-Section 1 Full
-3.00
-LEC
-2026-
-09-10
-2026-
-12-09
-COMP-4980 (-)
-Co-op Work Term IV
-Section 1 Full
-3.00
-LEC
-2026-
-09-10
-2026-
-12-09
-Section 2 Full
-3.00
-LEC
-2026-
-09-10
-2026-
-12-09
-COMP-4990A (-)
-Project Mgmt: Techniques&Tools
-Section 1 Full
-3.00
-LEC
-F
-10:00 AM
-12:50 
-PM
-2026-
-09-10
-2026-
-12-09
+08-05
 COMP-4990B (-)
 Project Mgmt: Techniques&Tools
 Section 1 Full
 3.00
 LEC
-F
-10:00 AM
-12:50 
-PM
 2026-
-09-10
+05-04
 2026-
-12-09
+08-05
 Economics
-ECON-1060 (-)
-Quantitative Methods in Econom
-Section 1 
-3.00
-LEC
-TTH
-10:00 AM
-11:30 
-AM
-2026-
-09-10
-2026-
-12-09
 ECON-1100 (-)
 Introduction to Economics I
-Section 1 
-3.00
-LEC
-MW
-02:30 PM
-03:50 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 2 Full
-3.00
-LEC
-MW
-10:00 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 3 
+Section 95 
 3.00
 LEC
 TTH
-02:30 PM
-03:50 
+10:00 AM
+12:50 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
+06-15
 ECON-1110 (-)
 Introduction to Economics II
-Section 1 
+Section 95 
 3.00
 LEC
 TTH
-11:30 AM
-12:50 
-PM
-2026-
-09-10
-2026-
-12-09
-ECON-2210 (-)
-Intermediate Microeconomics I
-Section 1 
-3.00
-LEC
-TTH
-10:00 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-ECON-2310 (-)
-Intermediate Macroeconomics I
-Section 1 
-3.00
-LEC
-MW
-02:30 PM
-03:50 
-PM
-2026-
-09-10
-2026-
-12-09
-ECON-2661 (-)
-Behavioural Economics
-Section 1 Full
-3.00
-LEC
-TTH
-02:30 PM
-03:50 
-PM
-2026-
-09-10
-2026-
-12-09
-Thursday, September 17, 
-2026
-ECON-3130 (-)
-Intro to Econometric Methods I
-Section 1 
-3.00
-LEC
-MW
-10:00 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-ECON-3350 (-)
-Money and Banking
-Section 1 
-3.00
-LEC
-MW
-01:00 PM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-ECON-3740 (-)
-Intl Econ:Exch/Bal of Payments
-Section 1 Full
-3.00
-LEC
-F
 02:30 PM
 05:20 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
-ECON-4070 (-)
-Senior Research Workshop
-Section 1 
-3.00
-LEC
-TH
-04:00 PM
-06:50 
-PM
-2026-
-09-10
-2026-
-12-09
-ECON-4230 (-)
-Advanced Microeconomics I
-Section 1 
-3.00
-LEC
-TTH
-01:00 PM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-ECON-4330 (-)
-Advanced Macroeconomics I
-Section 1 
-3.00
-LEC
-MW
-02:30 PM
-03:50 
-PM
-2026-
-09-10
-2026-
-12-09
-ECON-4990 (-)
-Selected Topics in Economics
-Section 1 
-3.00
-LEC
-MW
-04:00 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
+06-15
 Faculty of Science
-FRSC-1000 (-)
-Introduction to Forensic Sci.
-Section 1 
-3.00
-LEC
-M
-05:30 PM
-08:20 
-PM
-2026-
-09-10
-2026-
-12-09
-FRSC-1107 (-)
-Intro Crime Scn Investigtn
-Section 91 Full
-3.00
-LEC
-2026-
-09-10
-2026-
-12-09
-FRSC-3010 (-)
-Expert Witness: Forensic Scie
-Section 1 Full
-3.00
-LEC
-T
-02:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-FRSC-3105 (-)
-Forensic Identification
-Section 1 
-3.00
-LEC
-T
-10:00 AM
-12:50 
-PM
-2026-
-09-10
-2026-
-12-09
-FRSC-3105 (-)
-Laboratory
-Section 51 
-LAB
-W
-02:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-FRSC-3111 (-)
-Digital Photo in Forensic Scie
-Section 1 Full
-3.00
-LEC
-F
-02:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Thursday, September 17, 
-2026
-FRSC-3201 (-)
-Applied Entomology
-Section 1 
-3.00
-LEC
-M
-11:30 AM
-12:50 
-PM
-2026-
-09-10
-2026-
-12-09
-FRSC-3201 (-)
-Laboratory
-Section 51 
-LAB
-F
-09:30 AM
-12:20 
-PM
-2026-
-09-10
-2026-
-12-09
-FRSC-4002 (-)
-Practicum in Forensic Sciences
-Section 1 
-3.00
-LEC
-2026-
-09-10
-2026-
-12-09
-FRSC-4018 (-)
-Cold Case Investigations
-Section 2 
-3.00
-LEC
-TH
-02:00 PM
-04:50 
-PM
-2026-
-09-10
-2026-
-12-09
-FRSC-4207 (-)
-New Perspvs-Forensc Evid Anlys
+FRSC-2007 (-)
+Overview of Forensic Science
 Section 91 
 3.00
 LEC
 2026-
-09-10
+05-04
 2026-
-12-09
-FRSC-4900A (-)
-Capstone Project in Forensic
+08-05
+FRSC-3900 (-)
+Research Methods/ Forensic Sci
 Section 1 
 3.00
 LEC
-2026-
-09-10
-2026-
-12-09
-SCIE-2700 (-)
-Reason, Faith, and Algorithm
-Section 1 
-3.00
-LEC
-W
-04:00 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-SCIE-3800 (-)
-Service Learning
-Section 1 
-3.00
-LEC
-2026-
-09-10
-2026-
-12-09
-SCIE-3990 (-)
-Internship
-Section 1 Full
-3.00
-LEC
-2026-
-09-10
-2026-
-12-09
-SCIX-   4XXX (-)
-International Exchange
-Section 28 
-15.00
-LEC
-2026-
-09-10
-2026-
-12-09
-Section 29 
-15.00
-LEC
-2026-
-09-10
-2026-
-12-09
-Integrative Biology
-BIOL-1101 (-)
-Cell Biology
-Section 1 
-3.00
-LEC
-TTH
-10:00 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 2 Full
-3.00
-LEC
-TTH
-01:00 PM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-BIOL-1101 (-)
-Laboratory
-Section 51 Full
-LAB
-M
-08:30 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 52 
-LAB
-M
-11:30 AM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Thursday, September 17, 
-2026
-Section 53 Full
-LAB
-M
-02:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 54 
-LAB
-M
-05:30 PM
-08:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 55 Full
-LAB
-T
-08:30 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 56 
-LAB
-T
-11:30 AM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 57 
-LAB
-T
-02:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 59 
-LAB
-W
-08:30 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 60 
-LAB
-W
-11:30 AM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 61 Full
-LAB
-W
-02:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-BIOL-2040 (-)
-Human Physiology I
-Section 1 Full
-3.00
-LEC
-MW
-08:30 AM
-09:50 
-AM
-2026-
-09-10
-2026-
-12-09
-BIOL-2063 (-)
-Principles of Biological Anthr
-Section 1 Full
-3.00
-LEC
-2026-
-09-10
-2026-
-12-09
-BIOL-2080 (-)
-Economic Botany
-Section 1 Full
-3.00
-LEC
-MW
-02:30 PM
-03:50 
-PM
-2026-
-09-10
-2026-
-12-09
-BIOL-2101 (-)
-Ecology
-Section 1 
-3.00
-LEC
-TTH
-11:30 AM
-12:50 
-PM
-2026-
-09-10
-2026-
-12-09
-BIOL-2101 (-)
-Laboratory
-Section 51 Full
-LAB
-TH
-08:30 AM
-09:50 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 52 Full
-LAB
-TH
-10:00 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 53 Full
-LAB
-TH
-02:30 PM
-03:50 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 54 Full
-LAB
-TH
-04:00 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 55 Full
-LAB
-F
-08:30 AM
-09:50 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 56 Full
-LAB
-F
-10:00 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 57 Full
-LAB
-F
-11:30 AM
-12:50 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 58 
-LAB
-F
-01:00 PM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 59 Full
-LAB
-F
-02:30 PM
-03:50 
-PM
-2026-
-09-10
-2026-
-12-09
-BIOL-2111 (-)
-Genetics
-Section 1 
-3.00
-LEC
-TTH
-01:00 PM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-BIOL-2111 (-)
-Laboratory
-Thursday, September 17, 
-2026
-Section 51 Full
-LAB
-T
-08:30 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 52 Full
-LAB
-T
-08:30 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 53 Full
-LAB
-T
-02:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 54 Full
-LAB
-T
-02:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 55 Full
-LAB
-T
-05:30 PM
-08:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 56 Full
-LAB
-T
-05:30 PM
-08:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 57 
-LAB
-W
-08:30 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 58 
-LAB
-W
-08:30 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 59 Full
-LAB
-W
-02:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 60 Full
-LAB
-W
-02:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 61 
-LAB
-W
-05:30 PM
-08:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 63 Full
-LAB
-TH
-08:30 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 64 Full
-LAB
-TH
-08:30 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 65 Full
-LAB
-TH
-02:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 66 Full
-LAB
-TH
-02:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 67 
-LAB
-W
-05:30 PM
-08:20 
-PM
-2026-
-09-10
-2026-
-12-09
-BIOL-2142 (-)
-Principles of Evolution
-Section 1 
-3.00
-LEC
-MW
-10:00 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-BIOL-3022 (-)
-Res Principles/Study Dsgn Biol
-Section 1 
-3.00
-LEC
-MW
-10:00 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-F
-09:30 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-BIOL-3201 (-)
-Applied Entomology
-Section 1 Full
-3.00
-LEC
-M
-11:30 AM
-12:50 
-PM
-2026-
-09-10
-2026-
-12-09
-BIOL-3201 (-)
-Laboratory
-Section 51 Full
-LAB
-F
-09:30 AM
-12:20 
-PM
-2026-
-09-10
-2026-
-12-09
-BIOL-4212 (-)
-Speciation
-Section 1 Full
-3.00
-LEC
-TTH
-01:00 PM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-TTH
-01:00 PM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-BIOL-4241 (-)
-Stream Ecology
-Section 1 Full
-3.00
-LEC
-TTH
-11:30 AM
-12:50 
-PM
-2026-
-09-10
-2026-
-12-09
-Thursday, September 17, 
-2026
-BIOL-4241 (-)
-Laboratory
-Section 51 Full
-LAB
-M
-02:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 52 Full
-LAB
 M
 06:00 PM
-08:50 
+09:00 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
-BIOL-4270 (-)
-Conservation Biology
-Section 1 
+08-05
+FRSC-4002 (-)
+Practicum in Forensic Sciences
+Section 91 
 3.00
 LEC
-MW
-01:00 PM
-02:20 
-PM
 2026-
-09-10
+05-04
 2026-
-12-09
-BIOL-4280 (-)
-Limnology
-Section 1 Full
+08-05
+Integrative Biology
+BIOL-2040 (-)
+Human Physiology I
+Section 91 
 3.00
 LEC
-TTH
-02:30 PM
-03:50 
-PM
 2026-
-09-10
+05-04
 2026-
-12-09
-BIOL-4904A (-)
-Undergrad Research in Biology
-Section 1 
+08-05
+BIOL-4008 (-)
+Integrated Pest Management
+Section 31 Full
 3.00
 LEC
-F
+M
 04:00 PM
-06:00 
+05:20 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
-BIOL-4914A (-)
-Undergrad Research in Biology
-Section 1 
-3.00
-LEC
-04:00 PM
-06:00 
-PM
-2026-
-09-10
-2026-
-12-09
+08-05
 Mathematics and Statistics
-ACSC-3980 (-)
-Theory of Interest
+MATH-1020 (-)
+Mathematical Foundations
 Section 1 
 3.00
 LEC
-MW
-02:30 PM
-03:50 
+M
+01:00 PM
+02:50 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
-ACSC-4981 (-)
-Life Contingencies II
-Section 1 
+08-05
+MATH-1020 (-)
+Laboratory
+Section 51 
 3.00
-LEC
-TTH
-11:30 AM
-12:50 
+LAB
+W
+01:00 PM
+02:50 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
+08-05
 MATH-1250 (-)
 Linear Algebra I
 Section 1 
 3.00
 LEC
 TTH
-05:30 PM
-06:50 
+04:00 PM
+05:20 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
+08-05
 MATH-1250 (-)
 Laboratory
 Section 51 
 3.00
 LAB
 F
-04:30 PM
-06:20 
+02:30 PM
+04:20 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
-MATH-1260 (-)
-Vectors and Linear Algebra
-Section 1 
+08-05
+MATH-1730 (-)
+Integral Calculus
+Section 1 Full
 3.00
 LEC
-MW
-04:00 PM
-05:50 
-PM
-2026-
-09-10
-2026-
-12-09
-MATH-1260 (-)
-Laboratory
-Section 51 
-3.00
-LAB
-W
-06:00 PM
-07:50 
-PM
-2026-
-09-10
-2026-
-12-09
-MATH-1270 (-)
-Linear Algebra (Engineering)
-MW
+TTH
 02:30 PM
 03:50 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
-Section 2 
+08-05
+MATH-1730 (-)
+Laboratory
+Section 51 Full
 3.00
-LEC
-TTH
-01:00 PM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 51 
-3.00
-TUT
-F
-11:30 AM
-12:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Thursday, September 17, 
-2026
-Section 52 
-3.00
-TUT
+LAB
 F
 12:30 PM
 01:20 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
-MATH-1720 (-)
-Differential Calculus
-Section 1 
-3.00
-LEC
-MW
-08:30 AM
-09:50 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 2 Full
-3.00
-LEC
-MW
-10:00 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 3 
-3.00
-LEC
-MW
-05:30 PM
-06:50 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 4 
-3.00
-LEC
-TTH
-11:30 AM
-12:50 
-PM
-2026-
-09-10
-2026-
-12-09
-MATH-1720 (-)
-Laboratory
-Section 51 
-3.00
-LAB
-F
-01:30 PM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 52 Full
-3.00
-LAB
-F
-02:30 PM
-03:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 53 
-3.00
-LAB
-F
-03:30 PM
-04:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 54 
-3.00
-LAB
-F
-10:30 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-MATH-1760 (-)
-Functions &Differentl Calculus
-Section 1 
-3.00
-LEC
-TTH
-07:00 PM
-08:50 
-PM
-2026-
-09-10
-2026-
-12-09
-MATH-1760 (-)
-Laboratory
-Section 51 
-LAB
-F
-10:30 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-MATH-1780 (-)
-Access - Differential Calculus
-Section 1 
-3.00
-LEC
-MW
-08:30 AM
-09:50 
-AM
-2026-
-09-10
-2026-
-12-09
-MATH-1780 (-)
-Laboratory
-Section 51 
-3.00
-LAB
-F
-09:30 AM
-10:20 
-AM
-2026-
-09-10
-2026-
-12-09
+08-05
 MATH-1980 (-)
 Mathematics for Business
-TTH
-01:00 PM
-02:20 
+Section 1 
+3.00
+LEC
+MW
+11:30 AM
+12:50 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
-MW
-08:30 AM
-09:50 
-AM
-2026-
-09-10
-2026-
-12-09
+08-05
 MATH-1980 (-)
 Laboratory
 Section 51 
-3.00
-LAB
-F
-08:30 AM
-09:20 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 52 
 3.00
 LAB
 F
@@ -12771,148 +3882,23 @@ F
 10:20 
 AM
 2026-
-09-10
+05-04
 2026-
-12-09
-MATH-2250 (-)
-Linear Algebra II
-TTH
-11:30 AM
-12:50 
-PM
-2026-
-09-10
-2026-
-12-09
-MATH-2250 (-)
-Laboratory
-Section 51 
-3.00
-LAB
-F
-12:30 PM
-01:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Thursday, September 17, 
-2026
+08-05
 MATH-2780 (-)
 Vector Calculus
 Section 1 
 3.00
 LEC
-MW
-08:30 AM
-09:50 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 2 
-3.00
-LEC
-MW
+TTH
 10:00 AM
 11:20 
 AM
 2026-
-09-10
+05-04
 2026-
-12-09
+08-05
 MATH-2780 (-)
-Laboratory
-Section 51 
-3.00
-LAB
-F
-01:30 PM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 52 
-3.00
-LAB
-F
-11:30 AM
-12:20 
-PM
-2026-
-09-10
-2026-
-12-09
-MATH-2790 (-)
-Differential Equations
-Section 1 Full
-3.00
-LEC
-TTH
-08:30 AM
-09:50 
-AM
-2026-
-09-10
-2026-
-12-09
-MATH-2790 (-)
-Laboratory
-Section 51 Full
-3.00
-LAB
-F
-02:30 PM
-03:20 
-PM
-2026-
-09-10
-2026-
-12-09
-MATH-3150 (-)
-Introduction to Graph Theory
-Section 1 
-3.00
-LEC
-MW
-04:00 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-MATH-3200 (-)
-Abstract Algebra
-Section 1 
-3.00
-LEC
-TTH
-08:30 AM
-09:50 
-AM
-2026-
-09-10
-2026-
-12-09
-MATH-3580 (-)
-Introduction to Analysis I
-Section 1 
-3.00
-LEC
-TTH
-10:00 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-MATH-3580 (-)
 Laboratory
 Section 51 
 3.00
@@ -12922,47 +3908,11 @@ F
 11:20 
 AM
 2026-
-09-10
+05-04
 2026-
-12-09
-MATH-3940 (-)
-Numerical Analysis for Com. Sc
-MW
-11:30 AM
-12:50 
-PM
-2026-
-09-10
-2026-
-12-09
-MATH-3960 (-)
-Linear Programming
-Section 1 
-3.00
-LEC
-MW
-01:00 PM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-MATH-4000 (-)
-Topics in Math
-Section 54 
-3.00
-LEC
-MW
-05:30 PM
-06:50 
-PM
-2026-
-09-10
-2026-
-12-09
-MATH-4220 (-)
-Introduction to Group Theory
+08-05
+MATH-2790 (-)
+Differential Equations
 Section 1 
 3.00
 LEC
@@ -12971,1924 +3921,456 @@ TTH
 12:50 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
-MATH-4300 (-)
-General Topology
-Section 1 
+08-05
+MATH-2790 (-)
+Laboratory
+Section 51 
 3.00
-LEC
+LAB
 F
-09:00 AM
-11:50 
-AM
-2026-
-09-10
-2026-
-12-09
-Thursday, September 17, 
-2026
-MATH-4580 (-)
-Measure Theory and Integration
-Section 1 
-3.00
-LEC
-TTH
-01:00 PM
-02:20 
+11:30 AM
+12:20 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
+08-05
 STAT-2910 (-)
 Statistics for the Sciences
-MW
-08:30 AM
-09:50 
-AM
+Section 1 
+3.00
+LEC
+TTH
+01:00 PM
+02:20 
+PM
 2026-
-09-10
+05-04
 2026-
-12-09
+08-05
 Section 91 
 3.00
 LEC
 2026-
-09-10
+05-04
 2026-
-12-09
+08-05
 STAT-2910 (-)
 Laboratory
 Section 51 
 3.00
 LAB
 F
-09:30 AM
-10:20 
-AM
+04:30 PM
+05:20 
+PM
 2026-
-09-10
+05-04
 2026-
-12-09
+08-05
 Section 52 
 3.00
 LAB
 2026-
-09-10
+05-04
 2026-
-12-09
-STAT-2920 (-)
-Introduction to Probability
-MW
-11:30 AM
-12:50 
-PM
-2026-
-09-10
-2026-
-12-09
-STAT-2920 (-)
-Laboratory
-Section 51 
-LAB
-F
-08:30 AM
-09:20 
-AM
-2026-
-09-10
-2026-
-12-09
-STAT-3920 (-)
-Probability
-Section 1 
-3.00
-LEC
-MW
-10:00 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-STAT-4000 (-)
-Loss Models
-Section 38 
-3.00
-LEC
-MW
-02:30 PM
-03:50 
-PM
-2026-
-09-10
-2026-
-12-09
-STAT-4460 (-)
-Statistical Data Analysis
-Section 1 
-3.00
-LEC
-MW
-02:30 PM
-03:50 
-PM
-2026-
-09-10
-2026-
-12-09
-STAT-4500 (-)
-Generalized Linear Models
-Section 1 
-3.00
-LEC
-F
-10:00 AM
-12:50 
-PM
-2026-
-09-10
-2026-
-12-09
-STAT-4550 (-)
-Regression Analysis
-Section 1 
-3.00
-LEC
-TTH
-01:00 PM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-STAT-4560 (-)
-Statistical Consulting
-Section 1 
-3.00
-LEC
-M
-03:30 PM
-06:20 
-PM
-2026-
-09-10
-2026-
-12-09
+08-05
 Physics
 PHYS-1000 (-)
 Introduction to Astronomy I
-Section 1 
-3.00
-LEC
-TTH
-02:30 PM
-03:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 2 
-3.00
-LEC
-MW
-02:30 PM
-03:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Thursday, September 17, 
-2026
-Section 91 Full
+Section 91 
 3.00
 LEC
 2026-
-09-10
+05-04
 2026-
-12-09
-PHYS-1300 (-)
-Intro Physics - Life Scie I
-Section 1 
-3.00
-LEC
-MWF
-11:30 AM
-12:20 
-PM
-2026-
-09-10
-2026-
-12-09
-PHYS-1300 (-)
-Laboratory
-Section 51 Full
-LAB
-M
-02:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 52 Full
-LAB
-T
-02:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 53 Full
-LAB
-TH
-02:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 54 Full
-LAB
-W
-08:30 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 55 Full
-LAB
-W
-02:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 56 
-LAB
-F
-08:30 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 57 Full
-LAB
-F
-08:30 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 58 Full
-LAB
-T
-08:30 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 59 Full
-LAB
-TH
-08:30 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 60 Full
-LAB
-W
-08:30 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-PHYS-1305 (-)
-Intro Physics - Life Sci I (B)
-Section 1 Full
-3.00
-LEC
-MWF
-11:30 AM
-12:20 
-PM
-2026-
-09-10
-2026-
-12-09
-PHYS-1400 (-)
-Introductory Physics I
-Section 1 
-3.00
-LEC
-MWF
-11:30 AM
-12:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 2 Full
-3.00
-LEC
-MW
-04:00 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-PHYS-1400 (-)
-Laboratory
-Section 51 Full
-LAB
-M
-02:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 52 Full
-LAB
-M
-02:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 53 Full
-LAB
-T
-02:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 54 
-LAB
-T
-02:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 55 Full
-LAB
-W
-02:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 56 
-LAB
-W
-02:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 58 Full
-LAB
-TH
-02:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 59 Full
-LAB
-TH
-02:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 61 Full
-LAB
-T
-08:30 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 62 
-LAB
-W
-08:30 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-Thursday, September 17, 
-2026
-Section 63 Full
-LAB
-TH
-08:30 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 64 Full
-LAB
-M
-05:30 PM
-08:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 65 Full
-LAB
-M
-05:30 PM
-08:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 66 Full
-LAB
-M
-05:30 PM
-08:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 67 Full
-LAB
-T
-05:30 PM
-08:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 68 Full
-LAB
-T
-05:30 PM
-08:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 69 Full
-LAB
-T
-05:30 PM
-08:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 70 
-LAB
-W
-05:30 PM
-08:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 71 Full
-LAB
-W
-05:30 PM
-08:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 72 Full
-LAB
-W
-05:30 PM
-08:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 73 Full
-LAB
-TH
-05:30 PM
-08:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 74 
-LAB
-TH
-05:30 PM
-08:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 75 Full
-LAB
-TH
-05:30 PM
-08:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 76 Full
-LAB
-T
-08:30 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 77 
-LAB
-TH
-08:30 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 78 Full
-LAB
-F
-03:30 PM
-06:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 80 
-LAB
-F
-03:30 PM
-06:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 81 
-LAB
-F
-12:30 PM
-03:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 82 Full
-LAB
-F
-03:30 PM
-06:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 83 
-LAB
-W
-11:30 AM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
+08-05
 PHYS-2040 (-)
 History of Astronomy
-Section 91 Full
+Section 91 
 3.00
 LEC
 2026-
-09-10
+05-04
 2026-
-12-09
-PHYS-2100 (-)
-Topics in Physics
-Section 1 
-3.00
-LEC
-TTH
-08:30 AM
-09:50 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 2 Full
-3.00
-LEC
-TTH
-10:00 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-PHYS-2100 (-)
-Laboratory
-Section 51 Full
-3.00
-LAB
-M
-11:30 AM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 52 Full
-3.00
-LAB
-M
-02:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 53 
-3.00
-LAB
-M
-05:30 PM
-08:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 54 Full
-3.00
-LAB
-T
-11:30 AM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Thursday, September 17, 
-2026
-Section 55 Full
-3.00
-LAB
-T
-02:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 56 Full
-3.00
-LAB
-T
-05:30 PM
-08:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 57 
-3.00
-LAB
-W
-11:30 AM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 58 Full
-3.00
-LAB
-W
-02:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 59 Full
-LAB
-W
-05:30 PM
-08:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 61 
-3.00
-LAB
-M
-11:30 AM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 62 
-3.00
-LAB
-M
-02:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 64 Full
-3.00
-LAB
-T
-11:30 AM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 65 Full
-3.00
-LAB
-T
-02:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 66 Full
-3.00
-LAB
-T
-05:30 PM
-08:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 67 
-3.00
-LAB
-W
-11:30 AM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 68 Full
-3.00
-LAB
-W
-02:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 69 Full
-LAB
-W
-05:30 PM
-08:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 71 Full
-LAB
-TH
-11:30 AM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 72 
-LAB
-TH
-02:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 73 
-LAB
-TH
-05:30 PM
-08:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 74 Full
-LAB
-F
-08:30 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 75 Full
-LAB
-F
-02:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 76 Full
-LAB
-F
-05:30 PM
-08:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 81 Full
-LAB
-TH
-11:30 AM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 82 Full
-LAB
-TH
-02:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 83 
-LAB
-TH
-05:30 PM
-08:20 
-PM
-2026-
-09-10
-2026-
-12-09
-PHYS-2200 (-)
-Oscillations/ Waves/Electromag
-Section 1 
-3.00
-LEC
-TTH
-02:30 PM
-03:50 
-PM
-2026-
-09-10
-2026-
-12-09
-PHYS-2200 (-)
-Laboratory
-Section 51 
-LAB
-TH
-04:00 PM
-06:50 
-PM
-2026-
-09-10
-2026-
-12-09
+08-05
 PHYS-2980 (-)
 Co-op Work Term I
 Section 1 
 3.00
 LEC
 2026-
-09-10
+05-04
 2026-
-12-09
-PHYS-3100 (-)
-Quantum Mechanics I
-Section 1 
-3.00
-LEC
-MW
-02:30 PM
-03:50 
-PM
-2026-
-09-10
-2026-
-12-09
-Thursday, September 17, 
-2026
-PHYS-3500 (-)
-Advanced Classical Mechanics
-Section 1 
-3.00
-LEC
-MWF
-11:30 AM
-12:20 
-PM
-2026-
-09-10
-2026-
-12-09
-W
-10:30 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-PHYS-3600 (-)
-Computational Physics
-Section 1 
-3.00
-LEC
-TTH
-01:00 PM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
+08-05
 PHYS-3980 (-)
 Co-op Work Term II
-Section 1 
+Section 91 
 3.00
 LEC
 2026-
-09-10
+05-04
 2026-
-12-09
-PHYS-4710 (-)
-Medical Imaging
-Section 1 
-3.00
-LEC
-TTH
-10:00 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-PHYS-4710 (-)
-Laboratory
-Section 51 
-LAB
-T
-04:00 PM
-06:50 
-PM
-2026-
-09-10
-2026-
-12-09
-PHYS-4900A (-)
-Research
-Section 1 
-3.00
-LEC
-W
-12:30 PM
-01:20 
-PM
-2026-
-09-10
-2026-
-12-09
+08-05
 PHYS-4980 (-)
 Co-op Work Term III
 Section 1 
 3.00
 LEC
 2026-
-09-10
+05-04
 2026-
-12-09
-Section 2 
-3.00
-LEC
-2026-
-09-10
-2026-
-12-09
+08-05
 School of the Environment
 ESCI-1000 (-)
 Natural Hazards and Disasters
-Section 1 Full
+Section 91 
 3.00
 LEC
-MW
-11:30 AM
-12:20 
-PM
 2026-
-09-10
+05-04
 2026-
-12-09
-ESCI-1100 (-)
-Intro to Environmental Science
-Section 1 
+08-05
+ESCI-1020 (-)
+Intro to Planetary Science
+Section 91 
 3.00
 LEC
-TTH
-11:30 AM
-12:50 
-PM
 2026-
-09-10
+05-04
 2026-
-12-09
+08-05
 ESCI-1130 (-)
 Atmosphere and Climate
-Section 91 Full
+Section 91 
 3.00
 LEC
-W
-07:00 PM
-09:50 
-PM
 2026-
-09-10
+05-04
 2026-
-12-09
-ESCI-1141 (-)
-Cartography & Digital Mapping
+08-05
+ESCI-3755 (-)
+Meth./Great Lakes Geomicrobiol
 Section 1 
 3.00
 LEC
-TTH
-10:00 AM
-10:50 
-AM
-2026-
-09-10
-2026-
-12-09
-ESCI-1141 (-)
-Laboratory
-Section 51 
-LAB
-T
-02:30 PM
-04:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 52 
-LAB
-TH
-02:30 PM
-04:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Thursday, September 17, 
-2026
-ESCI-2020 (-)
-Discovering Dinosaurs
-Section 30 
-3.00
-LEC
-TH
-07:00 PM
-09:50 
-PM
-2026-
-09-10
-2026-
-12-09
-ESCI-2131 (-)
-Introduction to Geochemistry
-Section 1 
-3.00
-LEC
-MW
-10:00 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-ESCI-2141 (-)
-Hydrology
-Section 1 
-3.00
-LEC
-W
-02:30 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-ESCI-2141 (-)
-Laboratory
-Section 51 
-LAB
-T
-01:30 PM
-03:20 
-PM
-2026-
-09-10
-2026-
-12-09
-ESCI-2300 (-)
-Introduction to Oceanography
-Section 1 
-3.00
-LEC
-T
-03:30 PM
-06:20 
-PM
-2026-
-09-10
-2026-
-12-09
-ESCI-2600 (-)
-Principles of Resource Mgmt
-Section 1 
-3.00
-LEC
-T
-07:00 PM
-09:50 
-PM
-2026-
-09-10
-2026-
-12-09
-ESCI-2701 (-)
-Geospatial Data Collection
-Section 1 
-3.00
-LEC
-MW
-11:30 AM
-12:20 
-PM
-2026-
-09-10
-2026-
-12-09
-ESCI-2701 (-)
-Laboratory
-Section 51 
-LAB
+MTWTH
 F
-10:00 AM
-11:50 
-AM
-2026-
-09-10
-2026-
-12-09
-ESCI-3310 (-)
-Global Water Crisis
-Section 1 
-3.00
-LEC
-MWF
-08:30 AM
-09:20 
-AM
-2026-
-09-10
-2026-
-12-09
-ESCI-3701 (-)
-Spatial Modelling In GIS
-Section 1 
-3.00
-LEC
-MW
-01:00 PM
-02:20 
+09:00 AM
+04:00 
 PM
 2026-
-09-10
+08-17
 2026-
-12-09
-ESCI-3701 (-)
-Laboratory
-Section 51 
-LAB
-TH
-11:00 AM
-12:50 
-PM
-2026-
-09-10
-2026-
-12-09
-ESCI-3735 (-)
-Field Methods for Environ Sci
-Section 1 
-3.00
-LEC
-F
-01:00 PM
-05:00 
-PM
-2026-
-09-10
-2026-
-12-09
-F
-01:00 PM
-05:00 
-PM
-2026-
-09-10
-2026-
-12-09
-ESCI-3761 (-)
-Geostatistical Analysis in GIS
-Section 1 
-3.00
-LEC
-M
-02:30 PM
-04:20 
-PM
-2026-
-09-10
-2026-
-12-09
-ESCI-3761 (-)
-Laboratory
-Thursday, September 17, 
-2026
-Section 51 
-LAB
-T
-10:00 AM
-11:50 
-AM
-2026-
-09-10
-2026-
-12-09
-ESCI-3801 (-)
-Scientific Writing & Data Mgmt
-Section 1 
-3.00
-LEC
-TH
-02:30 PM
-04:20 
-PM
-2026-
-09-10
-2026-
-12-09
-ESCI-3801 (-)
-Laboratory
-Section 51 
-LAB
-T
-02:30 PM
-04:20 
-PM
-2026-
-09-10
-2026-
-12-09
-T
-02:30 PM
-04:20 
-PM
-2026-
-09-10
-2026-
-12-09
-ESCI-4301 (-)
-Groundwater Resources
-Section 1 
-3.00
-LEC
-MW
-09:30 AM
-10:20 
-AM
-2026-
-09-10
-2026-
-12-09
-ESCI-4301 (-)
-Laboratory
-Section 51 
-LAB
-W
-11:00 AM
-12:50 
-PM
-2026-
-09-10
-2026-
-12-09
-ESCI-4808 (-)
-Evolving Earth Systems
-Section 1 
-3.00
-LEC
-TTH
-08:30 AM
-09:50 
-AM
-2026-
-09-10
-2026-
-12-09
-ESCI-4900A (-)
-Thesis Research in Environ Sci
-Section 1 
-3.00
-LEC
-T
-10:00 AM
-10:50 
-AM
-2026-
-09-10
-2026-
-12-09
-ESCI-4911A (-)
-GIS Capstone Research Proj
-Section 1 
-3.00
-LEC
-W
-02:30 PM
-04:20 
-PM
-2026-
-09-10
-2026-
-12-09
-ESTU-1100 (-)
-Intro to Environmental Studies
-Section 1 Full
-3.00
-LEC
-MW
-01:00 PM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-ESTU-2100 (-)
-Canadian Regional Environments
-Section 1 
-3.00
-LEC
-MW
-08:30 AM
-09:50 
-AM
-2026-
-09-10
-2026-
-12-09
-ESTU-4808 (-)
-Societal Adaptation to Climate
-Section 2 
-3.00
-LEC
-M
-07:00 PM
-09:50 
-PM
-2026-
-09-10
-2026-
-12-09
-ESTU-4900A (-)
-Environ St Research Project
-Section 1 
-3.00
-LEC
-T
-10:00 AM
-10:50 
-AM
-2026-
-09-10
-2026-
-12-09
+08-28
 Odette School of Business
 Odette School of Business
 ACCT-1510 (-)
 Principles of Financial Acctg
-Thursday, September 17, 
-2026
-Section 1 
-3.00
-LEC
-TTH
-02:30 PM
-03:50 
-PM
-2026-
-09-10
-2026-
-12-09
 Section 91 
 3.00
 LEC
 MW
-07:00 PM
-08:20 
+05:30 PM
+06:50 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
+08-05
 ACCT-2510 (-)
 Intro: Financial Acctg Theory
 Section 1 
 3.00
 LEC
 TTH
-05:30 PM
-06:50 
+07:00 PM
+08:20 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
+08-05
 ACCT-2520 (-)
 Accounting Theory I
-Section 1 Full
+Section 1 
 3.00
 LEC
 MW
-01:00 PM
-02:20 
+11:30 AM
+12:50 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
+08-05
 ACCT-2550 (-)
 Principles of Managerial Acctg
-Section 1 Full
-3.00
-LEC
-MW
-10:00 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 2 Full
-3.00
-LEC
-MW
-01:00 PM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 3 Full
+Section 1 
 3.00
 LEC
 T
-04:00 PM
-05:20 
+11:30 AM
+12:50 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
-2026-
-09-10
-2026-
-12-09
-Section 4 
-3.00
-LEC
-T
-05:30 PM
-06:50 
-PM
-2026-
-09-10
-2026-
-12-09
+08-05
 TH
-05:30 PM
-06:50 
+11:30 AM
+12:50 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
-Section 95 
-3.00
-LEC
-T
-07:00 PM
-08:20 
-PM
-2026-
-09-10
-2026-
-12-09
-TH
-07:00 PM
-08:20 
-PM
-2026-
-09-10
-2026-
-12-09
+08-05
 ACCT-3520 (-)
 Accounting Theory II
 Section 1 
 3.00
 LEC
 TTH
-11:30 AM
-12:50 
+02:30 PM
+03:50 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
+08-05
 ACCT-3560 (-)
 Adv Mmgt Accounting & Analysis
 Section 1 
 3.00
 LEC
 MW
-11:30 AM
-12:50 
+01:00 PM
+02:20 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
+08-05
 ACCT-3580 (-)
 Accounting Information Systems
 Section 1 
 3.00
 LEC
-MW
+TTH
 04:00 PM
 05:20 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
+08-05
 ACCT-3600 (-)
 Auditing I
 Section 1 
 3.00
 LEC
-TTH
+T
 01:00 PM
 02:20 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
+08-05
+TH
+01:00 PM
+02:20 
+PM
+2026-
+05-04
+2026-
+08-05
 ACCT-3610 (-)
 Taxation I
 Section 1 
 3.00
 LEC
 TTH
-07:00 PM
-08:20 
+04:00 PM
+05:20 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
+08-05
 ACCT-4570 (-)
 Advanced Accounting I
 Section 1 
 3.00
 LEC
+MW
+07:00 PM
+08:20 
+PM
 2026-
-09-10
+05-04
 2026-
-12-09
+08-05
 ACCT-4590 (-)
 Adv Topics: Managerial Acctg
 Section 1 
 3.00
 LEC
-W
-04:00 PM
-06:50 
+MW
+11:30 AM
+12:50 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
-Thursday, September 17, 
-2026
+08-05
 ACCT-4600 (-)
 Auditing II
 Section 1 
 3.00
 LEC
 TTH
-04:00 PM
-05:20 
+01:00 PM
+02:20 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
+08-05
 ACCT-4610 (-)
 Taxation II
-Section 30 
-3.00
-LEC
-TTH
-07:00 PM
-08:20 
-PM
-2026-
-09-10
-2026-
-12-09
-BUSX-   4XXX (-)
-International Exchange
-Section 27 Full
-15.00
-LEC
-2026-
-09-10
-2026-
-12-09
-FINA-2000 (-)
-Personal Finance
 Section 1 
 3.00
 LEC
-TTH
+MW
 04:00 PM
 05:20 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
+08-05
 FINA-2700 (-)
 Business Finance I
-Section 1 Full
+Section 1 
 3.00
 LEC
 MW
-11:30 AM
-12:50 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 2 Full
-3.00
-LEC
-MW
-02:30 PM
-03:50 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 3 Full
-3.00
-LEC
-TTH
 10:00 AM
 11:20 
 AM
 2026-
-09-10
+05-04
 2026-
-12-09
-Section 91 Full
-3.00
-LEC
-2026-
-09-10
-2026-
-12-09
+08-05
 FINA-2710 (-)
 Business Finance II
 Section 1 
 3.00
 LEC
 TTH
-11:30 AM
-12:50 
-PM
+10:00 AM
+11:20 
+AM
 2026-
-09-10
+05-04
 2026-
-12-09
-Section 91 
+08-05
+FINA-3710 (-)
+Intermediate Finance
+Section 1 
 3.00
 LEC
 MW
-07:00 PM
-08:20 
-PM
+10:00 AM
+11:20 
+AM
 2026-
-09-10
+05-04
 2026-
-12-09
-FINA-3710 (-)
-Intermediate Finance
-Section 1 Full
+08-05
+FINA-3790 (-)
+International Financial Mgmt
+Section 1 
 3.00
 LEC
-TTH
+MW
 02:30 PM
 03:50 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
-FINA-3730 (-)
-Working Capital Management
-Section 1 Full
-3.00
-LEC
-MW
-04:00 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-FINA-4720 (-)
-Portfolio Management
-Section 1 
-3.00
-LEC
-TTH
-01:00 PM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
+08-05
 FINA-4740 (-)
 Corporate Financial Strategy
 Section 1 
 3.00
 LEC
 TTH
-11:30 AM
-12:50 
+04:00 PM
+05:20 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
-FINA-4780 (-)
-Institutional/Pension Investme
+08-05
+MGMT-1000 (-)
+Business Communications
+Section 1 
+3.00
+LEC
+MW
+10:00 AM
+11:20 
+AM
+2026-
+05-04
+2026-
+08-05
+MGMT-2400 (-)
+Organizational Behaviour
+Section 30 
+3.00
+LEC
+TTH
+07:00 PM
+08:20 
+PM
+2026-
+05-04
+2026-
+08-05
+MGMT-2430 (-)
+Human Resources Management
+Section 1 
+3.00
+LEC
+M
+07:00 PM
+09:50 
+PM
+2026-
+05-04
+2026-
+08-05
+MGMT-3000 (-)
+Bus Ethics in a Global Context
+Section 30 
+3.00
+LEC
+T
+07:00 PM
+09:50 
+PM
+2026-
+05-04
+2026-
+08-05
+MGMT-4410 (-)
+Training and Development
 Section 30 
 3.00
 LEC
@@ -14897,132 +4379,92 @@ W
 09:50 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
-MGMT-1000 (-)
-Business Communications
-Section 1 Full
-3.00
-LEC
-TTH
-11:30 AM
-12:50 
-PM
-2026-
-09-10
-2026-
-12-09
-Thursday, September 17, 
-2026
-MGMT-2400 (-)
-Organizational Behaviour
-Section 1 Full
-3.00
-LEC
-MW
-10:00 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 2 Full
-3.00
-LEC
-MW
-11:30 AM
-12:50 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 3 Full
-3.00
-LEC
-TTH
-01:00 PM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 4 Full
-3.00
-LEC
-TTH
-10:00 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-MGMT-2430 (-)
-Human Resources Management
-Section 1 Full
-3.00
-LEC
-TTH
-11:30 AM
-12:50 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 2 Full
-3.00
-LEC
-TTH
-01:00 PM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-MGMT-3000 (-)
-Bus Ethics in a Global Context
-Section 1 Full
-3.00
-LEC
-TTH
-10:00 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 2 Full
-3.00
-LEC
-TTH
-11:30 AM
-12:50 
-PM
-2026-
-09-10
-2026-
-12-09
+08-05
+MGMT-4480 (-)
+Employment Law
 Section 30 
 3.00
 LEC
-TH
+M
 07:00 PM
 09:50 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
-MGMT-3440 (-)
-Labour-Management Relations
+08-05
+MKTG-1310 (-)
+Principles of Marketing
+Section 1 
+3.00
+LEC
+TH
+2026-
+05-04
+2026-
+06-15
+MKTG-3340 (-)
+Consumer Behaviour
 Section 1 Full
+3.00
+LEC
+2026-
+05-04
+2026-
+06-15
+MKTG-4360 (-)
+Advertising Management
+Section 91 
+3.00
+LEC
+2026-
+05-04
+2026-
+08-05
+MSCI-1000 (-)
+Intro - Business Data Analysis
+Section 1 
+3.00
+LEC
+MW
+02:30 PM
+03:50 
+PM
+2026-
+05-04
+2026-
+08-05
+MSCI-2020 (-)
+Business Data Analysis
+Section 1 
+3.00
+LEC
+MW
+11:30 AM
+12:50 
+PM
+2026-
+05-04
+2026-
+08-05
+MSCI-2130 (-)
+Intro to Mgmt Info Systems
+Section 1 
+3.00
+LEC
+MW
+04:00 PM
+05:20 
+PM
+2026-
+05-04
+2026-
+08-05
+MSCI-2200 (-)
+Quantitative Decision Models I
+Section 1 
 3.00
 LEC
 MW
@@ -15030,548 +4472,70 @@ MW
 06:50 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
-MGMT-3830 (-)
-Intl Human Resources Mgmt
-Section 1 
-3.00
-LEC
-T
-01:00 PM
-03:50 
-PM
-2026-
-09-10
-2026-
-12-09
-MGMT-4410 (-)
-Training and Development
-Section 1 
-3.00
-LEC
-TH
-01:00 PM
-03:50 
-PM
-2026-
-09-10
-2026-
-12-09
-MGMT-4510 (-)
-Organizational Staffing
-Section 30 
-3.00
-LEC
-TH
-05:30 PM
-08:20 
-PM
-2026-
-09-10
-2026-
-12-09
-MKTG-1310 (-)
-Principles of Marketing
-Section 1 Full
-3.00
-LEC
-MW
-11:30 AM
-12:50 
-PM
-2026-
-09-10
-2026-
-12-09
-TTH
-08:30 AM
-09:50 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 4 Full
-3.00
-LEC
-MW
-01:00 PM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 95 Full
-3.00
-LEC
-2026-
-09-10
-2026-
-12-09
-MKTG-2320 (-)
-Mktg Problems-Applns & Decisns
-Section 1 Full
-3.00
-LEC
-MW
-01:00 PM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-MKTG-3320 (-)
-Research Methods in Marketing
-Section 1 
-3.00
-LEC
-T
-05:30 PM
-08:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Thursday, September 17, 
-2026
-MKTG-4300 (-)
-Event Marketing
-Section 30 Full
-3.00
-LEC
-M
-07:00 PM
-09:50 
-PM
-2026-
-09-10
-2026-
-12-09
-MKTG-4910 (-)
-Political Marketing
-Section 31 
-3.00
-LEC
-TTH
-01:00 PM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-MSCI-1000 (-)
-Intro - Business Data Analysis
-Section 1 
-3.00
-LEC
-W
-10:00 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-M
-10:00 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 2 
-3.00
-LEC
-M
-11:30 AM
-12:50 
-PM
-2026-
-09-10
-2026-
-12-09
-W
-11:30 AM
-12:50 
-PM
-2026-
-09-10
-2026-
-12-09
-MSCI-2020 (-)
-Business Data Analysis
-Section 1 Full
-3.00
-LEC
-M
-01:00 PM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-W
-01:00 PM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-TTH
-02:30 PM
-03:50 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 3 Full
-3.00
-LEC
-M
-02:30 PM
-03:50 
-PM
-2026-
-09-10
-2026-
-12-09
-W
-02:30 PM
-03:50 
-PM
-2026-
-09-10
-2026-
-12-09
-TTH
-11:30 AM
-12:50 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 5 Full
-3.00
-LEC
-TTH
-04:00 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-MSCI-2130 (-)
-Intro to Mgmt Info Systems
-Section 1 Full
-3.00
-LEC
-W
-11:30 AM
-12:50 
-PM
-2026-
-09-10
-2026-
-12-09
-M
-11:30 AM
-12:50 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 2 
-3.00
-LEC
-M
-04:00 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-W
-04:00 PM
-05:20 
-PM
-2026-
-09-10
-2026-
-12-09
-MSCI-2200 (-)
-Quantitative Decision Models I
-Section 1 
-3.00
-LEC
-T
-10:00 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-TH
-10:00 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 2 
-3.00
-LEC
-T
-07:00 PM
-09:50 
-PM
-2026-
-09-10
-2026-
-12-09
-MSCI-3200 (-)
-Quantitatve Decision Models II
-Section 2 
-3.00
-LEC
-TTH
-08:30 AM
-09:50 
-AM
-2026-
-09-10
-2026-
-12-09
+08-05
 MSCI-3310 (-)
 Operations Management I
-Thursday, September 17, 
-2026
-Section 1 
-3.00
-LEC
-MW
-02:30 PM
-03:50 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 2 Full
-3.00
-LEC
-TTH
-10:00 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-MSCI-3410 (-)
-Supply Chain Mgt I:Intro &Fund
 Section 1 
 3.00
 LEC
 TTH
-01:00 PM
-02:20 
+05:30 PM
+06:50 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
-MSCI-4950 (-)
-Information Systems and AI
-Section 1 Full
-3.00
-LEC
-2026-
-09-10
-2026-
-12-09
-MSCI-4950 (-)
-Modern Supply Chain Mgmt
-Section 2 
-3.00
-LEC
-2026-
-09-10
-2026-
-12-09
+08-05
+Page 27
 STEN-1000 (-)
 Introduction to Business
-Section 1 Full
-3.00
-LEC
-MW
-10:00 AM
-11:20 
-AM
-2026-
-09-10
-2026-
-12-09
-Section 2 Full
-3.00
-LEC
-MW
-01:00 PM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 3 Full
-3.00
-LEC
-T
-10:00 AM
-12:50 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 4 Full
-3.00
-LEC
-TTH
-01:00 PM
-02:20 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 5 Full
-3.00
-LEC
-TTH
-11:30 AM
-12:50 
-PM
-2026-
-09-10
-2026-
-12-09
 Section 30 
 3.00
 LEC
-T
+MW
 07:00 PM
-09:50 
+08:20 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
+08-05
 STEN-2050 (-)
 B. Comm. Co-op Work Term I
 Section 1 Full
 3.00
 LEC
 2026-
-09-10
+05-04
 2026-
-12-09
+08-05
 STEN-2900 (-)
 Fundamentals of Entrepreneur
-Section 1 Full
+Section 1 
 3.00
 LEC
-M
-10:00 AM
-12:50 
+T
+01:00 PM
+03:50 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
+08-05
 STEN-3050 (-)
 B. Comm. Co-op Work Term II
 Section 1 Full
 3.00
 LEC
 2026-
-09-10
+05-04
 2026-
-12-09
+08-05
 STEN-3930 (-)
 International Business
-Section 91 Full
-3.00
-LEC
-2026-
-09-10
-2026-
-12-09
-STEN-3970 (-)
-Law & Business Administration
 Section 1 
-3.00
-LEC
-MW
-02:30 PM
-03:50 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 2 
-3.00
-LEC
-TTH
-05:30 PM
-06:50 
-PM
-2026-
-09-10
-2026-
-12-09
-STEN-4050 (-)
-B. Comm. Co-op Work Term III
-Section 1 Full
-3.00
-LEC
-2026-
-09-10
-2026-
-12-09
-Thursday, September 17, 
-2026
-Page 76
-STEN-4980 (-)
-Strategic Management
-Section 1 Full
-3.00
-LEC
-MW
-11:30 AM
-12:50 
-PM
-2026-
-09-10
-2026-
-12-09
-Section 2 
 3.00
 LEC
 MW
@@ -15579,17 +4543,41 @@ MW
 02:20 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
+08-05
+STEN-3970 (-)
+Law & Business Administration
+Section 1 
+3.00
+LEC
+MW
+04:00 PM
+05:20 
+PM
+2026-
+05-04
+2026-
+08-05
+STEN-4050 (-)
+B. Comm. Co-op Work Term III
+Section 1 Full
+3.00
+LEC
+2026-
+05-04
+2026-
+08-05
+STEN-4980 (-)
+Strategic Management
 Section 30 
 3.00
 LEC
-W
+TH
 07:00 PM
 09:50 
 PM
 2026-
-09-10
+05-04
 2026-
-12-09
+08-05
