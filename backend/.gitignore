@@ -1,0 +1,10 @@
+bin/
+obj/
+*.db-wal
+*.db-shm
+
+*.sln
+wwwroot/
+publish/
+Properties/
+backend.csproj.user
