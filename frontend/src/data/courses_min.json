@@ -1,51 +1,27 @@
 [
   {
-    "name": "ARSC-1000",
-    "code": "ARSC-1000"
-  },
-  {
-    "name": "ARSC-3100",
-    "code": "ARSC-3100"
-  },
-  {
-    "name": "ARSC-4990A",
-    "code": "ARSC-4990A"
-  },
-  {
     "name": "ARSC-4990B",
     "code": "ARSC-4990B"
   },
   {
-    "name": "ARTX-4XXX",
-    "code": "ARTX-4XXX"
+    "name": "CAVL-1970B",
+    "code": "CAVL-1970B"
   },
   {
-    "name": "CAVL-1970A",
-    "code": "CAVL-1970A"
+    "name": "CAVL-2970B",
+    "code": "CAVL-2970B"
   },
   {
-    "name": "CAVL-2970A",
-    "code": "CAVL-2970A"
+    "name": "CAVL-3970B",
+    "code": "CAVL-3970B"
   },
   {
-    "name": "CAVL-3970A",
-    "code": "CAVL-3970A"
+    "name": "CAVL-4970B",
+    "code": "CAVL-4970B"
   },
   {
     "name": "GART-1210",
     "code": "GART-1210"
-  },
-  {
-    "name": "GART-2090",
-    "code": "GART-2090"
-  },
-  {
-    "name": "GART-2980",
-    "code": "GART-2980"
-  },
-  {
-    "name": "GART-4000",
-    "code": "GART-4000"
   },
   {
     "name": "SOSC-1210",
@@ -56,124 +32,104 @@
     "code": "SOSC-2500"
   },
   {
-    "name": "SOSC-3500",
-    "code": "SOSC-3500"
-  },
-  {
-    "name": "SOSC-4000",
-    "code": "SOSC-4000"
-  },
-  {
     "name": "SOSC-4500",
     "code": "SOSC-4500"
   },
   {
-    "name": "CMAF-1010",
-    "code": "CMAF-1010"
+    "name": "CMAF-2010",
+    "code": "CMAF-2010"
   },
   {
-    "name": "CMAF-2250",
-    "code": "CMAF-2250"
+    "name": "CMAF-2410",
+    "code": "CMAF-2410"
   },
   {
-    "name": "CMAF-2340",
-    "code": "CMAF-2340"
+    "name": "CMAF-2450",
+    "code": "CMAF-2450"
   },
   {
-    "name": "CMAF-2400",
-    "code": "CMAF-2400"
+    "name": "CMAF-2610",
+    "code": "CMAF-2610"
   },
   {
-    "name": "CMAF-2900",
-    "code": "CMAF-2900"
+    "name": "CMAF-2750",
+    "code": "CMAF-2750"
   },
   {
-    "name": "CMAF-3640",
-    "code": "CMAF-3640"
+    "name": "CMAF-3410",
+    "code": "CMAF-3410"
+  },
+  {
+    "name": "CMAF-3430",
+    "code": "CMAF-3430"
+  },
+  {
+    "name": "CMAF-3750",
+    "code": "CMAF-3750"
   },
   {
     "name": "CMAF-3990",
     "code": "CMAF-3990"
   },
   {
-    "name": "CMAF-4340",
-    "code": "CMAF-4340"
+    "name": "CMAF-4350",
+    "code": "CMAF-4350"
   },
   {
-    "name": "CMAF-4950",
-    "code": "CMAF-4950"
+    "name": "CMAF-4900",
+    "code": "CMAF-4900"
   },
   {
     "name": "CMAF-4990",
     "code": "CMAF-4990"
   },
   {
-    "name": "FILM-1100",
-    "code": "FILM-1100"
+    "name": "FILM-1001",
+    "code": "FILM-1001"
   },
   {
-    "name": "FILM-1900",
-    "code": "FILM-1900"
+    "name": "FILM-1110",
+    "code": "FILM-1110"
   },
   {
-    "name": "FILM-2300",
-    "code": "FILM-2300"
+    "name": "FILM-2100",
+    "code": "FILM-2100"
   },
   {
-    "name": "FILM-2400",
-    "code": "FILM-2400"
+    "name": "FILM-2200",
+    "code": "FILM-2200"
   },
   {
-    "name": "FILM-3200",
-    "code": "FILM-3200"
+    "name": "FILM-2600",
+    "code": "FILM-2600"
   },
   {
-    "name": "FILM-3400",
-    "code": "FILM-3400"
+    "name": "FILM-3100",
+    "code": "FILM-3100"
   },
   {
-    "name": "FILM-3600",
-    "code": "FILM-3600"
+    "name": "FILM-4105",
+    "code": "FILM-4105"
   },
   {
-    "name": "FILM-4100",
-    "code": "FILM-4100"
+    "name": "MUSC-1130",
+    "code": "MUSC-1130"
   },
   {
-    "name": "FILM-4110",
-    "code": "FILM-4110"
+    "name": "MUSC-1270",
+    "code": "MUSC-1270"
   },
   {
-    "name": "MACS-2050",
-    "code": "MACS-2050"
+    "name": "MUSC-2390",
+    "code": "MUSC-2390"
   },
   {
-    "name": "MACS-2600",
-    "code": "MACS-2600"
+    "name": "MUSC-3170",
+    "code": "MUSC-3170"
   },
   {
-    "name": "MACS-3620",
-    "code": "MACS-3620"
-  },
-  {
-    "name": "MACS-4520",
-    "code": "MACS-4520"
-  },
-  {
-    "name": "MUSC-1120",
-    "code": "MUSC-1120"
-  },
-  {
-    "name": "MUSC-1260",
-    "code": "MUSC-1260"
-  },
-  {
-    "name": "MUSC-2550",
-    "code": "MUSC-2550"
-  },
-  {
-    "name": "MUSC-4320",
-    "code": "MUSC-4320"
+    "name": "MUSC-4120",
+    "code": "MUSC-4120"
   },
   {
     "name": "MUSP-2100",
@@ -184,48 +140,44 @@
     "code": "MUSP-2400"
   },
   {
-    "name": "MUSP-2720",
-    "code": "MUSP-2720"
+    "name": "VABE-1200",
+    "code": "VABE-1200"
   },
   {
-    "name": "MUSP-2730",
-    "code": "MUSP-2730"
+    "name": "VABE-1290",
+    "code": "VABE-1290"
   },
   {
-    "name": "MUSP-4000",
-    "code": "MUSP-4000"
+    "name": "VABE-2110",
+    "code": "VABE-2110"
   },
   {
-    "name": "VABE-1100",
-    "code": "VABE-1100"
+    "name": "VABE-2130",
+    "code": "VABE-2130"
   },
   {
-    "name": "VABE-1190",
-    "code": "VABE-1190"
+    "name": "VABE-2400",
+    "code": "VABE-2400"
   },
   {
-    "name": "VABE-2210",
-    "code": "VABE-2210"
+    "name": "VABE-2840",
+    "code": "VABE-2840"
   },
   {
-    "name": "VABE-2300",
-    "code": "VABE-2300"
+    "name": "VABE-2860",
+    "code": "VABE-2860"
   },
   {
-    "name": "VABE-2640",
-    "code": "VABE-2640"
+    "name": "VABE-2880",
+    "code": "VABE-2880"
   },
   {
-    "name": "VABE-2660",
-    "code": "VABE-2660"
+    "name": "VABE-3200",
+    "code": "VABE-3200"
   },
   {
-    "name": "VABE-2680",
-    "code": "VABE-2680"
-  },
-  {
-    "name": "VABE-3100",
-    "code": "VABE-3100"
+    "name": "VABE-4600",
+    "code": "VABE-4600"
   },
   {
     "name": "VSAR-1060",
@@ -236,40 +188,60 @@
     "code": "VSAR-1070"
   },
   {
+    "name": "VSAR-2030",
+    "code": "VSAR-2030"
+  },
+  {
     "name": "VSAR-2330",
     "code": "VSAR-2330"
   },
   {
-    "name": "VSAR-3130",
-    "code": "VSAR-3130"
+    "name": "VSAR-2900",
+    "code": "VSAR-2900"
   },
   {
-    "name": "VSAR-3850",
-    "code": "VSAR-3850"
+    "name": "VSAR-3840",
+    "code": "VSAR-3840"
   },
   {
-    "name": "VSAR-4800",
-    "code": "VSAR-4800"
+    "name": "VSAR-3860",
+    "code": "VSAR-3860"
   },
   {
-    "name": "DRAM-1000",
-    "code": "DRAM-1000"
+    "name": "VSAR-4810",
+    "code": "VSAR-4810"
   },
   {
-    "name": "DRAM-2600",
-    "code": "DRAM-2600"
+    "name": "DRAM-1600",
+    "code": "DRAM-1600"
   },
   {
-    "name": "DRAM-3100",
-    "code": "DRAM-3100"
+    "name": "DRAM-2250",
+    "code": "DRAM-2250"
   },
   {
-    "name": "DRAM-3210",
-    "code": "DRAM-3210"
+    "name": "DRAM-2440",
+    "code": "DRAM-2440"
   },
   {
-    "name": "DRAM-3260",
-    "code": "DRAM-3260"
+    "name": "DRAM-2720",
+    "code": "DRAM-2720"
+  },
+  {
+    "name": "DRAM-2840",
+    "code": "DRAM-2840"
+  },
+  {
+    "name": "DRAM-3150",
+    "code": "DRAM-3150"
+  },
+  {
+    "name": "DRAM-3230",
+    "code": "DRAM-3230"
+  },
+  {
+    "name": "DRAM-3350",
+    "code": "DRAM-3350"
   },
   {
     "name": "DRAM-3510",
@@ -284,284 +256,284 @@
     "code": "DRAM-3530"
   },
   {
-    "name": "DRAM-3980",
-    "code": "DRAM-3980"
+    "name": "DRAM-3600",
+    "code": "DRAM-3600"
   },
   {
-    "name": "DRAM-4200",
-    "code": "DRAM-4200"
-  },
-  {
-    "name": "DRAM-4510",
-    "code": "DRAM-4510"
+    "name": "DRAM-4290",
+    "code": "DRAM-4290"
   },
   {
     "name": "DRAM-4530",
     "code": "DRAM-4530"
   },
   {
-    "name": "ENGL-1003",
-    "code": "ENGL-1003"
+    "name": "ENGL-1004",
+    "code": "ENGL-1004"
+  },
+  {
+    "name": "ENGL-1005",
+    "code": "ENGL-1005"
   },
   {
     "name": "ENGL-1010",
     "code": "ENGL-1010"
   },
   {
-    "name": "ENGL-2030",
-    "code": "ENGL-2030"
+    "name": "ENGL-2120",
+    "code": "ENGL-2120"
   },
   {
-    "name": "ENGL-2110",
-    "code": "ENGL-2110"
+    "name": "ENGL-2210",
+    "code": "ENGL-2210"
   },
   {
-    "name": "ENGL-2130",
-    "code": "ENGL-2130"
+    "name": "ENGL-2320",
+    "code": "ENGL-2320"
   },
   {
-    "name": "ENGL-2410",
-    "code": "ENGL-2410"
+    "name": "ENGL-2430",
+    "code": "ENGL-2430"
   },
   {
-    "name": "ENGL-2510",
-    "code": "ENGL-2510"
+    "name": "ENGL-2520",
+    "code": "ENGL-2520"
+  },
+  {
+    "name": "ENGL-2710B",
+    "code": "ENGL-2710B"
   },
   {
     "name": "ENGL-3020",
     "code": "ENGL-3020"
   },
   {
-    "name": "ENGL-3120",
-    "code": "ENGL-3120"
+    "name": "ENGL-3110",
+    "code": "ENGL-3110"
   },
   {
-    "name": "ENGL-3220",
-    "code": "ENGL-3220"
+    "name": "ENGL-3210",
+    "code": "ENGL-3210"
   },
   {
-    "name": "ENGL-3520",
-    "code": "ENGL-3520"
+    "name": "ENGL-3310",
+    "code": "ENGL-3310"
   },
   {
-    "name": "ENGL-3710",
-    "code": "ENGL-3710"
+    "name": "ENGL-3410",
+    "code": "ENGL-3410"
   },
   {
     "name": "ENGL-4000",
     "code": "ENGL-4000"
   },
   {
-    "name": "ENGL-4003",
-    "code": "ENGL-4003"
+    "name": "ENGL-4004",
+    "code": "ENGL-4004"
   },
   {
-    "name": "ENGL-4710A",
-    "code": "ENGL-4710A"
+    "name": "ENGL-4710B",
+    "code": "ENGL-4710B"
   },
   {
-    "name": "HIST-1030",
-    "code": "HIST-1030"
+    "name": "HIST-1240",
+    "code": "HIST-1240"
   },
   {
-    "name": "HIST-1230",
-    "code": "HIST-1230"
+    "name": "HIST-2020",
+    "code": "HIST-2020"
   },
   {
-    "name": "HIST-2070",
-    "code": "HIST-2070"
+    "name": "HIST-2030",
+    "code": "HIST-2030"
   },
   {
-    "name": "HIST-2120",
-    "code": "HIST-2120"
+    "name": "HIST-2300",
+    "code": "HIST-2300"
   },
   {
-    "name": "HIST-2430",
-    "code": "HIST-2430"
+    "name": "HIST-2440",
+    "code": "HIST-2440"
   },
   {
-    "name": "HIST-2460",
-    "code": "HIST-2460"
+    "name": "HIST-2470",
+    "code": "HIST-2470"
   },
   {
-    "name": "HIST-2510",
-    "code": "HIST-2510"
+    "name": "HIST-2620",
+    "code": "HIST-2620"
   },
   {
-    "name": "HIST-3030",
-    "code": "HIST-3030"
+    "name": "HIST-2870",
+    "code": "HIST-2870"
   },
   {
-    "name": "HIST-3480",
-    "code": "HIST-3480"
+    "name": "HIST-3100",
+    "code": "HIST-3100"
+  },
+  {
+    "name": "HIST-3490",
+    "code": "HIST-3490"
   },
   {
     "name": "HIST-3970",
     "code": "HIST-3970"
   },
   {
-    "name": "HIST-4350",
-    "code": "HIST-4350"
+    "name": "HIST-4810",
+    "code": "HIST-4810"
   },
   {
-    "name": "HIST-4800",
-    "code": "HIST-4800"
+    "name": "HIST-4830",
+    "code": "HIST-4830"
   },
   {
-    "name": "IACS-1000",
-    "code": "IACS-1000"
-  },
-  {
-    "name": "IACS-2180",
-    "code": "IACS-2180"
-  },
-  {
-    "name": "IACS-3500",
-    "code": "IACS-3500"
+    "name": "IACS-2600",
+    "code": "IACS-2600"
   },
   {
     "name": "IACS-4500",
     "code": "IACS-4500"
   },
   {
-    "name": "ICDS-2010",
-    "code": "ICDS-2010"
+    "name": "ICDS-3020",
+    "code": "ICDS-3020"
   },
   {
-    "name": "ICDS-4010",
-    "code": "ICDS-4010"
+    "name": "ICDS-4020",
+    "code": "ICDS-4020"
   },
   {
-    "name": "ICLS-1000",
-    "code": "ICLS-1000"
+    "name": "ICLS-2000",
+    "code": "ICLS-2000"
   },
   {
-    "name": "ICWG-1000",
-    "code": "ICWG-1000"
+    "name": "ICLS-3490",
+    "code": "ICLS-3490"
   },
   {
-    "name": "ICWG-1300",
-    "code": "ICWG-1300"
+    "name": "ICWG-2380",
+    "code": "ICWG-2380"
   },
   {
-    "name": "ICWG-2100",
-    "code": "ICWG-2100"
-  },
-  {
-    "name": "ICWG-2200",
-    "code": "ICWG-2200"
-  },
-  {
-    "name": "ICWG-2510",
-    "code": "ICWG-2510"
+    "name": "ICWG-2800",
+    "code": "ICWG-2800"
   },
   {
     "name": "ICWG-2990",
     "code": "ICWG-2990"
   },
   {
-    "name": "ICWG-3000",
-    "code": "ICWG-3000"
+    "name": "ICWG-3050",
+    "code": "ICWG-3050"
   },
   {
-    "name": "FREN-1140",
-    "code": "FREN-1140"
+    "name": "ICWG-3060",
+    "code": "ICWG-3060"
   },
   {
-    "name": "FREN-1210",
-    "code": "FREN-1210"
+    "name": "ICWG-3990",
+    "code": "ICWG-3990"
   },
   {
-    "name": "FREN-1410",
-    "code": "FREN-1410"
+    "name": "ICWG-4000",
+    "code": "ICWG-4000"
   },
   {
-    "name": "FREN-2150",
-    "code": "FREN-2150"
+    "name": "ICWG-4900",
+    "code": "ICWG-4900"
   },
   {
-    "name": "FREN-2210",
-    "code": "FREN-2210"
+    "name": "ARAB-2610",
+    "code": "ARAB-2610"
   },
   {
-    "name": "FREN-2300",
-    "code": "FREN-2300"
+    "name": "FREN-1220",
+    "code": "FREN-1220"
   },
   {
-    "name": "FREN-3250",
-    "code": "FREN-3250"
+    "name": "FREN-2220",
+    "code": "FREN-2220"
   },
   {
-    "name": "FREN-3300",
-    "code": "FREN-3300"
+    "name": "FREN-2310",
+    "code": "FREN-2310"
   },
   {
-    "name": "FREN-3560",
-    "code": "FREN-3560"
+    "name": "FREN-2520",
+    "code": "FREN-2520"
   },
   {
-    "name": "FREN-3850",
-    "code": "FREN-3850"
+    "name": "FREN-2700",
+    "code": "FREN-2700"
   },
   {
-    "name": "GREK-1100",
-    "code": "GREK-1100"
+    "name": "FREN-3150",
+    "code": "FREN-3150"
   },
   {
-    "name": "GRHS-2200",
-    "code": "GRHS-2200"
+    "name": "FREN-3280",
+    "code": "FREN-3280"
   },
   {
-    "name": "GRMN-3010",
-    "code": "GRMN-3010"
+    "name": "FREN-3530",
+    "code": "FREN-3530"
   },
   {
-    "name": "GRST-1200",
-    "code": "GRST-1200"
+    "name": "FREN-3570",
+    "code": "FREN-3570"
   },
   {
-    "name": "GRST-2030",
-    "code": "GRST-2030"
+    "name": "GRHS-2101",
+    "code": "GRHS-2101"
   },
   {
-    "name": "GRST-2111",
-    "code": "GRST-2111"
+    "name": "GRMN-1020",
+    "code": "GRMN-1020"
   },
   {
-    "name": "GRST-2120",
-    "code": "GRST-2120"
+    "name": "GRST-1100",
+    "code": "GRST-1100"
   },
   {
-    "name": "INCS-1370",
-    "code": "INCS-1370"
+    "name": "GRST-2000",
+    "code": "GRST-2000"
   },
   {
-    "name": "INCS-3370",
-    "code": "INCS-3370"
+    "name": "GRST-3010",
+    "code": "GRST-3010"
   },
   {
-    "name": "ITLN-2020",
-    "code": "ITLN-2020"
+    "name": "INCS-2020",
+    "code": "INCS-2020"
   },
   {
-    "name": "LING-2200",
-    "code": "LING-2200"
+    "name": "INCS-2370",
+    "code": "INCS-2370"
   },
   {
-    "name": "LING-3200",
-    "code": "LING-3200"
+    "name": "ITLN-2610",
+    "code": "ITLN-2610"
+  },
+  {
+    "name": "LATN-1200",
+    "code": "LATN-1200"
+  },
+  {
+    "name": "LING-2210",
+    "code": "LING-2210"
+  },
+  {
+    "name": "LING-3210",
+    "code": "LING-3210"
   },
   {
     "name": "SPAN-1020",
     "code": "SPAN-1020"
   },
   {
-    "name": "SPAN-2610",
-    "code": "SPAN-2610"
-  },
-  {
-    "name": "SPAN-3000",
-    "code": "SPAN-3000"
+    "name": "SPAN-2020",
+    "code": "SPAN-2020"
   },
   {
     "name": "PHIL-1100",
@@ -588,40 +560,48 @@
     "code": "PHIL-2210"
   },
   {
-    "name": "PHIL-2270",
-    "code": "PHIL-2270"
+    "name": "PHIL-2220",
+    "code": "PHIL-2220"
   },
   {
-    "name": "PHIL-2500",
-    "code": "PHIL-2500"
+    "name": "PHIL-2250",
+    "code": "PHIL-2250"
   },
   {
-    "name": "PHIL-2520",
-    "code": "PHIL-2520"
+    "name": "PHIL-2280",
+    "code": "PHIL-2280"
   },
   {
-    "name": "PHIL-2730",
-    "code": "PHIL-2730"
+    "name": "PHIL-2530",
+    "code": "PHIL-2530"
   },
   {
-    "name": "PHIL-3290",
-    "code": "PHIL-3290"
+    "name": "PHIL-2570",
+    "code": "PHIL-2570"
   },
   {
-    "name": "PHIL-3520",
-    "code": "PHIL-3520"
+    "name": "PHIL-2610",
+    "code": "PHIL-2610"
   },
   {
-    "name": "PHIL-4100",
-    "code": "PHIL-4100"
+    "name": "PHIL-2660",
+    "code": "PHIL-2660"
   },
   {
-    "name": "PHIL-4720",
-    "code": "PHIL-4720"
+    "name": "PHIL-2760",
+    "code": "PHIL-2760"
   },
   {
-    "name": "PHIL-4910",
-    "code": "PHIL-4910"
+    "name": "PHIL-3190",
+    "code": "PHIL-3190"
+  },
+  {
+    "name": "PHIL-3600",
+    "code": "PHIL-3600"
+  },
+  {
+    "name": "PHIL-4710",
+    "code": "PHIL-4710"
   },
   {
     "name": "POLS-1000",
@@ -636,88 +616,104 @@
     "code": "POLS-1600"
   },
   {
-    "name": "POLS-2000",
-    "code": "POLS-2000"
+    "name": "POLS-2015",
+    "code": "POLS-2015"
   },
   {
-    "name": "POLS-2140",
-    "code": "POLS-2140"
+    "name": "POLS-2055",
+    "code": "POLS-2055"
   },
   {
-    "name": "POLS-2320",
-    "code": "POLS-2320"
+    "name": "POLS-2065",
+    "code": "POLS-2065"
   },
   {
-    "name": "POLS-2330",
-    "code": "POLS-2330"
+    "name": "POLS-2220",
+    "code": "POLS-2220"
   },
   {
-    "name": "POLS-2340",
-    "code": "POLS-2340"
+    "name": "POLS-2300",
+    "code": "POLS-2300"
   },
   {
-    "name": "POLS-2440",
-    "code": "POLS-2440"
+    "name": "POLS-2350",
+    "code": "POLS-2350"
   },
   {
-    "name": "POLS-2510",
-    "code": "POLS-2510"
+    "name": "POLS-2640",
+    "code": "POLS-2640"
   },
   {
-    "name": "POLS-2610",
-    "code": "POLS-2610"
+    "name": "POLS-2880",
+    "code": "POLS-2880"
   },
   {
-    "name": "POLS-2680",
-    "code": "POLS-2680"
+    "name": "POLS-3000",
+    "code": "POLS-3000"
   },
   {
-    "name": "POLS-3260",
-    "code": "POLS-3260"
+    "name": "POLS-3090",
+    "code": "POLS-3090"
   },
   {
-    "name": "POLS-3550",
-    "code": "POLS-3550"
+    "name": "POLS-3140",
+    "code": "POLS-3140"
   },
   {
-    "name": "POLS-3600",
-    "code": "POLS-3600"
+    "name": "POLS-3190",
+    "code": "POLS-3190"
   },
   {
-    "name": "POLS-3720",
-    "code": "POLS-3720"
+    "name": "POLS-3460",
+    "code": "POLS-3460"
   },
   {
-    "name": "POLS-4210",
-    "code": "POLS-4210"
+    "name": "POLS-3540",
+    "code": "POLS-3540"
   },
   {
-    "name": "POLS-4340",
-    "code": "POLS-4340"
+    "name": "POLS-3610",
+    "code": "POLS-3610"
   },
   {
-    "name": "POLS-4410",
-    "code": "POLS-4410"
+    "name": "POLS-3630",
+    "code": "POLS-3630"
   },
   {
-    "name": "POLS-4420",
-    "code": "POLS-4420"
+    "name": "POLS-4000",
+    "code": "POLS-4000"
   },
   {
-    "name": "POLS-4970",
-    "code": "POLS-4970"
+    "name": "POLS-4310",
+    "code": "POLS-4310"
   },
   {
-    "name": "PSYC-2XXX",
-    "code": "PSYC-2XXX"
+    "name": "POLS-4430",
+    "code": "POLS-4430"
+  },
+  {
+    "name": "POLS-4610",
+    "code": "POLS-4610"
+  },
+  {
+    "name": "POLS-4640",
+    "code": "POLS-4640"
+  },
+  {
+    "name": "POLS-4980",
+    "code": "POLS-4980"
+  },
+  {
+    "name": "PSYC-1070",
+    "code": "PSYC-1070"
+  },
+  {
+    "name": "PSYC-1150",
+    "code": "PSYC-1150"
   },
   {
     "name": "PSYC-1160",
     "code": "PSYC-1160"
-  },
-  {
-    "name": "PSYC-2180",
-    "code": "PSYC-2180"
   },
   {
     "name": "PSYC-2230",
@@ -728,8 +724,8 @@
     "code": "PSYC-2240"
   },
   {
-    "name": "PSYC-2250",
-    "code": "PSYC-2250"
+    "name": "PSYC-2280",
+    "code": "PSYC-2280"
   },
   {
     "name": "PSYC-2300",
@@ -740,56 +736,44 @@
     "code": "PSYC-2360"
   },
   {
-    "name": "PSYC-2560",
-    "code": "PSYC-2560"
+    "name": "PSYC-2400",
+    "code": "PSYC-2400"
   },
   {
-    "name": "PSYC-3130",
-    "code": "PSYC-3130"
+    "name": "PSYC-2560",
+    "code": "PSYC-2560"
   },
   {
     "name": "PSYC-3200",
     "code": "PSYC-3200"
   },
   {
-    "name": "PSYC-3220",
-    "code": "PSYC-3220"
+    "name": "PSYC-3240",
+    "code": "PSYC-3240"
   },
   {
     "name": "PSYC-3270",
     "code": "PSYC-3270"
   },
   {
-    "name": "PSYC-3330",
-    "code": "PSYC-3330"
+    "name": "PSYC-3310",
+    "code": "PSYC-3310"
   },
   {
-    "name": "PSYC-3370",
-    "code": "PSYC-3370"
+    "name": "PSYC-3350",
+    "code": "PSYC-3350"
   },
   {
-    "name": "PSYC-3390",
-    "code": "PSYC-3390"
-  },
-  {
-    "name": "PSYC-3500",
-    "code": "PSYC-3500"
+    "name": "PSYC-3420",
+    "code": "PSYC-3420"
   },
   {
     "name": "PSYC-3580",
     "code": "PSYC-3580"
   },
   {
-    "name": "PSYC-3700",
-    "code": "PSYC-3700"
-  },
-  {
-    "name": "PSYC-4000",
-    "code": "PSYC-4000"
-  },
-  {
-    "name": "PSYC-4230",
-    "code": "PSYC-4230"
+    "name": "PSYC-4150",
+    "code": "PSYC-4150"
   },
   {
     "name": "PSYC-4240",
@@ -800,20 +784,24 @@
     "code": "PSYC-4270"
   },
   {
+    "name": "PSYC-4300",
+    "code": "PSYC-4300"
+  },
+  {
+    "name": "PSYC-4450",
+    "code": "PSYC-4450"
+  },
+  {
     "name": "PSYC-4500",
     "code": "PSYC-4500"
   },
   {
-    "name": "PSYC-4960",
-    "code": "PSYC-4960"
+    "name": "PSYC-4970",
+    "code": "PSYC-4970"
   },
   {
-    "name": "SWRK-1170",
-    "code": "SWRK-1170"
-  },
-  {
-    "name": "SWRK-2000",
-    "code": "SWRK-2000"
+    "name": "SWRK-1180",
+    "code": "SWRK-1180"
   },
   {
     "name": "SWRK-2040",
@@ -824,272 +812,344 @@
     "code": "SWRK-2100"
   },
   {
-    "name": "SWRK-3360",
-    "code": "SWRK-3360"
+    "name": "SWRK-3380",
+    "code": "SWRK-3380"
   },
   {
-    "name": "SWRK-3370",
-    "code": "SWRK-3370"
+    "name": "SWRK-3390",
+    "code": "SWRK-3390"
   },
   {
-    "name": "SWRK-3440",
-    "code": "SWRK-3440"
+    "name": "SWRK-3550",
+    "code": "SWRK-3550"
   },
   {
-    "name": "SWRK-3500",
-    "code": "SWRK-3500"
+    "name": "SWRK-3710",
+    "code": "SWRK-3710"
   },
   {
-    "name": "SWRK-4230",
-    "code": "SWRK-4230"
-  },
-  {
-    "name": "SWRK-4300",
-    "code": "SWRK-4300"
+    "name": "SWRK-4310",
+    "code": "SWRK-4310"
   },
   {
     "name": "SWRK-4500",
     "code": "SWRK-4500"
   },
   {
-    "name": "SWRK-4730",
-    "code": "SWRK-4730"
+    "name": "SWRK-4750",
+    "code": "SWRK-4750"
   },
   {
     "name": "SACR-1100",
     "code": "SACR-1100"
   },
   {
-    "name": "SACR-2100",
-    "code": "SACR-2100"
+    "name": "SACR-2050",
+    "code": "SACR-2050"
   },
   {
-    "name": "SACR-2200",
-    "code": "SACR-2200"
+    "name": "SACR-2280",
+    "code": "SACR-2280"
+  },
+  {
+    "name": "SACR-2400",
+    "code": "SACR-2400"
   },
   {
     "name": "SACR-2600",
     "code": "SACR-2600"
   },
   {
-    "name": "SACR-3050",
-    "code": "SACR-3050"
+    "name": "SACR-2620",
+    "code": "SACR-2620"
+  },
+  {
+    "name": "SACR-2910",
+    "code": "SACR-2910"
   },
   {
     "name": "SACR-3080",
     "code": "SACR-3080"
   },
   {
-    "name": "SACR-3330",
-    "code": "SACR-3330"
+    "name": "SACR-3630",
+    "code": "SACR-3630"
   },
   {
-    "name": "SACR-3500",
-    "code": "SACR-3500"
-  },
-  {
-    "name": "SACR-3560",
-    "code": "SACR-3560"
-  },
-  {
-    "name": "SACR-3610",
-    "code": "SACR-3610"
-  },
-  {
-    "name": "SACR-3620",
-    "code": "SACR-3620"
-  },
-  {
-    "name": "SACR-3730",
-    "code": "SACR-3730"
+    "name": "SACR-3650",
+    "code": "SACR-3650"
   },
   {
     "name": "SACR-3900",
     "code": "SACR-3900"
   },
   {
-    "name": "SACR-3970",
-    "code": "SACR-3970"
+    "name": "SACR-3910",
+    "code": "SACR-3910"
   },
   {
-    "name": "SACR-4050",
-    "code": "SACR-4050"
+    "name": "SACR-3970",
+    "code": "SACR-3970"
   },
   {
     "name": "SACR-4210",
     "code": "SACR-4210"
   },
   {
-    "name": "SACR-4500",
-    "code": "SACR-4500"
+    "name": "SACR-4220",
+    "code": "SACR-4220"
   },
   {
-    "name": "SACR-4510",
-    "code": "SACR-4510"
+    "name": "SACR-4500",
+    "code": "SACR-4500"
   },
   {
     "name": "SACR-4600",
     "code": "SACR-4600"
   },
   {
-    "name": "SACR-4610",
-    "code": "SACR-4610"
+    "name": "SACR-4620",
+    "code": "SACR-4620"
   },
   {
-    "name": "SACR-4640",
-    "code": "SACR-4640"
+    "name": "EDUC-1199B",
+    "code": "EDUC-1199B"
   },
   {
-    "name": "SACR-4650",
-    "code": "SACR-4650"
+    "name": "EDUC-2299B",
+    "code": "EDUC-2299B"
   },
   {
-    "name": "EDUC-1199A",
-    "code": "EDUC-1199A"
+    "name": "EDUC-3399B",
+    "code": "EDUC-3399B"
   },
   {
-    "name": "EDUC-2299A",
-    "code": "EDUC-2299A"
+    "name": "CIVL-2190",
+    "code": "CIVL-2190"
   },
   {
-    "name": "CIVL-2200",
-    "code": "CIVL-2200"
+    "name": "CIVL-3520",
+    "code": "CIVL-3520"
   },
   {
-    "name": "CIVL-3510",
-    "code": "CIVL-3510"
+    "name": "CIVL-3630",
+    "code": "CIVL-3630"
   },
   {
-    "name": "CIVL-3530",
-    "code": "CIVL-3530"
+    "name": "CIVL-4000A",
+    "code": "CIVL-4000A"
   },
   {
-    "name": "CIVL-3540",
-    "code": "CIVL-3540"
+    "name": "CIVL-4720",
+    "code": "CIVL-4720"
   },
   {
-    "name": "CIVL-3650",
-    "code": "CIVL-3650"
+    "name": "ENVE-2200",
+    "code": "ENVE-2200"
   },
   {
-    "name": "ENVE-3510",
-    "code": "ENVE-3510"
+    "name": "ENVE-3620",
+    "code": "ENVE-3620"
   },
   {
-    "name": "ENVE-3521",
-    "code": "ENVE-3521"
+    "name": "ENVE-4000A",
+    "code": "ENVE-4000A"
   },
   {
-    "name": "ELEC-2141",
-    "code": "ELEC-2141"
+    "name": "ENVE-4710",
+    "code": "ENVE-4710"
   },
   {
-    "name": "ELEC-2240",
-    "code": "ELEC-2240"
+    "name": "ENVE-4740",
+    "code": "ENVE-4740"
   },
   {
-    "name": "ELEC-3000",
-    "code": "ELEC-3000"
+    "name": "ELEC-2170",
+    "code": "ELEC-2170"
   },
   {
-    "name": "ELEC-3130",
-    "code": "ELEC-3130"
+    "name": "ELEC-2200",
+    "code": "ELEC-2200"
   },
   {
-    "name": "ELEC-3160",
-    "code": "ELEC-3160"
+    "name": "ELEC-2260",
+    "code": "ELEC-2260"
   },
   {
-    "name": "ELEC-3270",
-    "code": "ELEC-3270"
+    "name": "ELEC-2280",
+    "code": "ELEC-2280"
   },
   {
-    "name": "GENG-1101",
-    "code": "GENG-1101"
+    "name": "ELEC-2320",
+    "code": "ELEC-2320"
+  },
+  {
+    "name": "ELEC-4000A",
+    "code": "ELEC-4000A"
+  },
+  {
+    "name": "ELEC-4310",
+    "code": "ELEC-4310"
+  },
+  {
+    "name": "ELEC-4350",
+    "code": "ELEC-4350"
+  },
+  {
+    "name": "ELEC-4370",
+    "code": "ELEC-4370"
+  },
+  {
+    "name": "ELEC-4440",
+    "code": "ELEC-4440"
+  },
+  {
+    "name": "ELEC-4500",
+    "code": "ELEC-4500"
+  },
+  {
+    "name": "ELEC-4570",
+    "code": "ELEC-4570"
   },
   {
     "name": "GENG-1102",
     "code": "GENG-1102"
   },
   {
-    "name": "GENG-2101",
-    "code": "GENG-2101"
+    "name": "GENG-1201",
+    "code": "GENG-1201"
   },
   {
-    "name": "GENG-2102",
-    "code": "GENG-2102"
+    "name": "GENG-1202",
+    "code": "GENG-1202"
   },
   {
-    "name": "GENG-2180",
-    "code": "GENG-2180"
+    "name": "GENG-2201",
+    "code": "GENG-2201"
   },
   {
-    "name": "GENG-2190",
-    "code": "GENG-2190"
+    "name": "GENG-2220",
+    "code": "GENG-2220"
   },
   {
     "name": "GENG-2980",
     "code": "GENG-2980"
   },
   {
-    "name": "GENG-3130",
-    "code": "GENG-3130"
-  },
-  {
-    "name": "GENG-3201",
-    "code": "GENG-3201"
-  },
-  {
-    "name": "GENG-3300",
-    "code": "GENG-3300"
+    "name": "GENG-3400",
+    "code": "GENG-3400"
   },
   {
     "name": "GENG-3980",
     "code": "GENG-3980"
   },
   {
+    "name": "GENG-4300",
+    "code": "GENG-4300"
+  },
+  {
+    "name": "GENG-4500",
+    "code": "GENG-4500"
+  },
+  {
     "name": "GENG-4980",
     "code": "GENG-4980"
   },
   {
-    "name": "INDE-3020",
-    "code": "INDE-3020"
+    "name": "INDE-3150",
+    "code": "INDE-3150"
   },
   {
-    "name": "INDE-3120",
-    "code": "INDE-3120"
+    "name": "INDE-4000A",
+    "code": "INDE-4000A"
   },
   {
-    "name": "INDE-3130",
-    "code": "INDE-3130"
+    "name": "INDE-4130",
+    "code": "INDE-4130"
   },
   {
     "name": "INDE-4220",
     "code": "INDE-4220"
   },
   {
-    "name": "MECH-3211",
-    "code": "MECH-3211"
+    "name": "INDE-4280",
+    "code": "INDE-4280"
   },
   {
-    "name": "MECH-3212",
-    "code": "MECH-3212"
+    "name": "MECH-2210",
+    "code": "MECH-2210"
   },
   {
-    "name": "MECH-3223",
-    "code": "MECH-3223"
+    "name": "MECH-2230",
+    "code": "MECH-2230"
   },
   {
-    "name": "MECH-3233",
-    "code": "MECH-3233"
+    "name": "MECH-3221",
+    "code": "MECH-3221"
   },
   {
-    "name": "MECH-4212",
-    "code": "MECH-4212"
+    "name": "MECH-3224",
+    "code": "MECH-3224"
   },
   {
-    "name": "TRON-3201",
-    "code": "TRON-3201"
+    "name": "MECH-3671",
+    "code": "MECH-3671"
+  },
+  {
+    "name": "MECH-4200A",
+    "code": "MECH-4200A"
+  },
+  {
+    "name": "MECH-4218",
+    "code": "MECH-4218"
+  },
+  {
+    "name": "MECH-4221",
+    "code": "MECH-4221"
+  },
+  {
+    "name": "MECH-4240",
+    "code": "MECH-4240"
+  },
+  {
+    "name": "MECH-4253",
+    "code": "MECH-4253"
+  },
+  {
+    "name": "MECH-4258",
+    "code": "MECH-4258"
+  },
+  {
+    "name": "MECH-4463",
+    "code": "MECH-4463"
+  },
+  {
+    "name": "MECH-4465",
+    "code": "MECH-4465"
+  },
+  {
+    "name": "MECH-4471",
+    "code": "MECH-4471"
+  },
+  {
+    "name": "MECH-4670",
+    "code": "MECH-4670"
+  },
+  {
+    "name": "MECH-4673",
+    "code": "MECH-4673"
+  },
+  {
+    "name": "MECH-4871",
+    "code": "MECH-4871"
+  },
+  {
+    "name": "TRON-2201",
+    "code": "TRON-2201"
+  },
+  {
+    "name": "HKEX-4XXX",
+    "code": "HKEX-4XXX"
   },
   {
     "name": "KINE-4XXX",
@@ -1100,100 +1160,132 @@
     "code": "KINE-1000"
   },
   {
-    "name": "KINE-1110",
-    "code": "KINE-1110"
+    "name": "KINE-1330",
+    "code": "KINE-1330"
   },
   {
-    "name": "KINE-1200",
-    "code": "KINE-1200"
+    "name": "KINE-1400",
+    "code": "KINE-1400"
   },
   {
-    "name": "KINE-1560",
-    "code": "KINE-1560"
+    "name": "KINE-1500",
+    "code": "KINE-1500"
   },
   {
-    "name": "KINE-1650",
-    "code": "KINE-1650"
+    "name": "KINE-1660",
+    "code": "KINE-1660"
   },
   {
-    "name": "KINE-2240",
-    "code": "KINE-2240"
+    "name": "KINE-1800",
+    "code": "KINE-1800"
   },
   {
-    "name": "KINE-2250",
-    "code": "KINE-2250"
+    "name": "KINE-2040",
+    "code": "KINE-2040"
   },
   {
-    "name": "KINE-2500",
-    "code": "KINE-2500"
+    "name": "KINE-2100",
+    "code": "KINE-2100"
   },
   {
-    "name": "KINE-2520",
-    "code": "KINE-2520"
+    "name": "KINE-2150",
+    "code": "KINE-2150"
   },
   {
-    "name": "KINE-2700",
-    "code": "KINE-2700"
+    "name": "KINE-2300",
+    "code": "KINE-2300"
+  },
+  {
+    "name": "KINE-2450",
+    "code": "KINE-2450"
+  },
+  {
+    "name": "KINE-2600",
+    "code": "KINE-2600"
+  },
+  {
+    "name": "KINE-2620",
+    "code": "KINE-2620"
+  },
+  {
+    "name": "KINE-2690",
+    "code": "KINE-2690"
+  },
+  {
+    "name": "KINE-2850",
+    "code": "KINE-2850"
   },
   {
     "name": "KINE-2990",
     "code": "KINE-2990"
   },
   {
-    "name": "KINE-3020",
-    "code": "KINE-3020"
+    "name": "KINE-3010",
+    "code": "KINE-3010"
   },
   {
-    "name": "KINE-3150",
-    "code": "KINE-3150"
+    "name": "KINE-3100",
+    "code": "KINE-3100"
+  },
+  {
+    "name": "KINE-3330",
+    "code": "KINE-3330"
+  },
+  {
+    "name": "KINE-3400",
+    "code": "KINE-3400"
   },
   {
     "name": "KINE-3501",
     "code": "KINE-3501"
   },
   {
-    "name": "KINE-3600",
-    "code": "KINE-3600"
+    "name": "KINE-3570",
+    "code": "KINE-3570"
   },
   {
-    "name": "KINE-3610",
-    "code": "KINE-3610"
-  },
-  {
-    "name": "KINE-3630",
-    "code": "KINE-3630"
-  },
-  {
-    "name": "KINE-3920",
-    "code": "KINE-3920"
-  },
-  {
-    "name": "KINE-3970",
-    "code": "KINE-3970"
+    "name": "KINE-3770",
+    "code": "KINE-3770"
   },
   {
     "name": "KINE-3990",
     "code": "KINE-3990"
   },
   {
-    "name": "KINE-4050",
-    "code": "KINE-4050"
+    "name": "KINE-4100",
+    "code": "KINE-4100"
   },
   {
-    "name": "KINE-4330",
-    "code": "KINE-4330"
+    "name": "KINE-4420",
+    "code": "KINE-4420"
   },
   {
-    "name": "KINE-4410",
-    "code": "KINE-4410"
+    "name": "KINE-4500",
+    "code": "KINE-4500"
   },
   {
-    "name": "KINE-4660",
-    "code": "KINE-4660"
+    "name": "KINE-4510",
+    "code": "KINE-4510"
   },
   {
-    "name": "KINE-4670",
-    "code": "KINE-4670"
+    "name": "KINE-4590",
+    "code": "KINE-4590"
+  },
+  {
+    "name": "KINE-4600",
+    "code": "KINE-4600"
+  },
+  {
+    "name": "KINE-4610",
+    "code": "KINE-4610"
+  },
+  {
+    "name": "KINE-4650",
+    "code": "KINE-4650"
+  },
+  {
+    "name": "KINE-4710",
+    "code": "KINE-4710"
   },
   {
     "name": "KINE-4750",
@@ -1204,16 +1296,20 @@
     "code": "KINE-4760"
   },
   {
-    "name": "KINE-4780A",
-    "code": "KINE-4780A"
+    "name": "KINE-4780B",
+    "code": "KINE-4780B"
   },
   {
-    "name": "KINE-4850",
-    "code": "KINE-4850"
+    "name": "KINE-4800",
+    "code": "KINE-4800"
   },
   {
-    "name": "KINE-4920",
-    "code": "KINE-4920"
+    "name": "KINE-4900",
+    "code": "KINE-4900"
+  },
+  {
+    "name": "KINE-4930",
+    "code": "KINE-4930"
   },
   {
     "name": "KINE-4980",
@@ -1224,60 +1320,92 @@
     "code": "KINE-4990"
   },
   {
-    "name": "NURS-1110",
-    "code": "NURS-1110"
+    "name": "LAWS-2180",
+    "code": "LAWS-2180"
   },
   {
-    "name": "NURS-1210",
-    "code": "NURS-1210"
+    "name": "NURS-8XXX",
+    "code": "NURS-8XXX"
   },
   {
-    "name": "NURS-1511",
-    "code": "NURS-1511"
+    "name": "NURS-1120",
+    "code": "NURS-1120"
   },
   {
-    "name": "NURS-1612",
-    "code": "NURS-1612"
+    "name": "NURS-1220",
+    "code": "NURS-1220"
   },
   {
-    "name": "NURS-1900",
-    "code": "NURS-1900"
+    "name": "NURS-1310",
+    "code": "NURS-1310"
   },
   {
-    "name": "NURS-2320",
-    "code": "NURS-2320"
+    "name": "NURS-1410",
+    "code": "NURS-1410"
+  },
+  {
+    "name": "NURS-1512",
+    "code": "NURS-1512"
+  },
+  {
+    "name": "NURS-1521",
+    "code": "NURS-1521"
   },
   {
     "name": "NURS-2522",
     "code": "NURS-2522"
   },
   {
-    "name": "NURS-2810",
-    "code": "NURS-2810"
+    "name": "NURS-2532",
+    "code": "NURS-2532"
+  },
+  {
+    "name": "NURS-2541",
+    "code": "NURS-2541"
+  },
+  {
+    "name": "NURS-2622",
+    "code": "NURS-2622"
+  },
+  {
+    "name": "NURS-2820",
+    "code": "NURS-2820"
+  },
+  {
+    "name": "NURS-2920",
+    "code": "NURS-2920"
+  },
+  {
+    "name": "NURS-2930",
+    "code": "NURS-2930"
+  },
+  {
+    "name": "NURS-3130",
+    "code": "NURS-3130"
   },
   {
     "name": "NURS-3542",
     "code": "NURS-3542"
   },
   {
-    "name": "NURS-3551",
-    "code": "NURS-3551"
+    "name": "NURS-3552",
+    "code": "NURS-3552"
+  },
+  {
+    "name": "NURS-3561",
+    "code": "NURS-3561"
   },
   {
     "name": "NURS-3632",
     "code": "NURS-3632"
   },
   {
-    "name": "NURS-3830",
-    "code": "NURS-3830"
+    "name": "NURS-3840",
+    "code": "NURS-3840"
   },
   {
-    "name": "NURS-3940",
-    "code": "NURS-3940"
-  },
-  {
-    "name": "NURS-3960",
-    "code": "NURS-3960"
+    "name": "NURS-3970",
+    "code": "NURS-3970"
   },
   {
     "name": "NURS-4140",
@@ -1296,6 +1424,10 @@
     "code": "NURS-4572"
   },
   {
+    "name": "NURS-4951",
+    "code": "NURS-4951"
+  },
+  {
     "name": "NURS-4980",
     "code": "NURS-4980"
   },
@@ -1308,148 +1440,156 @@
     "code": "NURS-4999"
   },
   {
-    "name": "NURX-4XXX",
-    "code": "NURX-4XXX"
-  },
-  {
-    "name": "BIOM-1000",
-    "code": "BIOM-1000"
-  },
-  {
-    "name": "BIOM-1073",
-    "code": "BIOM-1073"
-  },
-  {
     "name": "BIOM-2021",
     "code": "BIOM-2021"
   },
   {
-    "name": "BIOM-3070",
-    "code": "BIOM-3070"
+    "name": "BIOM-2131",
+    "code": "BIOM-2131"
   },
   {
-    "name": "BIOM-3200",
-    "code": "BIOM-3200"
+    "name": "BIOM-3300",
+    "code": "BIOM-3300"
   },
   {
-    "name": "BIOM-3500",
-    "code": "BIOM-3500"
+    "name": "BIOM-3530",
+    "code": "BIOM-3530"
   },
   {
     "name": "BIOM-3540",
     "code": "BIOM-3540"
   },
   {
-    "name": "BIOM-3550",
-    "code": "BIOM-3550"
+    "name": "BIOM-3581B",
+    "code": "BIOM-3581B"
   },
   {
-    "name": "BIOM-3560",
-    "code": "BIOM-3560"
+    "name": "BIOM-3750",
+    "code": "BIOM-3750"
   },
   {
-    "name": "BIOM-3581A",
-    "code": "BIOM-3581A"
+    "name": "BIOM-4500",
+    "code": "BIOM-4500"
   },
   {
-    "name": "BIOM-4440",
-    "code": "BIOM-4440"
+    "name": "BIOM-4510",
+    "code": "BIOM-4510"
   },
   {
-    "name": "BIOM-4570",
-    "code": "BIOM-4570"
+    "name": "BIOM-4540",
+    "code": "BIOM-4540"
   },
   {
-    "name": "BIOM-4904A",
-    "code": "BIOM-4904A"
+    "name": "BIOM-4560",
+    "code": "BIOM-4560"
   },
   {
-    "name": "IHSC-1000",
-    "code": "IHSC-1000"
+    "name": "BIOM-4904B",
+    "code": "BIOM-4904B"
   },
   {
-    "name": "IHSC-3000",
-    "code": "IHSC-3000"
+    "name": "BIOM-4914B",
+    "code": "BIOM-4914B"
   },
   {
-    "name": "BIOC-3100",
-    "code": "BIOC-3100"
+    "name": "IHSC-4000",
+    "code": "IHSC-4000"
   },
   {
-    "name": "BIOC-3140",
-    "code": "BIOC-3140"
+    "name": "BIOC-2010",
+    "code": "BIOC-2010"
   },
   {
-    "name": "BIOC-3581A",
-    "code": "BIOC-3581A"
+    "name": "BIOC-2015",
+    "code": "BIOC-2015"
   },
   {
-    "name": "BIOC-4030",
-    "code": "BIOC-4030"
+    "name": "BIOC-3030",
+    "code": "BIOC-3030"
   },
   {
-    "name": "CHEM-1100",
-    "code": "CHEM-1100"
+    "name": "BIOC-3110",
+    "code": "BIOC-3110"
   },
   {
-    "name": "CHEM-2200",
-    "code": "CHEM-2200"
+    "name": "BIOC-3130",
+    "code": "BIOC-3130"
   },
   {
-    "name": "CHEM-2300",
-    "code": "CHEM-2300"
+    "name": "BIOC-3310",
+    "code": "BIOC-3310"
   },
   {
-    "name": "CHEM-2305",
-    "code": "CHEM-2305"
+    "name": "BIOC-3581B",
+    "code": "BIOC-3581B"
   },
   {
-    "name": "CHEM-2400",
-    "code": "CHEM-2400"
+    "name": "BIOC-4008",
+    "code": "BIOC-4008"
   },
   {
-    "name": "CHEM-2500",
-    "code": "CHEM-2500"
+    "name": "BIOC-4020",
+    "code": "BIOC-4020"
   },
   {
-    "name": "CHEM-3300",
-    "code": "CHEM-3300"
+    "name": "BIOC-4050",
+    "code": "BIOC-4050"
   },
   {
-    "name": "CHEM-3305",
-    "code": "CHEM-3305"
+    "name": "CHEM-1103",
+    "code": "CHEM-1103"
   },
   {
-    "name": "CHEM-3500",
-    "code": "CHEM-3500"
+    "name": "CHEM-1110",
+    "code": "CHEM-1110"
   },
   {
-    "name": "CHEM-3710",
-    "code": "CHEM-3710"
+    "name": "CHEM-1900",
+    "code": "CHEM-1900"
+  },
+  {
+    "name": "CHEM-2310",
+    "code": "CHEM-2310"
+  },
+  {
+    "name": "CHEM-2410",
+    "code": "CHEM-2410"
+  },
+  {
+    "name": "CHEM-2510",
+    "code": "CHEM-2510"
+  },
+  {
+    "name": "CHEM-3210",
+    "code": "CHEM-3210"
+  },
+  {
+    "name": "CHEM-3310",
+    "code": "CHEM-3310"
+  },
+  {
+    "name": "CHEM-3315",
+    "code": "CHEM-3315"
   },
   {
     "name": "CHEM-3909",
     "code": "CHEM-3909"
   },
   {
-    "name": "CHEM-4520",
-    "code": "CHEM-4520"
+    "name": "CHEM-4200",
+    "code": "CHEM-4200"
   },
   {
-    "name": "CHEM-4599",
-    "code": "CHEM-4599"
+    "name": "CHEM-4600",
+    "code": "CHEM-4600"
   },
   {
-    "name": "CHEM-4630",
-    "code": "CHEM-4630"
+    "name": "CHEM-4610",
+    "code": "CHEM-4610"
   },
   {
-    "name": "CHEM-4641",
-    "code": "CHEM-4641"
-  },
-  {
-    "name": "CHEM-4900A",
-    "code": "CHEM-4900A"
+    "name": "CHEM-4900B",
+    "code": "CHEM-4900B"
   },
   {
     "name": "CHEM-4908",
@@ -1492,16 +1632,16 @@
     "code": "COMP-2120"
   },
   {
+    "name": "COMP-2140",
+    "code": "COMP-2140"
+  },
+  {
     "name": "COMP-2310",
     "code": "COMP-2310"
   },
   {
     "name": "COMP-2540",
     "code": "COMP-2540"
-  },
-  {
-    "name": "COMP-2547",
-    "code": "COMP-2547"
   },
   {
     "name": "COMP-2560",
@@ -1512,10 +1652,6 @@
     "code": "COMP-2650"
   },
   {
-    "name": "COMP-2660",
-    "code": "COMP-2660"
-  },
-  {
     "name": "COMP-2707",
     "code": "COMP-2707"
   },
@@ -1524,56 +1660,64 @@
     "code": "COMP-2717"
   },
   {
-    "name": "COMP-2750",
-    "code": "COMP-2750"
+    "name": "COMP-2800",
+    "code": "COMP-2800"
   },
   {
     "name": "COMP-2980",
     "code": "COMP-2980"
   },
   {
-    "name": "COMP-3037",
-    "code": "COMP-3037"
-  },
-  {
     "name": "COMP-3057",
     "code": "COMP-3057"
   },
   {
-    "name": "COMP-3067",
-    "code": "COMP-3067"
+    "name": "COMP-3077",
+    "code": "COMP-3077"
   },
   {
-    "name": "COMP-3110",
-    "code": "COMP-3110"
+    "name": "COMP-3150",
+    "code": "COMP-3150"
   },
   {
     "name": "COMP-3220",
     "code": "COMP-3220"
   },
   {
-    "name": "COMP-3540",
-    "code": "COMP-3540"
+    "name": "COMP-3250",
+    "code": "COMP-3250"
   },
   {
-    "name": "COMP-3670",
-    "code": "COMP-3670"
+    "name": "COMP-3300",
+    "code": "COMP-3300"
   },
   {
-    "name": "COMP-3770",
-    "code": "COMP-3770"
+    "name": "COMP-3340",
+    "code": "COMP-3340"
+  },
+  {
+    "name": "COMP-3400",
+    "code": "COMP-3400"
+  },
+  {
+    "name": "COMP-3520",
+    "code": "COMP-3520"
+  },
+  {
+    "name": "COMP-3710",
+    "code": "COMP-3710"
   },
   {
     "name": "COMP-3980",
     "code": "COMP-3980"
   },
   {
-    "name": "COMP-4150",
-    "code": "COMP-4150"
+    "name": "COMP-4110",
+    "code": "COMP-4110"
   },
   {
-    "name": "COMP-4220",
-    "code": "COMP-4220"
+    "name": "COMP-4200",
+    "code": "COMP-4200"
   },
   {
     "name": "COMP-4250",
@@ -1588,16 +1732,20 @@
     "code": "COMP-4540"
   },
   {
-    "name": "COMP-4670",
-    "code": "COMP-4670"
+    "name": "COMP-4680",
+    "code": "COMP-4680"
   },
   {
-    "name": "COMP-4730",
-    "code": "COMP-4730"
+    "name": "COMP-4740",
+    "code": "COMP-4740"
   },
   {
-    "name": "COMP-4750",
-    "code": "COMP-4750"
+    "name": "COMP-4770",
+    "code": "COMP-4770"
+  },
+  {
+    "name": "COMP-4800",
+    "code": "COMP-4800"
   },
   {
     "name": "COMP-4960A",
@@ -1624,10 +1772,6 @@
     "code": "COMP-4990B"
   },
   {
-    "name": "ECON-1060",
-    "code": "ECON-1060"
-  },
-  {
     "name": "ECON-1100",
     "code": "ECON-1100"
   },
@@ -1636,88 +1780,112 @@
     "code": "ECON-1110"
   },
   {
+    "name": "ECON-2100",
+    "code": "ECON-2100"
+  },
+  {
+    "name": "ECON-2120",
+    "code": "ECON-2120"
+  },
+  {
     "name": "ECON-2210",
     "code": "ECON-2210"
   },
   {
-    "name": "ECON-2310",
-    "code": "ECON-2310"
+    "name": "ECON-2220",
+    "code": "ECON-2220"
   },
   {
-    "name": "ECON-2661",
-    "code": "ECON-2661"
+    "name": "ECON-2320",
+    "code": "ECON-2320"
   },
   {
-    "name": "ECON-3130",
-    "code": "ECON-3130"
+    "name": "ECON-2900",
+    "code": "ECON-2900"
   },
   {
-    "name": "ECON-3350",
-    "code": "ECON-3350"
+    "name": "ECON-3060",
+    "code": "ECON-3060"
   },
   {
-    "name": "ECON-3740",
-    "code": "ECON-3740"
+    "name": "ECON-3140",
+    "code": "ECON-3140"
   },
   {
-    "name": "ECON-4070",
-    "code": "ECON-4070"
+    "name": "ECON-3850",
+    "code": "ECON-3850"
   },
   {
-    "name": "ECON-4230",
-    "code": "ECON-4230"
+    "name": "ECON-4140",
+    "code": "ECON-4140"
   },
   {
-    "name": "ECON-4330",
-    "code": "ECON-4330"
+    "name": "ECON-4160",
+    "code": "ECON-4160"
   },
   {
-    "name": "ECON-4990",
-    "code": "ECON-4990"
+    "name": "ECON-4240",
+    "code": "ECON-4240"
   },
   {
-    "name": "FRSC-1000",
-    "code": "FRSC-1000"
+    "name": "ECON-4340",
+    "code": "ECON-4340"
   },
   {
     "name": "FRSC-1107",
     "code": "FRSC-1107"
   },
   {
-    "name": "FRSC-3010",
-    "code": "FRSC-3010"
+    "name": "FRSC-2007",
+    "code": "FRSC-2007"
   },
   {
-    "name": "FRSC-3105",
-    "code": "FRSC-3105"
+    "name": "FRSC-2101",
+    "code": "FRSC-2101"
   },
   {
-    "name": "FRSC-3111",
-    "code": "FRSC-3111"
+    "name": "FRSC-2190",
+    "code": "FRSC-2190"
   },
   {
-    "name": "FRSC-3201",
-    "code": "FRSC-3201"
+    "name": "FRSC-3101",
+    "code": "FRSC-3101"
+  },
+  {
+    "name": "FRSC-3217",
+    "code": "FRSC-3217"
+  },
+  {
+    "name": "FRSC-3231",
+    "code": "FRSC-3231"
   },
   {
     "name": "FRSC-4002",
     "code": "FRSC-4002"
   },
   {
-    "name": "FRSC-4018",
-    "code": "FRSC-4018"
+    "name": "FRSC-4120",
+    "code": "FRSC-4120"
   },
   {
-    "name": "FRSC-4207",
-    "code": "FRSC-4207"
+    "name": "FRSC-4201",
+    "code": "FRSC-4201"
   },
   {
-    "name": "FRSC-4900A",
-    "code": "FRSC-4900A"
+    "name": "FRSC-4202",
+    "code": "FRSC-4202"
   },
   {
-    "name": "SCIE-2700",
-    "code": "SCIE-2700"
+    "name": "FRSC-4217",
+    "code": "FRSC-4217"
+  },
+  {
+    "name": "FRSC-4900B",
+    "code": "FRSC-4900B"
+  },
+  {
+    "name": "SCIE-1000",
+    "code": "SCIE-1000"
   },
   {
     "name": "SCIE-3800",
@@ -1732,100 +1900,88 @@
     "code": "SCIX-4XXX"
   },
   {
-    "name": "BIOL-1101",
-    "code": "BIOL-1101"
+    "name": "BIOL-1111",
+    "code": "BIOL-1111"
   },
   {
-    "name": "BIOL-2040",
-    "code": "BIOL-2040"
+    "name": "BIOL-2050",
+    "code": "BIOL-2050"
   },
   {
-    "name": "BIOL-2063",
-    "code": "BIOL-2063"
+    "name": "BIOL-2071",
+    "code": "BIOL-2071"
   },
   {
-    "name": "BIOL-2080",
-    "code": "BIOL-2080"
+    "name": "BIOL-2480",
+    "code": "BIOL-2480"
   },
   {
-    "name": "BIOL-2101",
-    "code": "BIOL-2101"
+    "name": "BIOL-3212",
+    "code": "BIOL-3212"
   },
   {
-    "name": "BIOL-2111",
-    "code": "BIOL-2111"
+    "name": "BIOL-3230",
+    "code": "BIOL-3230"
   },
   {
-    "name": "BIOL-2142",
-    "code": "BIOL-2142"
+    "name": "BIOL-4008",
+    "code": "BIOL-4008"
   },
   {
-    "name": "BIOL-3022",
-    "code": "BIOL-3022"
+    "name": "BIOL-4262",
+    "code": "BIOL-4262"
   },
   {
-    "name": "BIOL-3201",
-    "code": "BIOL-3201"
+    "name": "BIOL-4450",
+    "code": "BIOL-4450"
   },
   {
-    "name": "BIOL-4212",
-    "code": "BIOL-4212"
+    "name": "BIOL-4570",
+    "code": "BIOL-4570"
   },
   {
-    "name": "BIOL-4241",
-    "code": "BIOL-4241"
+    "name": "BIOL-4904B",
+    "code": "BIOL-4904B"
   },
   {
-    "name": "BIOL-4270",
-    "code": "BIOL-4270"
+    "name": "BIOL-4914B",
+    "code": "BIOL-4914B"
   },
   {
-    "name": "BIOL-4280",
-    "code": "BIOL-4280"
+    "name": "ACSC-4030",
+    "code": "ACSC-4030"
   },
   {
-    "name": "BIOL-4904A",
-    "code": "BIOL-4904A"
+    "name": "ACSC-4980",
+    "code": "ACSC-4980"
   },
   {
-    "name": "BIOL-4914A",
-    "code": "BIOL-4914A"
-  },
-  {
-    "name": "ACSC-3980",
-    "code": "ACSC-3980"
-  },
-  {
-    "name": "ACSC-4981",
-    "code": "ACSC-4981"
+    "name": "MATH-1020",
+    "code": "MATH-1020"
   },
   {
     "name": "MATH-1250",
     "code": "MATH-1250"
   },
   {
-    "name": "MATH-1260",
-    "code": "MATH-1260"
+    "name": "MATH-1270",
+    "code": "MATH-1270"
   },
   {
     "name": "MATH-1720",
     "code": "MATH-1720"
   },
   {
+    "name": "MATH-1730",
+    "code": "MATH-1730"
+  },
+  {
     "name": "MATH-1760",
     "code": "MATH-1760"
   },
   {
-    "name": "MATH-1780",
-    "code": "MATH-1780"
-  },
-  {
     "name": "MATH-1980",
     "code": "MATH-1980"
-  },
-  {
-    "name": "MATH-2250",
-    "code": "MATH-2250"
   },
   {
     "name": "MATH-2780",
@@ -1836,124 +1992,104 @@
     "code": "MATH-2790"
   },
   {
-    "name": "MATH-3150",
-    "code": "MATH-3150"
+    "name": "MATH-3270",
+    "code": "MATH-3270"
   },
   {
-    "name": "MATH-3200",
-    "code": "MATH-3200"
+    "name": "MATH-3550",
+    "code": "MATH-3550"
   },
   {
-    "name": "MATH-3580",
-    "code": "MATH-3580"
+    "name": "MATH-3581",
+    "code": "MATH-3581"
   },
   {
-    "name": "MATH-3960",
-    "code": "MATH-3960"
+    "name": "MATH-3800",
+    "code": "MATH-3800"
   },
   {
-    "name": "MATH-4000",
-    "code": "MATH-4000"
+    "name": "MATH-4230",
+    "code": "MATH-4230"
   },
   {
-    "name": "MATH-4220",
-    "code": "MATH-4220"
-  },
-  {
-    "name": "MATH-4300",
-    "code": "MATH-4300"
-  },
-  {
-    "name": "MATH-4580",
-    "code": "MATH-4580"
+    "name": "MATH-4570",
+    "code": "MATH-4570"
   },
   {
     "name": "STAT-2910",
     "code": "STAT-2910"
   },
   {
-    "name": "STAT-2920",
-    "code": "STAT-2920"
+    "name": "STAT-3950",
+    "code": "STAT-3950"
   },
   {
-    "name": "STAT-3920",
-    "code": "STAT-3920"
+    "name": "STAT-3960",
+    "code": "STAT-3960"
   },
   {
-    "name": "STAT-4000",
-    "code": "STAT-4000"
+    "name": "STAT-4980",
+    "code": "STAT-4980"
   },
   {
-    "name": "STAT-4460",
-    "code": "STAT-4460"
+    "name": "PHYS-1010",
+    "code": "PHYS-1010"
   },
   {
-    "name": "STAT-4500",
-    "code": "STAT-4500"
-  },
-  {
-    "name": "STAT-4550",
-    "code": "STAT-4550"
-  },
-  {
-    "name": "STAT-4560",
-    "code": "STAT-4560"
-  },
-  {
-    "name": "PHYS-1000",
-    "code": "PHYS-1000"
-  },
-  {
-    "name": "PHYS-1300",
-    "code": "PHYS-1300"
-  },
-  {
-    "name": "PHYS-1305",
-    "code": "PHYS-1305"
+    "name": "PHYS-1310",
+    "code": "PHYS-1310"
   },
   {
     "name": "PHYS-1400",
     "code": "PHYS-1400"
   },
   {
+    "name": "PHYS-1410",
+    "code": "PHYS-1410"
+  },
+  {
+    "name": "PHYS-1500",
+    "code": "PHYS-1500"
+  },
+  {
     "name": "PHYS-2040",
     "code": "PHYS-2040"
   },
   {
-    "name": "PHYS-2100",
-    "code": "PHYS-2100"
+    "name": "PHYS-2210",
+    "code": "PHYS-2210"
   },
   {
-    "name": "PHYS-2200",
-    "code": "PHYS-2200"
+    "name": "PHYS-2500",
+    "code": "PHYS-2500"
   },
   {
     "name": "PHYS-2980",
     "code": "PHYS-2980"
   },
   {
-    "name": "PHYS-3100",
-    "code": "PHYS-3100"
-  },
-  {
-    "name": "PHYS-3500",
-    "code": "PHYS-3500"
-  },
-  {
-    "name": "PHYS-3600",
-    "code": "PHYS-3600"
+    "name": "PHYS-3910",
+    "code": "PHYS-3910"
   },
   {
     "name": "PHYS-3980",
     "code": "PHYS-3980"
   },
   {
-    "name": "PHYS-4710",
-    "code": "PHYS-4710"
+    "name": "PHYS-4100",
+    "code": "PHYS-4100"
   },
   {
-    "name": "PHYS-4900A",
-    "code": "PHYS-4900A"
+    "name": "PHYS-4130",
+    "code": "PHYS-4130"
+  },
+  {
+    "name": "PHYS-4600",
+    "code": "PHYS-4600"
+  },
+  {
+    "name": "PHYS-4900B",
+    "code": "PHYS-4900B"
   },
   {
     "name": "PHYS-4980",
@@ -1968,88 +2104,80 @@
     "code": "ESCI-1100"
   },
   {
-    "name": "ESCI-1130",
-    "code": "ESCI-1130"
+    "name": "ESCI-1151",
+    "code": "ESCI-1151"
   },
   {
-    "name": "ESCI-1141",
-    "code": "ESCI-1141"
+    "name": "ESCI-2000",
+    "code": "ESCI-2000"
   },
   {
-    "name": "ESCI-2020",
-    "code": "ESCI-2020"
+    "name": "ESCI-2010",
+    "code": "ESCI-2010"
   },
   {
-    "name": "ESCI-2131",
-    "code": "ESCI-2131"
-  },
-  {
-    "name": "ESCI-2141",
-    "code": "ESCI-2141"
+    "name": "ESCI-2210",
+    "code": "ESCI-2210"
   },
   {
     "name": "ESCI-2300",
     "code": "ESCI-2300"
   },
   {
-    "name": "ESCI-2600",
-    "code": "ESCI-2600"
+    "name": "ESCI-2400",
+    "code": "ESCI-2400"
   },
   {
-    "name": "ESCI-2701",
-    "code": "ESCI-2701"
+    "name": "ESCI-2421",
+    "code": "ESCI-2421"
   },
   {
-    "name": "ESCI-3310",
-    "code": "ESCI-3310"
+    "name": "ESCI-2711",
+    "code": "ESCI-2711"
   },
   {
-    "name": "ESCI-3701",
-    "code": "ESCI-3701"
+    "name": "ESCI-2721",
+    "code": "ESCI-2721"
   },
   {
-    "name": "ESCI-3735",
-    "code": "ESCI-3735"
+    "name": "ESCI-3610",
+    "code": "ESCI-3610"
   },
   {
-    "name": "ESCI-3761",
-    "code": "ESCI-3761"
-  },
-  {
-    "name": "ESCI-3801",
-    "code": "ESCI-3801"
-  },
-  {
-    "name": "ESCI-4301",
-    "code": "ESCI-4301"
+    "name": "ESCI-3771",
+    "code": "ESCI-3771"
   },
   {
     "name": "ESCI-4808",
     "code": "ESCI-4808"
   },
   {
-    "name": "ESCI-4900A",
-    "code": "ESCI-4900A"
+    "name": "ESCI-4900B",
+    "code": "ESCI-4900B"
   },
   {
-    "name": "ESCI-4911A",
-    "code": "ESCI-4911A"
+    "name": "ESCI-4911B",
+    "code": "ESCI-4911B"
   },
   {
     "name": "ESTU-1100",
     "code": "ESTU-1100"
   },
   {
-    "name": "ESTU-2100",
-    "code": "ESTU-2100"
+    "name": "ESTU-2500",
+    "code": "ESTU-2500"
   },
   {
     "name": "ESTU-4808",
     "code": "ESTU-4808"
   },
   {
-    "name": "ESTU-4900A",
-    "code": "ESTU-4900A"
+    "name": "ESTU-4900B",
+    "code": "ESTU-4900B"
+  },
+  {
+    "name": "ACCT-1510",
+    "code": "ACCT-1510"
   },
   {
     "name": "ACCT-2510",
@@ -2062,10 +2190,6 @@
   {
     "name": "ACCT-2550",
     "code": "ACCT-2550"
-  },
-  {
-    "name": "ACCT-3520",
-    "code": "ACCT-3520"
   },
   {
     "name": "ACCT-3560",
@@ -2100,6 +2224,10 @@
     "code": "ACCT-4610"
   },
   {
+    "name": "BUSN-2XXX",
+    "code": "BUSN-2XXX"
+  },
+  {
     "name": "BUSX-4XXX",
     "code": "BUSX-4XXX"
   },
@@ -2120,8 +2248,12 @@
     "code": "FINA-3710"
   },
   {
-    "name": "FINA-3730",
-    "code": "FINA-3730"
+    "name": "FINA-3720",
+    "code": "FINA-3720"
+  },
+  {
+    "name": "FINA-3790",
+    "code": "FINA-3790"
   },
   {
     "name": "FINA-4720",
@@ -2132,8 +2264,8 @@
     "code": "FINA-4740"
   },
   {
-    "name": "FINA-4780",
-    "code": "FINA-4780"
+    "name": "FINA-4910",
+    "code": "FINA-4910"
   },
   {
     "name": "MGMT-1000",
@@ -2144,48 +2276,64 @@
     "code": "MGMT-2400"
   },
   {
-    "name": "MGMT-2430",
-    "code": "MGMT-2430"
-  },
-  {
     "name": "MGMT-3000",
     "code": "MGMT-3000"
   },
   {
-    "name": "MGMT-3440",
-    "code": "MGMT-3440"
+    "name": "MGMT-3420",
+    "code": "MGMT-3420"
   },
   {
     "name": "MGMT-3830",
     "code": "MGMT-3830"
   },
   {
-    "name": "MGMT-4410",
-    "code": "MGMT-4410"
+    "name": "MGMT-4450",
+    "code": "MGMT-4450"
   },
   {
-    "name": "MGMT-4510",
-    "code": "MGMT-4510"
+    "name": "MGMT-4490",
+    "code": "MGMT-4490"
+  },
+  {
+    "name": "MGMT-4520",
+    "code": "MGMT-4520"
+  },
+  {
+    "name": "MGMT-4810",
+    "code": "MGMT-4810"
+  },
+  {
+    "name": "MGMT-4850",
+    "code": "MGMT-4850"
   },
   {
     "name": "MKTG-1310",
     "code": "MKTG-1310"
   },
   {
-    "name": "MKTG-2320",
-    "code": "MKTG-2320"
-  },
-  {
     "name": "MKTG-3320",
     "code": "MKTG-3320"
   },
   {
-    "name": "MKTG-4300",
-    "code": "MKTG-4300"
+    "name": "MKTG-3340",
+    "code": "MKTG-3340"
   },
   {
-    "name": "MKTG-4910",
-    "code": "MKTG-4910"
+    "name": "MKTG-4320",
+    "code": "MKTG-4320"
+  },
+  {
+    "name": "MKTG-4350",
+    "code": "MKTG-4350"
+  },
+  {
+    "name": "MKTG-4390",
+    "code": "MKTG-4390"
+  },
+  {
+    "name": "MKTG-4450",
+    "code": "MKTG-4450"
   },
   {
     "name": "MSCI-1000",
@@ -2204,16 +2352,24 @@
     "code": "MSCI-2200"
   },
   {
-    "name": "MSCI-3200",
-    "code": "MSCI-3200"
+    "name": "MSCI-2230",
+    "code": "MSCI-2230"
   },
   {
-    "name": "MSCI-3410",
-    "code": "MSCI-3410"
+    "name": "MSCI-2250",
+    "code": "MSCI-2250"
   },
   {
-    "name": "MSCI-4950",
-    "code": "MSCI-4950"
+    "name": "MSCI-3110",
+    "code": "MSCI-3110"
+  },
+  {
+    "name": "MSCI-3120",
+    "code": "MSCI-3120"
+  },
+  {
+    "name": "MSCI-3310",
+    "code": "MSCI-3310"
   },
   {
     "name": "STEN-1000",
@@ -2226,10 +2382,6 @@
   {
     "name": "STEN-2900",
     "code": "STEN-2900"
-  },
-  {
-    "name": "STEN-3050",
-    "code": "STEN-3050"
   },
   {
     "name": "STEN-3930",
